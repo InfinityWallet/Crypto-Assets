@@ -8,13 +8,16 @@
     "information": {
       "website": "https://tron.network/",
       "coinGeckoID": "tron",
+      "coinMarketCapID": "tron",
       "description": "The TRON Protocol, one of the largest blockchain-based operating systems in the world, offers public blockchain support of high throughput, high scalability, and high availability for all Decentralized Applications (DApps) in the TRON ecosystem.",
-      "explorer": "https://bscscan.com/token/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b"
+      "explorer": "https://bscscan.com/token/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+      "coinGecko": "https://www.coingecko.com/coins/tron/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/tron/"
     },
     "styles": {
       "color":"#b9272a",
       "button":"linear-gradient(to right,#d33336 0,#a51a1d 100%)",
-      "buttonHover":"linear-gradient(to right,#c32c30 0,#a21c1d 100%)",
+      "buttonHover":"linear-gradient(to right,#c32c30 0,#a21c1d 100%)"
     },
     "links": [
         {
