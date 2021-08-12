@@ -16,8 +16,10 @@
     },
     "styles": {
       "color":"#b9272a",
-      "button":"linear-gradient(to right,#d33336 0,#a51a1d 100%)",
-      "buttonHover":"linear-gradient(to right,#c32c30 0,#a21c1d 100%)"
+	  "button_a":"#d33336",
+	  "button_b":"#a51a1d",
+	  "hover_a":"#c32c30",
+	  "hover_b":"#a21c1d"
     },
     "links": [
         {
