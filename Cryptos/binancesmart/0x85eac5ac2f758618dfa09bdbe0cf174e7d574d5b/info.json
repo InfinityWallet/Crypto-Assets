@@ -16,10 +16,10 @@
     },
     "styles": {
       "color":"#b9272a",
-	  "button_a":"#d33336",
-	  "button_b":"#a51a1d",
-	  "hover_a":"#c32c30",
-	  "hover_b":"#a21c1d"
+      "button_a":"#d33336",
+      "button_b":"#a51a1d",
+      "hover_a":"#c32c30",
+      "hover_b":"#a21c1d"
     },
     "links": [
         {
