@@ -1,0 +1,46 @@
+{
+    "id": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+    "name": "SafeMoon",
+    "tag": "SAFEMOON",
+    "decimals": 9,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://safemoon.net/",
+      "coinGeckoID": "safemoon",
+      "coinMarketCapID": "safemoon",
+      "description": "The SafeMoon Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.",
+      "explorer": "https://bscscan.com/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+      "coinGecko": "https://www.coingecko.com/coins/safemoon/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/safemoon/"
+    },
+    "styles": {
+      "color":"#008a81",
+      "button_a":"#2dce89",
+      "button_b":"#6cecb6",
+      "hover_a":"#4bd499",
+      "hover_b":"#8ddcba"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/safemoon"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/safemoon"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/safemoonv2"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/safemoonprotocol"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/SafeMoon/"
+        }
+    ]
+}
