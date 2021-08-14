@@ -1,0 +1,34 @@
+{
+    "id": "0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+    "name": "IOTA",
+    "tag": "MIOTA",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "http://iota.org/",
+      "coinGeckoID": "iota",
+      "coinMarketCapID": "iota",
+      "description": "IOTA’s Tangle is an open, feeless and scalable distributed ledger, designed to support frictionless data and value transfer.",
+      "explorer": "https://bscscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+      "coinGecko": "https://www.coingecko.com/coins/iota/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/iota/"
+    },
+    "styles": {
+      "color":"#3E4D6A",
+      "button_a":"#3E4D6A",
+      "button_b":"#1A2A4C",
+      "hover_a":"#5a6a8b",
+      "hover_b":"#2a3f6c"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://reddit.com/r/Iota"
+        },
+        {
+            "name": "discord",
+            "url": "https://twitter.com/iota"
+        }
+    ]
+}
