@@ -4,13 +4,13 @@
     "tag": "USDT",
     "decimals": 6,
     "type": "token",
-    "tokenType": "BEP20",
+    "tokenType": "MATIC",
     "information": {
       "website": "https://tether.to/",
       "coinGeckoID": "tether",
       "coinMarketCapID": "tether",
       "description": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
-      "explorer": "https://polygonscan.com/token/0xd944f1d1e9d5f9bb90b62f9d45e447d989580782",
+      "explorer": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "coinGecko": "https://www.coingecko.com/coins/tether/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/tether/"
     },
