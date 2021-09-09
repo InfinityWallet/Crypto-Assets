@@ -25,4 +25,4 @@ Integration only requires a 2,500 Shard fee which is burned. This is to cover th
 - [ ] Add in your folder a svg and png version of your logo named "logo.svg" and "logo.png". The logos must have a transparnet background, be square and with a size of 512x512.
 - [ ] Create a pull request to the main repository
 - [ ] A payment address will be sent to pay the fee
-- [ ] When the payment has been received a member of the team will process the pull request and fill in the remaining information of the custom colors and create the custom logo version of your logo like [here](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg)  
+- [ ] When the payment has been received a member of the team will process the pull request and fill in the remaining information of the custom colors and create the custom logo version of your logo like [here](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg)  - [ ] Within 1-7 days your token will be merged into the repository.
