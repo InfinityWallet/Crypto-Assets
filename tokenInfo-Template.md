@@ -1,20 +1,6 @@
 # Info.json Template
 
-
-The following information is required to be filled in:
-- id
-- name
-- tag
-- decimals
-- type
-- tokenType
-
-- information
--- website
--- coinGeckoID (optional)
--- coinMarketCapID (optional)
-
-Below is a template example of the info.json file format
+Below is a template example of the info.json file format, further below you will find all possible options for information and what is required or optional.
 
 ```
 {
@@ -56,3 +42,47 @@ Below is a template example of the info.json file format
     ]
 }
 ```
+
+## Available data options
+
+The table below provide information on what information is required and optional, as well as what is supported.
+
+### Core Information (All required)
+
+| variable      | optional      | description                    | 
+| ------------- |:-------------:|:------------------------------:|
+| id            | NO            | contract address with checksum |
+| name          | NO            | token name                     |
+| tag           | NO            | token tag                      |
+| decimals      | NO            | tokens decimals                |
+| type          | NO            | is it a token or chain         |
+| tokenType     | NO            | is it CHAIN, ERC20 or BEP20    |
+
+### Information
+
+| variable          | optional       | description                      | 
+| -------------     |:--------------:|:--------------------------------:|
+| website           | NO             | link to your website             |
+| coinGeckoID       | YES            | your id on CoinGecko             | 
+| coinMarketCapID   | YES            | your id on CoinMarketCap         |
+| description       | NO             | describe your project in one sentence  |
+| explorer          | NO             | link to explorer |
+| coinGecko         | YES            | link to CoinGecko page |
+| coinMarketCap     | YES            | link to CoinMarketCap page |
+
+### Links
+
+| name          | optional      | 
+| ------------- |:-------------:|
+| twitter       | NO            |
+| discord       | YES           |
+| telegram      | YES           |
+| facebook      | YES           |
+| reddit        | YES           |
+| medium        | YES           |
+| github        | YES           |
+| youtube       | YES           |
+| github        | YES           |
+| github        | YES           |
+
+
