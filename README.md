@@ -29,7 +29,7 @@ There are 2 ways to get your token or project into the custom list, either via s
 
 - [ ] Fork the Github repository
 - [ ] Create a new folder for each chain you want to add to with your contract address in checksum format
-- [ ] Create in your folder a info.json file using the following [Template](https://github.com/InfinityWallet/Crypto-Assets/blob/main/tokenInfo-Template.md) and data options
+- [ ] Create in your folder a info.json file using the following [Template](https://github.com/InfinityWallet/Crypto-Assets/blob/main/Asset-Template.md) and see availave data options
 - [ ] Add in your folder a svg and png version of your logo named "logo.svg" and "logo.png". The logos must have a transparnet background, be square and with a size of 512x512.
 - [ ] Create a pull request to the main repository
 - [ ] A payment address will be sent to pay the fee
