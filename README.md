@@ -49,6 +49,6 @@ Fill in the following form and follow the process:
 
 
 ## Disclaimer
-We allow anyone to submit a new digital asset to be added to the repository, this does not mean we endorse or in any partnership with any of the projects listed here.
+We allow anyone to submit a new digital asset to be added to the repository, this does not mean we endorse or are in any partnership with any of the projects.
 
 We reserve the right to reject any projects without refund if they are deemed to be a scam on review. Additionally, the terms or fee may change from time to time depending on the market and as we deem fit.
