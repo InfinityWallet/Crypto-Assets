@@ -39,9 +39,8 @@ There are 2 ways to get your token or project into the custom list, either via s
 
 Fill in the following form and follow the process:
 
-- [ ] Download the "info.json" file template and fill in the information which relates to your project
-- [ ] Go to the form https://forms.gle/LSLmPP9RfWa39eg28 and fill in the information requested. When asked "What are you applying for?", make sure to select "Token Custom List Integration"
-- [ ] On section 2 of the form you will be requested to upload your info.json, along a svg and png version of your logo named "logo.svg" and "logo.png". The logos must have a transparnet background, be square and with a size of 512x512.
+- [ ] Go to the form https://forms.gle/LSLmPP9RfWa39eg28. When asked "What are you applying for?", make sure to select "Token Custom List Integration"
+- [ ] Fill in the information requested and available for your project, when uploading your logo you will need to provide a svg and png version of your logo named "logo.svg" and "logo.png". The logos must have a transparnet background, be square and with a size of 512x512.
 - [ ] Once the information has been submitted you will receive an email within 1-7 days with the payment address to send the fee
-- [ ] When the payment has been received a member of the team will process the pull request and fill in the remaining information of the custom colors and create the custom logo version of your logo like [here](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg)
+- [ ] When the payment has been received a member of the team will process your request, filling in the remaining information of the custom colors and create the custom logo version of your logo like [here](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg)
 - [ ] Within 1-7 days your token will be integrated and ready for use.
