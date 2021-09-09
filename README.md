@@ -8,7 +8,7 @@ Any chain or token can get their project added to the list with no requirments a
 
 ## Documentation
 
-For more information on adding a token, see the [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-custom-list-integration):
+For more information on adding a token, see the [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-custom-list-integration)
 
 
 ## Adding a token checklist
