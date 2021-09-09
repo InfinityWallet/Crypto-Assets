@@ -12,7 +12,7 @@ This allows any token to gain additional credibility and a professional feel whe
 
 ## Documentation
 
-For more information on adding a token, see the [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-custom-list-integration)
+For more information, see the [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-custom-list-integration)
 
 ## Submission Fee
 Integration only requires a one time **2,500 SHARD** fee which is burned. This is to cover the design costs for custom assets, along with the time/cost to check and verify projects information. Additionally, it ensures that projects integrating support the Infinity Wallet.
