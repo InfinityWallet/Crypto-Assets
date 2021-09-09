@@ -1,6 +1,22 @@
 # Info.json Template
 
 
+The following information is required to be filled in:
+- id
+- name
+- tag
+- decimals
+- type
+- tokenType
+
+- information
+-- website
+-- coinGeckoID (optional)
+-- coinMarketCapID (optional)
+
+Below is a template example of the info.json file format
+
+```
 {
     "id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
     "name": "Ethereum",
@@ -39,3 +55,4 @@
         }
     ]
 }
+```
