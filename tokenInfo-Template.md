@@ -82,7 +82,3 @@ The table below provide information on what information is required and optional
 | medium        | YES           |
 | github        | YES           |
 | youtube       | YES           |
-| github        | YES           |
-| github        | YES           |
-
-
