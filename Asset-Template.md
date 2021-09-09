@@ -45,7 +45,7 @@ Below is a template example of the **info.json** file format, further below you 
 
 ## Available data options
 
-The table below provide information on what information is required and optional, as well as what is supported.
+The table below explains which information is required or optional, as well as what is supported.
 
 ### Core Information (All required)
 
