@@ -46,3 +46,9 @@ Fill in the following form and follow the process:
 - [ ] Once the information has been submitted you will receive an email within 1-7 days with the payment address to send the fee
 - [ ] When the payment has been received a member of the team will process your request, filling in the remaining information of the custom colors and create the custom logo version of your logo like [here](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg)
 - [ ] Within 1-7 days your token will be integrated and ready for use.
+
+
+**Disclaimer**
+We allow anyone to submit a new digital asset to be added to the repository, this does not mean we endorse or in any partnership with any of the projects listed here.
+
+We reserve the right to reject any projects without refund if they are deemed to be a scam on review. Additionally, the terms or fee may change from time to time depending on the market and as we deem fit.
