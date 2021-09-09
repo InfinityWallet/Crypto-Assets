@@ -1,6 +1,6 @@
 # Info.json Template
 
-Below is a template example of the info.json file format, further below you will find all possible options for information and what is required or optional.
+Below is a template example of the **info.json** file format, further below you will find all possible options for information and what is required or optional.
 
 ```
 {
