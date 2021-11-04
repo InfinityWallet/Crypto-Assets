@@ -1,0 +1,46 @@
+{
+    "id": "0xd8a1734945b9ba38eb19a291b475e31f49e59877",
+    "name": "Shard",
+    "tag": "SHARD",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://shardcoin.io/",
+      "coinGeckoID": "shard",
+      "coinMarketCapID": "shard",
+      "description": "Shard is designed to be a secure and decentralised open source digital currency, focusing on performance, security and fast low-cost transactions. Partnered with large scale projects aiming to revolutionize the future of multiple industries.",
+      "explorer": "https://bscscan.com/token/0xd8a1734945b9ba38eb19a291b475e31f49e59877",
+      "coinGecko": "https://coinmarketcap.com/currencies/shard/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/shard/"
+    },
+    "styles": {
+      "color":"#00abff",
+      "button_a":"#00b0ff",
+      "button_b":"#0061ff",
+      "hover_a":"#0699da",
+      "hover_b":"#0c5ee2"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/shardcoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/infinity_shard"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/SgNjKzF"
+        },
+        {
+            "name": "reddit",
+            "url": "https://twitter.com/shardcoin"
+        },
+        {
+            "name":"facebook",
+            "url":"https://www.facebook.com/shardcoin/"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "name": "Binance Coin",
+    "tag": "BNB",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.binance.com/",
+      "coinGeckoID": "binancecoin",
+      "coinMarketCapID": "binance-coin",
+      "description": "Binance Coin is the native coin of Binance Chain and Binance Smart Chain, BNB has multiple uses: fueling transactions on the Chains and Binance DEX, paying for transaction fees on Binance Exchange, making in-store payments, and many more. Additionally Binance frequently burns an amount of BNB collected from their exchange fees.",
+      "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+      "coinGecko": "https://www.coingecko.com/coins/binance-coin",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/binance-coin/"
+    },
+    "styles": {
+      "color":"#efc710",
+      "button_a":"#f3d212",
+      "button_b":"#e9b81c",
+      "hover_a":"#e4c511",
+      "hover_b":"#dea516"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/binance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BinanceExchange"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/binanceexchange"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/binanceexchange"
+        },
+        {
+            "name":"facebook",
+            "url":"https://www.facebook.com/binance"
+        }
+    ]
+}

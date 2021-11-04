@@ -24,11 +24,11 @@
     "links": [
         {
             "name": "twitter",
-            "url": "https://reddit.com/r/Iota"
+            "url": "https://twitter.com/iota"
         },
         {
-            "name": "discord",
-            "url": "https://twitter.com/iota"
+            "name": "reddit",
+            "url": "https://reddit.com/r/Iota"
         }
     ]
 }

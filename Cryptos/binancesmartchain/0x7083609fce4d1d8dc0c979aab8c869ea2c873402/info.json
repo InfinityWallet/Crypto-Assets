@@ -1,0 +1,42 @@
+{
+    "id": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+    "name": "Polkadot",
+    "tag": "DOT",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://polkadot.network/",
+      "coinGeckoID": "polkadot",
+      "coinMarketCapID": "polkadot-new",
+      "description": "Polkadot is a new generation scalable and interoperable blockchain protocol. Enabling multiple blockchains called Parachains to run independently within one network, in a decentralized environment goverened by Polkadot holders.",
+      "explorer": "https://bscscan.com/token/0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "coinGecko": "https://www.coingecko.com/coins/polkadot/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/polkadot-new/"
+    },
+    "styles": {
+      "color":"#fc4da2",
+      "button_a":"#fe67b3",
+      "button_b":"#ff3291",
+      "hover_a":"#ff5aac",
+      "hover_b":"#f52c89"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Polkadot"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PolkadotOfficial"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/dot/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/polkadot-network"
+        }
+    ]
+}

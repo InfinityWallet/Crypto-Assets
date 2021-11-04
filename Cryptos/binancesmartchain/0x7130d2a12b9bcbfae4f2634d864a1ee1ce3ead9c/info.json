@@ -1,0 +1,38 @@
+{
+    "id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "name": "Bitcoin BEP2",
+    "tag": "BTCB",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://bitcoin.org/en/",
+      "coinGeckoID": "bitcoin-bep2",
+      "coinMarketCapID": "bitcoin-bep2",
+      "description": "Bitcoin BEP2 is a wrapped version on the Binance Smart Chain. Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.",
+      "explorer": "https://bscscan.com/token/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "coinGecko": "https://www.coingecko.com/coins/bitcoin-bep2",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/bitcoin-bep2/"
+    },
+    "styles": {
+      "color":"#f49916",
+      "button_a":"#f3b412",
+      "button_b":"#e08f11",
+      "hover_a":"#eba61b",
+      "hover_b":"#d68615"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/search?q=bitcoin"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Bitcoin/"
+        },
+        {
+            "name":"facebook",
+            "url":"https://www.facebook.com/hashtag/bitcoin"
+        }
+    ]
+}
