@@ -1,0 +1,38 @@
+{
+    "id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "name": "PancakeSwap",
+    "tag": "CAKE",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://pancakeswap.finance/",
+      "coinGeckoID": "pancakeswap-token",
+      "coinMarketCapID": "pancakeswap",
+      "description": "PancakeSwap is a food-themed DeFi protocol and token version of UniSwap, deployed on the the Binance Smart Chain for governance of the protocol and to reward holders. The PancakeSwap platform uses automated market making and has a range of ways for users to create income streams from their tokens by providing to the platform.",
+      "explorer": "https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "coinGecko": "https://coinmarketcap.com/currencies/pancakeswap/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/pancakeswap/"
+    },
+    "styles": {
+      "color":"#e3a069",
+      "button_a":"#e6a16c",
+      "button_b":"#d3703a",
+      "hover_a":"#c78c60",
+      "hover_b":"#c36735"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pancakeswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PancakeSwap"
+        },
+        {
+            "name": "medium",
+            "url": "https://pancakeswap.medium.com/"
+        }
+    ]
+}
