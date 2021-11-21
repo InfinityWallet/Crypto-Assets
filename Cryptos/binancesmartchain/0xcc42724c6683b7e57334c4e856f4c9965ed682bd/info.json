@@ -1,0 +1,46 @@
+{
+    "id": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+    "name": "Polygon",
+    "tag": "MATIC",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://polygon.technology/",
+      "coinGeckoID": "matic-network",
+      "coinMarketCapID": "polygon",
+      "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.",
+      "explorer": "https://bscscan.com/token/0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+      "coinGecko": "https://coinmarketcap.com/currencies/polygon/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/polygon/"
+    },
+    "styles": {
+      "color":"#9c72e5",
+      "button_a":"#9f75e8",
+      "button_b":"#5a31a5",
+      "hover_a":"#9066da",
+      "hover_b":"#5830a0"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/0xPolygon"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/maticnetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/polygon"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/0xPolygon/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/matic-network"
+        }
+    ]
+}
