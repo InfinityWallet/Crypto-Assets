@@ -1,0 +1,38 @@
+{
+    "id": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+    "name": "Basic Attention Token",
+    "tag": "BAT",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://basicattentiontoken.org/",
+      "coinGeckoID": "basic-attention-token",
+      "coinMarketCapID": "basic-attention-token",
+      "description": "Basic Attention Token (BAT) is the native utility token of Brave, a free, open-source web browser built to provide you with a faster, safer, more private, and more equitable internet browsing experience, where users earn BAT for viewing ads.",
+      "explorer": "https://polygonscan.com/token/0x3cef98bb43d732e2f285ee605a8158cde967d219",
+      "coinGecko": "https://coinmarketcap.com/currencies/basic-attention-token/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/basic-attention-token/"
+    },
+    "styles": {
+      "color":"#c54235",
+      "button_a":"#e44918",
+      "button_b":"#6e2e89",
+      "hover_a":"#cf3e10",
+      "hover_b":"#5f2279"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/attentiontoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/batproject"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/BATProject"
+        }
+    ]
+}
