@@ -1,16 +1,16 @@
 {
-    "id": "0x767b28a30e3a15dcece7bff7a020adfde9d19cf8",
+    "id": "0xd38b1159c8aee064af2d869afa1c2c1632da8b97",
     "name": "Metrix",
-    "tag": "MRXb",
+    "tag": "MRXe",
     "decimals": 8,
     "type": "token",
-    "tokenType": "BEP20",
+    "tokenType": "ERC20",
     "information": {
       "website": "https://www.metrixcoin.com/",
       "coinGeckoID": "linda",
       "coinMarketCapID": "metrix-coin",
       "description": "Metrix is a digital currency that focuses on bringing ease-of-use to the forefront of the Digital Asset age - Building products that focus on utility, as well as making it easy for the Vendor to be able to accept payments, no matter what business they run.",
-      "explorer": "https://bscscan.com/token/0x767b28a30e3a15dcece7bff7a020adfde9d19cf8",
+      "explorer": "https://etherscan.io/token/0xd38b1159c8aee064af2d869afa1c2c1632da8b97",
       "coinGecko": "https://www.coingecko.com/coins/metrix-coin/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/metrix-coin/"
     },
