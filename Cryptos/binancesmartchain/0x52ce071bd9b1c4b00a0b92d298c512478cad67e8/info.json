@@ -1,0 +1,42 @@
+{
+    "id": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+    "name": "Compound",
+    "tag": "COMP",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://compound.finance/",
+      "coinGeckoID": "compound-governance-token",
+      "coinMarketCapID": "compound",
+      "description": "Compound Finance is an algorithmic, open-source protocol that allows for the creation of money markets on the Ethereum blockchain. Individuals and institutions are able to earn interest on digital assets that they supply to the protocol. Whilst those that are seeking to borrow digital assets can do so directly from the protocol itself, without having to negotiate with a counterparty.",
+      "explorer": "https://bscscan.com/token/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "coinGecko": "https://coinmarketcap.com/currencies/compound/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/compound/"
+    },
+    "styles": {
+      "color":"#20ce92",
+      "button_a":"#13e3a2",
+      "button_b":"#28c088",
+      "hover_a":"#14d196",
+      "hover_b":"#32b07b"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/compoundfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://compound.finance/discord"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Compound/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/compound-finance"
+        }
+    ]
+}
