@@ -1,0 +1,38 @@
+{
+    "id": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "name": "Dai",
+    "tag": "DAI",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://makerdao.com/",
+      "coinGeckoID": "dai",
+      "coinMarketCapID": "multi-collateral-dai",
+      "description": "Dai is a stable coin cryptocurrency which aims to keep its value as close as possible to one USD through an automated system of smart contracts on the Ethereum blockchain. Dai is maintained and regulated by MakerDAO, a decentralized autonomous organization (DAO) composed of the owners of its governance token MKR who may vote on changes to certain parameters in its smart contracts in order to ensure the stability of Dai.",
+      "explorer": "https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+      "coinGecko": "https://coinmarketcap.com/currencies/dai/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/multi-collateral-dai/"
+    },
+    "styles": {
+      "color":"#f6a733",
+      "button_a":"#fac74b",
+      "button_b":"#f49727",
+      "hover_a":"#e8b536",
+      "hover_b":"#e88b19"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MakerDAO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/makerdaoOfficial"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/MakerDAO/"
+        }
+    ]
+}
