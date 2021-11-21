@@ -1,0 +1,47 @@
+{
+    "id": "0x767b28a30e3a15dcece7bff7a020adfde9d19cf8",
+    "id_name":"metrix",
+    "name": "Metrix",
+    "tag": "MRXb",
+    "decimals": 8,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://www.metrixcoin.com/",
+      "coinGeckoID": "linda",
+      "coinMarketCapID": "metrix-coin",
+      "description": "Metrix is a digital currency that focuses on bringing ease-of-use to the forefront of the Digital Asset age - Building products that focus on utility, as well as making it easy for the Vendor to be able to accept payments, no matter what business they run.",
+      "explorer": "https://bscscan.com/token/0x767b28a30e3a15dcece7bff7a020adfde9d19cf8",
+      "coinGecko": "https://www.coingecko.com/coins/metrix-coin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/metrix-coin/"
+    },
+    "styles": {
+      "color":"#714171",
+      "button_a":"#5a325a",
+      "button_b":"#451a45",
+      "hover_a":"#512d51",
+      "hover_b":"#3a183a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MetrixCoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/officialmetrixcoin"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/5nwrTwJ"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@Metrix"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Linda_Project_Inc/"
+        }
+    ]
+}
