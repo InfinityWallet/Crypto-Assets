@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:url(#SVGID_2_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="77.2169" y1="1249.1785" x2="114.5087" y2="1249.1785" gradientTransform="matrix(0 1 1 0 -1229.1785 -76.0419)">
+	<stop  offset="1.198744e-03" style="stop-color:#6747ED"/>
+	<stop  offset="1" style="stop-color:#3A1DAB"/>
+</linearGradient>
+<path class="st0" d="M37,26.1V13.5c0-2.1-1.1-4.1-3-5.2L23,2c-1.9-1.1-4.1-1.1-6,0L6,8.3c-1.9,1.1-3,3.1-3,5.2v12.6
+	c0,2.1,1.1,4.1,3,5.2l11,6.3c1.9,1.1,4.1,1.1,6,0l11-6.3C35.8,30.2,37,28.3,37,26.1z"/>
+<g id="Symbols">
+	<g id="Global-_x2F_-Footer---Basic" transform="translate(-708.000000, -74.000000)">
+		<g id="Icons-_x2F_-Logos-_x2F_-The-Graph" transform="translate(704.000000, 72.000000)">
+			<path id="Fill-19" class="st1" d="M22.8,23.2c-2.7,0-4.9-2.2-4.9-4.8s2.2-4.8,4.9-4.8c2.7,0,4.9,2.2,4.9,4.8S25.5,23.2,22.8,23.2
+				 M28,26c0.5-0.5,1.2-0.5,1.7,0c0.5,0.5,0.5,1.2,0,1.7l0,0l-4.9,4.8c-0.5,0.5-1.2,0.5-1.7,0c-0.5-0.5-0.5-1.2,0-1.7l0,0L28,26z
+				 M22.8,11.1c4,0,7.3,3.2,7.3,7.3s-3.3,7.3-7.3,7.3s-7.3-3.2-7.3-7.3S18.8,11.1,22.8,11.1z M31.3,11.1c0.7,0,1.2,0.5,1.2,1.2
+				c0,0.7-0.5,1.2-1.2,1.2c-0.7,0-1.2-0.5-1.2-1.2C30.1,11.7,30.6,11.1,31.3,11.1z"/>
+		</g>
+	</g>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="18.7857" y1="11.5162" x2="18.7857" y2="21.2414">
+	<stop  offset="1.198744e-03" style="stop-color:#6747ED"/>
+	<stop  offset="1" style="stop-color:#3A1DAB"/>
+</linearGradient>
+<circle class="st2" cx="18.8" cy="16.4" r="4.9"/>
+</svg>

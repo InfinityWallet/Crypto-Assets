@@ -1,0 +1,42 @@
+{
+    "id": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+    "name": "The Graph",
+    "tag": "GRT",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://thegraph.com/",
+      "coinGeckoID": "the-graph",
+      "coinMarketCapID": "the-graph",
+      "description": "The Graph is an indexing protocol for querying networks like Ethereum and IPFS. Anyone can build and publish open APIs, called subgraphs, making data easily accessible.The Graph is a decentralized indexing protocol for querying EVM networks like Ethereum, Binance Smart Chain and Polygon. The Graph protocol allows anyone to build and publish open APIs, called subgraphs, making data easily accessible to all.",
+      "explorer": "https://polygonscan.com/token/0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+      "coinGecko": "https://coinmarketcap.com/currencies/the-graph/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/the-graph/"
+    },
+    "styles": {
+      "color":"#7356f1",
+      "button_a":"#6646ec",
+      "button_b":"#4325b8",
+      "hover_a":"#5b3cda",
+      "hover_b":"#3b1eaf"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/graphprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/graphprotocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/vtvv7FP"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/thegraph/"
+        }
+    ]
+}
