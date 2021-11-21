@@ -1,0 +1,42 @@
+{
+    "id": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "name": "Amp",
+    "tag": "AMP",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://amptoken.org/",
+      "coinGeckoID": "amp-token",
+      "coinMarketCapID": "amp",
+      "description": "Amp is a universal collateral token designed to facilitate fast and efficient transfers for any real-world application with instant, verifiable assurance. By serving as collateral for asset transfers, Amp provides speed without compromising on security.",
+      "explorer": "https://etherscan.io/token/0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "coinGecko": "https://coinmarketcap.com/currencies/amp/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/amp/"
+    },
+    "styles": {
+      "color":"#d62d79",
+      "button_a":"#e665ad",
+      "button_b":"#db3187",
+      "hover_a":"#dd54a0",
+      "hover_b":"#e12a85"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/amptoken"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/T4EY6yx"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/AMPToken/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/amptoken"
+        }
+    ]
+}
