@@ -1,0 +1,46 @@
+{
+    "id": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+    "name": "Aave",
+    "tag": "AAVE",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://aave.com/",
+      "coinGeckoID": "aave",
+      "coinMarketCapID": "aave",
+      "description": "Aave is a DeFi lending protocol that enables users to lend and borrow a diverse range of cryptocurrencies using both stable and variable interest rates. In addition to the typical features seen on protocols like Compound, Aave includes notable distinguishing features such as uncollateralized loans, rate switching, flash loans and other unique collateral types.",
+      "explorer": "https://polygonscan.com/token/0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "coinGecko": "https://coinmarketcap.com/currencies/aave/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/aave/"
+    },
+    "styles": {
+      "color":"#4f93b7",
+      "button_a":"#36bac6",
+      "button_b":"#b6509e",
+      "hover_a":"#25a5b1",
+      "hover_b":"#a94491"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aaveaave"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Aavesome"
+        },
+        {
+            "name": "discord",
+            "url": "https://aave.com/discord"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Aave_Official/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/aave"
+        }
+    ]
+}
