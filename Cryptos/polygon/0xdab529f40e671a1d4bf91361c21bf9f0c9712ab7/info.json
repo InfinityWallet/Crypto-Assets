@@ -1,0 +1,46 @@
+{
+    "id": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+    "name": "Binance USD",
+    "tag": "BUSD",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://www.paxos.com/busd/",
+      "coinGeckoID": "binance-usd",
+      "coinMarketCapID": "binance-usd",
+      "description": "Binance USD (BUSD) is a USD pegged 1:1 stablecoin approved by the New York State Department of Financial Services (NYDFS) that is launched in partnership with Paxos and Binance on Ethereum and the Binance Smart Chain to allow the transfer of dollars anywhere in minutes.",
+      "explorer": "https://polygonscan.com/token/0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+      "coinGecko": "https://www.coingecko.com/coins/binance-usd",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/binance-usd/"
+    },
+    "styles": {
+      "color":"#efc710",
+      "button_a":"#f3d212",
+      "button_b":"#e9b81c",
+      "hover_a":"#e4c511",
+      "hover_b":"#dea516"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/binance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BinanceExchange"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/binance"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/binanceexchange"
+        },
+        {
+            "name":"medium",
+            "url":"https://medium.com/binanceexchange"
+        }
+    ]
+}
