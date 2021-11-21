@@ -1,0 +1,42 @@
+{
+    "id": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+    "name": "Shiba Inu",
+    "tag": "SHIB",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://shibatoken.com/",
+      "coinGeckoID": "shiba-inu",
+      "coinMarketCapID": "shiba-inu",
+      "description": "Shiba Inu is a decentralized meme token that started out as the Ethereum Dogecoin Killer, but since then it has grown into a vibrant ecosystem with the launch of it's decentralized exchange ShibaSwap bringing additional utility to Shiba Inu.",
+      "explorer": "https://bscscan.com/token/0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+      "coinGecko": "https://www.coingecko.com/coins/shiba-inu",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/shiba-inu/"
+    },
+    "styles": {
+      "color":"#e44313",
+      "button_a":"#fbaf13",
+      "button_b":"#e13414",
+      "hover_a":"#e49d09",
+      "hover_b":"#d82a0a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/shibtoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/shibainuthedogecoinkiller"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/shibatoken"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/SHIBArmy/"
+        }
+    ]
+}
