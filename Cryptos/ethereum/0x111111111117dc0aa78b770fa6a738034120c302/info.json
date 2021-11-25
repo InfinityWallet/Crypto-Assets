@@ -1,0 +1,46 @@
+{
+    "id": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "name": "1inch",
+    "tag": "1INCH ",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://1inch.io/",
+      "coinGeckoID": "1inch",
+      "coinMarketCapID": "1inch",
+      "description": "1inch is an Ethereum token that powers the 1inch protocols, a decentralized exchange that aims to offer the best rates by discovering the most efficient swapping routes across decentralized exchange on Ethereum and the Binance Smart Chain.",
+      "explorer": "https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302",
+      "coinGecko": "https://coinmarketcap.com/currencies/1inch/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/1inch/"
+    },
+    "styles": {
+      "color":"#94a6c3",
+      "button_a":"#bbc8de",
+      "button_b":"#8193b0",
+      "hover_a":"#abbad3",
+      "hover_b":"#72829d"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/1inchNetwork"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OneInchNetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/1inch"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/1inch/"
+        },
+        {
+            "name": "medium",
+            "url": "https://blog.1inch.io/"
+        }
+    ]
+}
