@@ -1,0 +1,34 @@
+{
+    "id": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+    "name": "Reserve Rights",
+    "tag": "RSR",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://reserve.org/",
+      "coinGeckoID": "reserve-rights-token",
+      "coinMarketCapID": "reserve-rights",
+      "description": "The Reserve Right Token (RSR) is used on the Reserve protocol to maintain the price stability of the Reserve token (RSV), additionally the Reserve Rights Token is also used as a governance token for the Reserve Project that seeks to create a stable, decentralized and asset-backed digital currency system.",
+      "explorer": "https://etherscan.io/token/0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+      "coinGecko": "https://coinmarketcap.com/currencies/reserve-rights-token/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/reserve-rights/"
+    },
+    "styles": {
+      "color":"#585e73",
+      "button_a":"#40434e",
+      "button_b":"#21232d",
+      "hover_a":"#383b46",
+      "hover_b":"#1d1f29"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/reserveprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/reservecurrency"
+        }
+    ]
+}
