@@ -1,0 +1,42 @@
+{
+    "id": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "name": "Ocean",
+    "tag": "OCEAN",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://oceanprotocol.com/",
+      "coinGeckoID": "ocean-protocol",
+      "coinMarketCapID": "ocean-protocol",
+      "description": "Ocean Protocol is a decentralized data exchange protocol to unlock data for AI. Through blockchain technology, smart contracts, and tokens, Ocean Protocol connects data providers and consumers, allowing data to be shared while guaranteeing traceability, transparency, and trust for all stakeholders involved. It allows data owners to give value to and have control over their data assets without being locked-in to any single marketplace.",
+      "explorer": "https://etherscan.io/token/0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+      "coinGecko": "https://coinmarketcap.com/currencies/ocean-protocol/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/ocean-protocol/"
+    },
+    "styles": {
+      "color":"#5b667f",
+      "button_a":"#424c63",
+      "button_b":"#262e44",
+      "hover_a":"#394258",
+      "hover_b":"#20293f"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/oceanprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OceanProtocol_Community"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/TnXjkR5"
+        },
+        {
+            "name": "medium",
+            "url": "https://blog.oceanprotocol.com/"
+        }
+    ]
+}
