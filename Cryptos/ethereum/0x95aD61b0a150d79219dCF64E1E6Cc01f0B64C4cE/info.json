@@ -1,5 +1,5 @@
 {
-    "id": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "id": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "name": "Shiba Inu",
     "tag": "SHIB",
     "decimals": 18,
@@ -10,7 +10,7 @@
       "coinGeckoID": "shiba-inu",
       "coinMarketCapID": "shiba-inu",
       "description": "Shiba Inu is a decentralized meme token that started out as the Ethereum Dogecoin Killer, but since then it has grown into a vibrant ecosystem with the launch of it's decentralized exchange ShibaSwap bringing additional utility to Shiba Inu.",
-      "explorer": "https://etherscan.io/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "explorer": "https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
       "coinGecko": "https://www.coingecko.com/coins/shiba-inu",
       "coinMarketCap": "https://coinmarketcap.com/currencies/shiba-inu/"
     },

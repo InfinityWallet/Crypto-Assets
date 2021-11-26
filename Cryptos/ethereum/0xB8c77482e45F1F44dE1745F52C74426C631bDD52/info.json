@@ -1,5 +1,5 @@
 {
-    "id": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "id": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
     "name": "Binance Coin",
     "tag": "BNB",
     "decimals": 18,
@@ -10,7 +10,7 @@
       "coinGeckoID": "binancecoin",
       "coinMarketCapID": "binance-coin",
       "description": "Binance Coin is the native coin of Binance Chain and Binance Smart Chain, BNB has multiple uses: fueling transactions on the Chains and Binance DEX, paying for transaction fees on Binance Exchange, making in-store payments, and many more. Additionally Binance frequently burns an amount of BNB collected from their exchange fees.",
-      "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+      "explorer": "https://etherscan.io/token/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
       "coinGecko": "https://www.coingecko.com/coins/binance-coin",
       "coinMarketCap": "https://coinmarketcap.com/currencies/binance-coin/"
     },
