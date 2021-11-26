@@ -11,7 +11,7 @@
       "coinMarketCapID": "harmony",
       "description": "Harmony (ONE) is a decentralized blockchain platform designed for high scalability and decentralization to deliver high throughput accompanied by low latency and low fees utilizing Sharding technology.",
       "explorer": "https://explorer.harmony.one/",
-      "coinGecko": "https://www.coingecko.com/coins/harmony",
+      "coinGecko": "https://www.coingecko.com/coins/harmony/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/harmony/"
     },
     "styles": {

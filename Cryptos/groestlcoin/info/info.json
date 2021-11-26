@@ -1,0 +1,46 @@
+{
+    "id": "groestlcoin",
+    "name": "Groestlcoin",
+    "tag": "GRS",
+    "decimals": 8,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://www.groestlcoin.org/",
+      "coinGeckoID": "groestlcoin",
+      "coinMarketCapID": "groestlcoin",
+      "description": "Groestlcoin is a peer-to-peer secure, privacy oriented and decentralized cryptocurrency with near-zero fees that use proof of work consensus. Since its launch in 2014, Groestlcoin has focused on several advancements, it was the first cryptocurrency to activate Segwit and is Lightning Network ready.",
+      "explorer": "https://blockbook.groestlcoin.org/",
+      "coinGecko": "https://www.coingecko.com/coins/groestlcoin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/groestlcoin/"
+    },
+    "styles": {
+      "color":"#0096ae",
+      "button_a":"#04b2cc",
+      "button_b":"#077690",
+      "hover_a":"#059db5",
+      "hover_b":"#00708a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GroestlcoinTeam"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/groestl"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/vCKxQBz"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/groestlcoin/"
+        },
+        {
+            "name":"facebook",
+            "url":"https://www.facebook.com/groestlcoin/"
+        }
+    ]
+}
