@@ -1,5 +1,5 @@
 {
-    "id": "0xbb4cdb9Cbd36b01bd1cbaebf2de08d9173bc095c",
+    "id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
     "name": "Wrapped BNB",
     "tag": "WBNB",
     "decimals": 18,
@@ -10,7 +10,7 @@
       "coinGeckoID": "binancecoin",
       "coinMarketCapID": "binance-coin",
       "description": "Binance Coin is the native coin of Binance Chain and Binance Smart Chain, BNB has multiple uses: fueling transactions on the Chains and Binance DEX, paying for transaction fees on Binance Exchange, making in-store payments, and many more. Additionally Binance frequently burns an amount of BNB collected from their exchange fees.",
-      "explorer": "https://bscscan.com/token/0xbb4cdb9Cbd36b01bd1cbaebf2de08d9173bc095c",
+      "explorer": "https://bscscan.com/token/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "coinGecko": "https://www.coingecko.com/coins/binance-coin",
       "coinMarketCap": "https://coinmarketcap.com/currencies/binance-coin/"
     },
