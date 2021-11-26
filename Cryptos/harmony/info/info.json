@@ -15,11 +15,11 @@
       "coinMarketCap": "https://coinmarketcap.com/currencies/harmony/"
     },
     "styles": {
-      "color":"#efc710",
-      "button_a":"#f3d212",
-      "button_b":"#e9b81c",
-      "hover_a":"#e4c511",
-      "hover_b":"#dea516"
+      "color":"#49e2ca",
+      "button_a":"#69fabd",
+      "button_b":"#00aee9",
+      "hover_a":"#39f5a7",
+      "hover_b":"#059cd9"
     },
     "links": [
         {
