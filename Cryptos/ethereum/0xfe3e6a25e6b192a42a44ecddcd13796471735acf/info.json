@@ -1,0 +1,38 @@
+{
+    "id": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+    "name": "Reef Finance",
+    "tag": "REEF",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://reef.finance/",
+      "coinGeckoID": "reef-finance",
+      "coinMarketCapID": "reef",
+      "description": "Reef is the First DeFi Blockchain on Substrate for DeFi Applications of the Future and significantly lowers the entry barrier for first-time investors, who might otherwise have a difficult time navigating through the labyrinth of the DeFi world.",
+      "explorer": "https://etherscan.io/token/0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+      "coinGecko": "https://coinmarketcap.com/currencies/reef-finance/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/reef/"
+    },
+    "styles": {
+      "color":"#c128b1",
+      "button_a":"#ce3ea7",
+      "button_b":"#af16d9",
+      "hover_a":"#b93595",
+      "hover_b":"#9b16bf"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ReefDeFi"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/ReefDeFi/"
+        },
+        {
+            "name": "medium",
+            "url": "https://reefdefi.medium.com/"
+        }
+    ]
+}
