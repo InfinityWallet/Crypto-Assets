@@ -1,0 +1,42 @@
+{
+    "id": "0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba",
+    "name": "BarterTrade",
+    "tag": "BART",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://bartertrade.io/",
+      "coinGeckoID": "bartertrade",
+      "coinMarketCapID": "bartertrade",
+      "description": "Conveniently access your BarterTrade from home or on the go. Simply click to share your address, request an amount via QR code or social media, or make day to day payments with no hidden fees.",
+      "explorer": "https://etherscan.io/token/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba",
+      "coinGecko": "https://coinmarketcap.com/currencies/bartertrade/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/bartertrade/"
+    },
+    "styles": {
+      "color":"#2c7d75",
+      "button_a":"#24806c",
+      "button_b":"#135055",
+      "hover_a":"#207468",
+      "hover_b":"#104750"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bartertradeio"
+        },
+        {
+            "name": "telegram",
+            "url": "https://twitter.com/bartertradeio"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/bartertradeio"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/bartertrade"
+        }
+    ]
+}

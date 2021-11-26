@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#D8D8D8;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#F0F0F0;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="167.4169" y1="-1117.3243" x2="204.7086" y2="-1117.3243" gradientTransform="matrix(0 1 -1 0 -1097.1785 -166.0419)">
+	<stop  offset="1.198744e-03" style="stop-color:#FF5000"/>
+	<stop  offset="1" style="stop-color:#662D91"/>
+</linearGradient>
+<path class="st0" d="M37.1,26.3V13.7c0-2.1-1.1-4.1-3-5.2l-11-6.3c-1.9-1.1-4.1-1.1-6,0l-11,6.3c-1.9,1.1-3,3.1-3,5.2v12.6
+	c0,2.1,1.1,4.1,3,5.2l11,6.3c1.9,1.1,4.1,1.1,6,0l11-6.3C35.9,30.4,37.1,28.5,37.1,26.3z"/>
+<title>Asset 1</title>
+<polygon class="st1" points="24.7,24.1 24.7,24.1 16.1,24.1 16.1,24.1 9.8,27.7 30.8,27.6 "/>
+<polygon class="st2" points="20.4,16.9 20.4,16.9 20.4,9.6 9.8,27.7 16.1,24.1 "/>
+<polygon class="st3" points="24.7,24.1 30.8,27.6 20.4,9.6 20.4,17 "/>
+</svg>
