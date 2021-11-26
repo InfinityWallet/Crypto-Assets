@@ -1,0 +1,42 @@
+{
+    "id": "cardano",
+    "name": "Cardano",
+    "tag": "ADA",
+    "decimals": 6,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://cardano.org",
+      "coinGeckoID": "cardano",
+      "coinMarketCapID": "cardano",
+      "description": "Cardano is a decentralised public blockchain and cryptocurrency project which is fully open source.Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach.",
+      "explorer": "https://cardanoexplorer.com/",
+      "coinGecko": "https://www.coingecko.com/coins/cardano/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/cardano/"
+    },
+    "styles": {
+      "color":"#3c6883",
+      "button_a":"#39637d",
+      "button_b":"#26485d",
+      "hover_a":"#335870",
+      "hover_b":"#25465a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cardano"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CardanoAnnouncements"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/cardano"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/groups/CardanoCommunity"
+        }
+    ]
+}

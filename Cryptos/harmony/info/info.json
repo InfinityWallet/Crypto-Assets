@@ -1,0 +1,46 @@
+{
+    "id": "harmony",
+    "name": "Harmony",
+    "tag": "ONE",
+    "decimals": 18,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://www.harmony.one/",
+      "coinGeckoID": "harmony",
+      "coinMarketCapID": "harmony",
+      "description": "Harmony (ONE) is a decentralized blockchain platform designed for high scalability and decentralization to deliver high throughput accompanied by low latency and low fees utilizing Sharding technology.",
+      "explorer": "https://explorer.harmony.one/",
+      "coinGecko": "https://www.coingecko.com/coins/harmony",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/harmony/"
+    },
+    "styles": {
+      "color":"#efc710",
+      "button_a":"#f3d212",
+      "button_b":"#e9b81c",
+      "hover_a":"#e4c511",
+      "hover_b":"#dea516"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/harmonyprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/harmony_one"
+        },
+        {
+            "name": "discord",
+            "url": "https://discordapp.com/invite/rdCmBpe"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/harmony_one"
+        },
+        {
+            "name":"facebook",
+            "url":"https://www.facebook.com/binance"
+        }
+    ]
+}

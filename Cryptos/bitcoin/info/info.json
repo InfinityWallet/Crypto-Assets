@@ -1,0 +1,38 @@
+{
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "tag": "BTC",
+    "decimals": 8,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://bitcoin.org/",
+      "coinGeckoID": "bitcoin",
+      "coinMarketCapID": "bitcoin",
+      "description": "Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network. Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and everyone can take part.",
+      "explorer": "https://www.blockchain.com/explorer/",
+      "coinGecko": "https://coinmarketcap.com/currencies/bitcoin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/bitcoin/"
+    },
+    "styles": {
+      "color":"#f49916",
+      "button_a":"#f3b412",
+      "button_b":"#e08f11",
+      "hover_a":"#eba61b",
+      "hover_b":"#d68615"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/search?q=bitcoin"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/hashtag/bitcoin"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Bitcoin/"
+        }
+    ]
+}

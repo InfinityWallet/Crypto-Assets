@@ -1,0 +1,42 @@
+{
+    "id": "xrp",
+    "name": "XRP",
+    "tag": "XRP",
+    "decimals": 6,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://ripple.com/xrp/",
+      "coinGeckoID": "ripple",
+      "coinMarketCapID": "xrp",
+      "description": "XRP is a digital asset built for fast sourcing of liquidity for cross-border payments, it is more faster, less costly and more scalable than most other digital assets. XRP and the XRP Ledger are used to power innovative technology across the payments space.",
+      "explorer": "https://xrpscan.com/",
+      "coinGecko": "https://www.coingecko.com/coins/xrp/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/xrp/"
+    },
+    "styles": {
+      "color":"#535f77",
+      "button_a":"#38445b",
+      "button_b":"#303948",
+      "hover_a":"#333d52",
+      "hover_b":"#2c3442"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Ripple"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Ripple"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/ripplepay"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Ripple/"
+        }
+    ]
+}

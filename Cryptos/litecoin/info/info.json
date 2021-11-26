@@ -1,0 +1,38 @@
+{
+    "id": "litecoin",
+    "name": "Litecoin",
+    "tag": "LTC",
+    "decimals": 8,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://litecoin.org/",
+      "coinGeckoID": "litecoin",
+      "coinMarketCapID": "litecoin",
+      "description": "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. It is an open source, global payment network that is fully decentralized without any central authorities, and a proven medium of commerce.",
+      "explorer": "https://blockchair.com/litecoin/",
+      "coinGecko": "https://www.coingecko.com/coins/litecoin",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/litecoin/"
+    },
+    "styles": {
+      "color":"#3f6aac",
+      "button_a":"#3963a3",
+      "button_b":"#274980",
+      "hover_a":"#335b96",
+      "hover_b":"#244376"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LitecoinProject"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Litecoin"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/litecoin/"
+        }
+    ]
+}

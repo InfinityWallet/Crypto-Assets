@@ -1,16 +1,16 @@
 {
-    "id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "id": "ethereum",
     "name": "Ethereum",
     "tag": "ETH",
     "decimals": 18,
-    "type": "token",
-    "tokenType": "BEP20",
+    "type": "coin",
+    "tokenType": "",
     "information": {
       "website": "https://ethereum.org/",
       "coinGeckoID": "ethereum",
       "coinMarketCapID": "ethereum",
       "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality supporting thousands of Dapps and DeFi protocols.",
-      "explorer": "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "explorer": "https://etherscan.io/",
       "coinGecko": "https://www.coingecko.com/coins/ethereum/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/ethereum/"
     },

@@ -1,0 +1,34 @@
+{
+    "id": "dogecoin",
+    "name": "Dogecoin",
+    "tag": "DOGE",
+    "decimals": 8,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://dogecoin.com/",
+      "coinGeckoID": "dogecoin",
+      "coinMarketCapID": "dogecoin",
+      "description": "Dogecoin (DOGE) is a peer-to-peer, decentralized cryptocurrency. It is considered an altcoin and an almost sarcastic meme coin. Launched in Dec. 2013, Dogecoin has the image of a Shiba Inu dog as its logo, it started as something of a joke, but after it was created, it started to gain a strong following.",
+      "explorer": "https://blockchair.com/dogecoin/",
+      "coinGecko": "https://www.coingecko.com/coins/dogecoin",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/dogecoin/"
+    },
+    "styles": {
+      "color":"#ceb23f",
+      "button_a":"#cfb33f",
+      "button_b":"#9a8634",
+      "hover_a":"#bfa437",
+      "hover_b":"#837330"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dogecoin"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/dogecoin"
+        }
+    ]
+}
