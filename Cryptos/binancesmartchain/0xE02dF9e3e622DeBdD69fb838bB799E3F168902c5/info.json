@@ -1,0 +1,38 @@
+{
+    "id": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "name": "BakerySwap",
+    "tag": "BAKE",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://www.bakeryswap.org/",
+      "coinGeckoID": "bakerytoken",
+      "coinMarketCapID": "bakerytoken",
+      "description": "BakerySwap is a food-themed DeFi protocol and token version of UniSwap, deployed on the the Binance Smart Chain for governance of the protocol and to reward holders. The BakerySwap platform is a marketplace to buy & sell NFTs and an exchange using automated market making, with a range of ways for users to earn from staking.",
+      "explorer": "https://bscscan.com/token/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "coinGecko": "https://coinmarketcap.com/currencies/bakeryswap/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/bakerytoken/"
+    },
+    "styles": {
+      "color":"#d28844",
+      "button_a":"#eca851",
+      "button_b":"#b96337",
+      "hover_a":"#d7994a",
+      "hover_b":"#b35b2f"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bakery_swap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bakeryswap"
+        },
+        {
+            "name": "medium",
+            "url": "https://bakeryswap.medium.com/"
+        }
+    ]
+}
