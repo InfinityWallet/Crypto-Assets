@@ -1,0 +1,38 @@
+{
+    "id": "0x64d3638a7d8747eee7bd5d402cc5f5bd00dc27dc",
+    "name": "sYSL",
+    "tag": "sYSL",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://ysl.io/",
+      "coinGeckoID": "ysl-io",
+      "coinMarketCapID": "ysl-sysl",
+      "description": "sYSL is the governance token for the YSL protocol which is a DeFi protocol designed to optimise and amplify the returns from yield farming platforms, whilst maximising the benefits of locked liquidity to create a truly unparalleled token economy.",
+      "explorer": "https://bscscan.com/token/0x64d3638a7d8747eee7bd5d402cc5f5bd00dc27dc",
+      "coinGecko": "https://coinmarketcap.com/currencies/ysl-io/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/ysl-sysl/"
+    },
+    "styles": {
+      "color":"#8f7bde",
+      "button_a":"#1cd5f3",
+      "button_b":"#e531a6",
+      "hover_a":"#14abce",
+      "hover_b":"#c51e8b"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ysl_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ysl_io"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/ysl_io/"
+        }
+    ]
+}
