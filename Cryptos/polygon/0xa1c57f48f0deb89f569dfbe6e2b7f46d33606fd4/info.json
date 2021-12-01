@@ -1,0 +1,38 @@
+{
+    "id": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+    "name": "Decentraland",
+    "tag": "MANA",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://decentraland.org/",
+      "coinGeckoID": "decentraland",
+      "coinMarketCapID": "decentraland",
+      "description": "Decentraland is a decentralized virtual reality platform powered by the Ethereum blockchain. Within the Decentraland platform, users can create, experience, and monetize their content and applications using MANA which is the digital asset token used to pay for goods and services in Decentraland.",
+      "explorer": "https://polygonscan.com/token/0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+      "coinGecko": "https://coinmarketcap.com/currencies/decentraland/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/decentraland/"
+    },
+    "styles": {
+      "color":"#ff4b56",
+      "button_a":"#ffbc5b",
+      "button_b":"#ff2d55",
+      "hover_a":"#fdb141",
+      "hover_b":"#ff214a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/decentraland"
+        },
+        {
+            "name": "discord",
+            "url": "https://dcl.gg/discord"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/decentraland"
+        }
+    ]
+}
