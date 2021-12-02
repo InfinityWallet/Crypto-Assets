@@ -1,0 +1,46 @@
+{
+    "id": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+    "name": "Change NOW",
+    "tag": "NOW",
+    "decimals": 8,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://changenow.io/",
+      "coinGeckoID": "changenow",
+      "coinMarketCapID": "now-token",
+      "description": "ChangeNOW is a non-custodial cryptocurrency instant exchange service that allows you to switch more than 30,000 cryptocurrency pairs without any limits and registration. The NOW token is used throughout NOW products as a utility token.",
+      "explorer": "https://etherscan.io/token/0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+      "coinGecko": "https://coinmarketcap.com/currencies/changenow/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/now-token/"
+    },
+    "styles": {
+      "color":"#27ca8c",
+      "button_a":"#35dda0",
+      "button_b":"#0aa363",
+      "hover_a":"#1ad591",
+      "hover_b":"#029556"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ChangeNOW_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/changeNOW_chat"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/ChangeNOW_io/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/ChangeNOW.io/"
+        },
+        {
+            "name": "medium",
+            "url": "https://changenow-io.medium.com/"
+        }
+    ]
+}
