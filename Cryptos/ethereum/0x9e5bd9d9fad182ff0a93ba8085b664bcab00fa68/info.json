@@ -1,0 +1,42 @@
+{
+    "id": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
+    "name": "Dinger",
+    "tag": "DINGER",
+    "decimals": 9,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.schrodingertoken.com/",
+      "coinGeckoID": "dinger-token",
+      "coinMarketCapID": "dinger-token",
+      "description": "Dinger Token is a community-driven project that hopes to provide the kind of purr-fectly amazing, enthusiastic joy that DOGE, SHIB and others have for crypto investors. With the goal to provide the average person access to launching meme tokens and creating their own unique environments that will help their memes succeed.",
+      "explorer": "https://etherscan.io/token/0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
+      "coinGecko": "https://coinmarketcap.com/currencies/dinger-token/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/dinger-token/"
+    },
+    "styles": {
+      "color":"#ba593f",
+      "button_a":"#b95e39",
+      "button_b":"#723923",
+      "hover_a":"#b15632",
+      "hover_b":"#70331b"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dingertoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/dingertoken"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/schrodinger/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/u426hmda5T"
+        }
+    ]
+}
