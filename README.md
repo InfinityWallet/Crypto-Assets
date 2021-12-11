@@ -17,7 +17,7 @@ For more information on how to be integrated [click here](https://docs.shardcoin
 ## Submission Fee
 Integration only requires a **3,500 SHARD** fee which is burned or alternatively **1.5 BNB** is also accepted. This is to cover the design costs for custom assets, along with the time/cost to check a project's information. Additionally, it ensures that projects integrating support the ecosystem.
 
-**Note:** If a token wants to update their information in the future, an update request will need to be made. There is a small fee of **1,500 SHARD** which is burned or alternatively **0.75 BNB** required each time an update is requested. This is to better validate the request and cover the time/cost involved in reviewing the project information & merging efforts.
+**Note:** If a token wants to update their information in the future, an update request will need to be made. There is a small fee of **1,750 SHARD** which is burned or alternatively **0.75 BNB** required each time an update is requested. This is to better validate the request and cover the time/cost involved in reviewing the project information & merging efforts.
 
 
 ## Adding a token
