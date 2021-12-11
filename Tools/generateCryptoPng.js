@@ -41,43 +41,23 @@ async function GenerateInit(arg){
 
         if(chain.length !== 0){
 
-          if (checkIfContainsOnly("info", chain) === true){
+          for (const tokensFolder of chain) {
 
-            if(checkIfFileExists('./'+mainFolder+'/'+chainsFolder+'/info/'+infoFolderSvg) === true){
+            if(checkIfFileExists('./'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg) === true){
 
               if (arg === "missing") {
-                if(checkIfFileExists('./'+mainFolder+'/'+chainsFolder+'/info/'+infoFolderPng) === false){
-                  await convertSvgToPng(chainsFolder, chain, './'+mainFolder+'/'+chainsFolder+'/info/'+infoFolderSvg, './'+mainFolder+'/'+chainsFolder+'/info/'+infoFolderPng);
+                if(checkIfFileExists('./'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderPng) === false){
+                  await convertSvgToPng(chainsFolder, tokensFolder, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderPng)
                 }
               } else {
-                await convertSvgToPng(chainsFolder, chain, './'+mainFolder+'/'+chainsFolder+'/info/'+infoFolderSvg, './'+mainFolder+'/'+chainsFolder+'/info/'+infoFolderPng);
+                await convertSvgToPng(chainsFolder, tokensFolder, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderPng)
               }
 
             } else {
               //SVG Error Array
-              errorsSvg.push("./"+mainFolder+"/"+chainsFolder+"/info/"+infoFolderSvg);
+              errorsSvg.push('./'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg);
             }
 
-          } else {
-
-            for (const tokensFolder of chain) {
-
-              if(checkIfFileExists('./'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg) === true){
-
-                if (arg === "missing") {
-                  if(checkIfFileExists('./'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderPng) === false){
-                    await convertSvgToPng(chainsFolder, tokensFolder, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderPng)
-                  }
-                } else {
-                  await convertSvgToPng(chainsFolder, tokensFolder, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg, './'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderPng)
-                }
-
-              } else {
-                //SVG Error Array
-                errorsSvg.push('./'+mainFolder+'/'+chainsFolder+'/'+tokensFolder+'/'+infoFolderSvg);
-              }
-
-            }
           }
 
         } else {
@@ -107,11 +87,6 @@ function checkIfFileExists(file){
   } else {
     return true;
   }
-}
-
-//Check if exists in the array and is the only one(s)
-function checkIfContainsOnly(checkingArray, checkAgainstArray){
-  return checkAgainstArray.every(elem => checkingArray.includes(elem))
 }
 
 //Generate the PNG from the SVG file
