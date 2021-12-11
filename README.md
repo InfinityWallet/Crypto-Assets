@@ -12,7 +12,7 @@ This allows any token to gain additional credibility and a professional feel whe
 
 ## Documentation
 
-For more information, see the [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-custom-list-integration)
+For more information on how to be integrated or on how to be Whitelisted to gain additional awareness/marketing, benefits and default enabled, see the [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-whitelisting)
 
 ## Submission Fee
 Integration only requires a **3,500 SHARD** fee which is burned or alternatively **2 BNB** is also accepted. This is to cover the design costs for custom assets, along with the time/cost to check a project's information. Additionally, it ensures that projects integrating support the ecosystem.
