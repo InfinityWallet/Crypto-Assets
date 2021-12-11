@@ -1,14 +1,14 @@
 # Infinity Wallet Crypto Information
 
 ## Overview
-This repository contains a collection of information from chains and tokens, allowing projects to receive custom styles and further information, visible when imported by a user into the Infinity Wallet and other platforms.
+This repository contains a collection of information from chains and tokens, allowing projects to add their logo, receive custom styles and further information, visible when imported by a user into the Infinity Wallet and other platforms using this repository.
 
 This allows any token to gain additional credibility and a professional feel when manually imported across the ecosystem, while providing them with:
 - Custom designed logo of the token.
 - Custom color within the Infinity Wallet.
 - Fiat price display for the token within the Infinity Wallet.
 - Coin info section themed style in the Infinity Wallet.
-
+- Instantly tradable via DeFi aggragted swaps on ETH, BSC and POLYGON (Coming Soon).
 
 ## Documentation
 
@@ -17,7 +17,7 @@ For more information, see the [Documentation](https://docs.shardcoin.io/contact-
 ## Submission Fee
 Integration only requires a **3,500 SHARD** fee which is burned or alternatively **2 BNB** is also accepted. This is to cover the design costs for custom assets, along with the time/cost to check a project's information. Additionally, it ensures that projects integrating support the ecosystem.
 
-**Note:** If a token wants to update their information in the future, an update request will need to be made. There is a small fee of **1,000 SHARD** which is burned or alternatively **1 BNB** required each time an update is requested. This is to better validate the request and cover the time/cost involved in reviewing the project information & merging efforts.
+**Note:** If a token wants to update their information in the future, an update request will need to be made. There is a small fee of **1,500 SHARD** which is burned or alternatively **0.75 BNB** required each time an update is requested. This is to better validate the request and cover the time/cost involved in reviewing the project information & merging efforts.
 
 
 ## Adding a token
@@ -25,7 +25,6 @@ Integration only requires a **3,500 SHARD** fee which is burned or alternatively
 There are 2 ways to get your token or project into the custom list, either via submitting a pull request or filling in the submission form.
 
 ### Option 1 - Pull Request
-
 
 - [ ] Fork the Github repository
 - [ ] Create a new folder for each chain you want to add to with your contract address in checksum format
