@@ -1,7 +1,7 @@
 {
     "id": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
     "name": "WolfSafePoorPeople",
-    "tag": "ETH",
+    "tag": "WSPP",
     "decimals": 0,
     "type": "token",
     "tokenType": "BEP20",
