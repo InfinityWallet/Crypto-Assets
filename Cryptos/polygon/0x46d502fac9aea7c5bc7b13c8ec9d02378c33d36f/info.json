@@ -1,0 +1,50 @@
+{
+    "id": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
+    "name": "WolfSafePoorPeople",
+    "tag": "WSPP",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://wolfsafepoorpeople.com/",
+      "coinGeckoID": "wolfsafepoorpeople-polygon"
+      "coinMarketCapID": "wolf-safe-poor-people-polygon",
+      "description": "WSPP is the native BEP20/ERC20/PRC20/KRC20 token from Wolf Safe Poor People that powers its ecosystem on both the Binance Smart Chain and Multichain.",
+      "explorer": "https://polygonscan.com/token/0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
+      "coinGecko": "https://www.coingecko.com/en/coins/wolfsafepoorpeople-polygon/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/wolf-safe-poor-people-polygon/"
+    },
+    "styles": {
+      "color":"#94a6c3",
+      "button_a":"#bbc8de",
+      "button_b":"#8193b0",
+      "hover_a":"#abbad3",
+      "hover_b":"#72829d"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/robowolf8"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/robowolfproject"
+        },
+        {
+            "name":"facebook",
+            "url":"https://web.facebook.com/RoboWolf89"
+        },
+	{
+            "name":"medium",
+            "url":"https://robowolf89.medium.com/"
+        },
+	{
+            "name":"discord",
+            "url":"https://discord.gg/FcbKCR9M"
+        },
+	{
+            "name":"github",
+            "url":"https://github.com/wolfsafepoorpeople"
+        },
+    ]
+}
