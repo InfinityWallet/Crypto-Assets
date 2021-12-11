@@ -56,7 +56,7 @@ The table below explains which information is required or optional, as well as w
 | tag           | NO            | token tag                      |
 | decimals      | NO            | tokens decimals                |
 | type          | NO            | is it a token or chain         |
-| tokenType     | NO            | is it CHAIN, ERC20 or BEP20    |
+| tokenType     | NO            | is it CHAIN, ERC20, BEP20, MATIC or HRC20    |
 
 ### Information
 
