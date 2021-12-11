@@ -32,7 +32,7 @@ There are 2 ways to get your token or project into the custom list, either via s
 - [ ] Create in your folder a info.json file using the following [Template](https://github.com/InfinityWallet/Crypto-Assets/blob/main/Asset-Template.md) and see available data options
 - [ ] Add in your folder a svg and png version of your logo named "logo.svg" and "logo.png". The logos must have a transparent background, be square and with a size of 512x512.
 - [ ] Create a pull request to the main repository
-- [ ] Join Discord (https://discord.gg/APpqEETykt) and open a ticket, link to your pull request and indicating if you will pay the fee in SHARD or BNB.
+- [ ] Join Discord (https://discord.gg/U4DW7K875e) and open a ticket via the #ticket-support channel, provide us with the link to your pull request and let us know if you will pay the fee in SHARD or BNB.
 - [ ] A payment address will be sent on Discord for you to pay the fee
 - [ ] When the payment has been received a member of the team will process the pull request and fill in the remaining information of the custom colors and create the custom logo version of your logo like [here](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg)
 - [ ] Within 1-7 days your token will be merged into the repository and ready for use.
@@ -44,7 +44,7 @@ Fill in the following form and follow the process:
 
 - [ ] Go to the form https://forms.gle/LSLmPP9RfWa39eg28. When asked "What are you applying for?", make sure to select "Token Custom List Integration"
 - [ ] Fill in the information requested and available for your project, when uploading your logo you will need to provide a svg and png version of your logo named "logo.svg" and "logo.png". The logos must have a transparent background, be square and with a size of 512x512.
-- [ ] Join Discord (https://discord.gg/APpqEETykt) and open a ticket indicating what token you have applied as well if you will pay the fee in SHARD or BNB.
+- [ ] Join Discord (https://discord.gg/U4DW7K875e) and open a ticket via the #ticket-support channel, let us know which token you have filled the form in for and if you will pay the fee in SHARD or BNB.
 - [ ] A payment address will be sent on Discord for you to pay the fee
 - [ ] When the payment has been received a member of the team will process your request, filling in the remaining information of the custom colors and create the custom logo version of your logo like [here](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg)
 - [ ] Within 1-7 days your token will be integrated and ready for use.
