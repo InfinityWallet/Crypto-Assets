@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "genCryptoPng": "node ./Tools/generateCryptoPng.js"
+  },
+  "dependencies": {
+    "svg2png": "^4.1.1"
+  }
+}
