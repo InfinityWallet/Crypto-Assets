@@ -4,7 +4,7 @@
 This repository contains a collection of information from chains and tokens, allowing projects to add their logo, receive custom styles and further information, visible when imported by a user into the Infinity Wallet and other platforms using this repository.
 
 This allows any token to gain additional credibility and a professional feel when manually imported across the ecosystem, while providing them with:
-- Custom designed logo of the token.
+- Custom designed logo of the token [Example](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg).
 - Custom color within the Infinity Wallet.
 - Fiat price display for the token within the Infinity Wallet.
 - Coin info section themed style in the Infinity Wallet.
@@ -12,7 +12,7 @@ This allows any token to gain additional credibility and a professional feel whe
 
 ## Documentation
 
-For more information on how to be integrated or on how to be Whitelisted to gain additional awareness/marketing, benefits and default enabled, see the [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-whitelisting)
+For more information on how to be integrated [click here](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-custom-list-integration) or if you are interested in learning how to be Whitelisted to gain additional benefits, awareness/marketing and be default enabled without needing to be imported, see the following [Documentation](https://docs.shardcoin.io/contact-us/listings-and-whitelistings/listing#token-whitelisting)
 
 ## Submission Fee
 Integration only requires a **3,500 SHARD** fee which is burned or alternatively **2 BNB** is also accepted. This is to cover the design costs for custom assets, along with the time/cost to check a project's information. Additionally, it ensures that projects integrating support the ecosystem.
