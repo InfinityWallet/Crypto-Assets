@@ -1,0 +1,42 @@
+{
+    "id": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
+    "name": "Baby Doge",
+    "tag": "BABYDOGE",
+    "decimals": 9,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://babydogecoin.com/",
+      "coinGeckoID": "baby-doge-coin",
+      "coinMarketCapID": "baby-doge-coin",
+      "description": "Baby Doge is a deflationary token designed to become more scarce over time. All holders of Baby Doge will earn more baby doge that is automatically sent to your wallet by simply holding Baby Doge coins in your wallet.",
+      "explorer": "https://etherscan.io/token/0xac57de9c1a09fec648e93eb98875b212db0d460b",
+      "coinGecko": "https://coinmarketcap.com/currencies/baby-doge-coin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/baby-doge-coin/"
+    },
+    "styles": {
+      "color":"#f19d2a",
+      "button_a":"#f4a22b",
+      "button_b":"#c9621b",
+      "hover_a":"#e3911a",
+      "hover_b":"#d15d1b"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BabyDogeCoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/babydogecoin"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/BabyDogeCoin/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/vuxmrn5FSZ"
+        }
+    ]
+}
