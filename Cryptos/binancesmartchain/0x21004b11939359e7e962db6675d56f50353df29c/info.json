@@ -1,0 +1,38 @@
+{
+    "id": "0x21004b11939359e7e962db6675d56f50353df29c",
+    "name": "EternalFlow",
+    "tag": "EFT",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://eternalflow.io/",
+      "coinGeckoID": "eternalflow",
+      "coinMarketCapID": "eternalflow",
+      "description": "Dinger Token is a community-driven project that hopes to provide the kind of purr-fectly amazing, enthusiastic joy that DOGE, SHIB and others have for crypto investors. With the goal to provide the average person access to launching meme tokens and creating their own unique environments that will help their memes succeed.",
+      "explorer": "https://bscscan.com/token/0x21004b11939359e7e962db6675d56f50353df29c",
+      "coinGecko": "https://coinmarketcap.com/currencies/eternalflow/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/eternalflow/"
+    },
+    "styles": {
+      "color":"#35abec",
+      "button_a":"#30c7f6",
+      "button_b":"#406cd6",
+      "hover_a":"#25bae9",
+      "hover_b":"#3561cb"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EternalFlowEFT"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/EternalFlowToken"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/EternalFlow"
+        }
+    ]
+}
