@@ -1,0 +1,42 @@
+{
+    "id": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+    "name": "Kishu Inu",
+    "tag": "KISHU",
+    "decimals": 9,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://kishu.com/",
+      "coinGeckoID": "kishu-inu",
+      "coinMarketCapID": "kishu-inu",
+      "description": "Kishu Inu ($KISHU) is a community-focused, decentralized cryptocurrency with instant rewards thanks to active users!",
+      "explorer": "https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+      "coinGecko": "https://www.coingecko.com/en/coins/kishu-inu/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/kishu-inu/"
+    },
+    "styles": {
+      "color":"#cdbcb8",
+      "button_a":"#ebe5d9",
+      "button_b":"#ada2a1",
+      "hover_a":"#d7d1c7",
+      "hover_b":"#a39897"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/InuKishu"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kishuinucommunity"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/kishuinucommunity"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/KishuInu/"
+        }
+    ]
+}

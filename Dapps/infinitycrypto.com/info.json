@@ -1,0 +1,44 @@
+{
+    "id": "infinitycrypto.com",
+    "name": "Infinity Crypto",
+    "dappLink": "https://infinitycrypto.com/",
+    "defaultChain": 56,
+    "supportedChains": [56],
+    "categories": ["Exchange", "DeFi", "Earn"],
+    "label": "AMM Dex",
+    "information": {
+      "website": "infinitycrypto.com",
+      "subTitle": "The #1 AMM DEX, staking, liquidity providing and earning platform on the BSC",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "bsc": {
+          "tokenAddress":"0xd8a1734945b9ba38eb19a291b475e31f49e59877"
+        },
+        "eth": {
+          "tokenAddress":"0xbebdab6da046bc49ffbb61fbd7b33157eb270d05"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/InfinityCrypto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/infinity_shard"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/KAf65bE"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Shardax/"
+        }
+    ]
+}
