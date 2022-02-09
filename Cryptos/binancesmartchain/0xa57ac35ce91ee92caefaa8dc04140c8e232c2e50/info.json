@@ -1,0 +1,46 @@
+{
+    "id": "0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+    "name": "Pitbull",
+    "tag": "PIT",
+    "decimals": 9,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "http://pitbull.community/",
+      "coinGeckoID": "pitbull",
+      "coinMarketCapID": "pitbull",
+      "description": "Pitbull is a auto-staking token that had its ownership renounced and burnt LP given to the community from the beginning of its creation.",
+      "explorer": "https://bscscan.com/token/0xa57ac35ce91ee92caefaa8dc04140c8e232c2e50",
+      "coinGecko": "https://www.coingecko.com/en/coins/pitbull",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/pitbull/"
+    },
+    "styles": {
+      "color":"#bbbbbb",
+      "button_a":"#cacaca",
+      "button_b":"#8f8f8f",
+      "hover_a":"#bbb9b9",
+      "hover_b":"#878686"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BscPitbull"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Pitbull_BSC"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/pitbulltoken"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/EXr553HVJm"
+        },
+        {
+            "name": "instagram",
+            "url": "https://instagram.com/bscpitbull"
+        }
+    ]
+}
