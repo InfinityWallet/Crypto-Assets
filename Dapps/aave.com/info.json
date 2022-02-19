@@ -15,10 +15,10 @@
     "tokenInformation": {
       "hasToken": true,
       "tokenContract": {
-        "bsc": {
+        "1": {
           "tokenAddress":"0xfb6115445bff7b52feb98650c87f44907e58f802"
         },
-        "eth": {
+        "56": {
           "tokenAddress":"0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
         }
       }
