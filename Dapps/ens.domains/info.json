@@ -1,0 +1,29 @@
+{
+    "id": "ens.domains",
+    "name": "ENS",
+    "dappLink": "https://app.ens.domains/",
+    "defaultChain": 1,
+    "supportedChains": [1],
+    "categories": ["Tools"],
+    "label": "Name Service",
+    "information": {
+      "website": "ens.domains",
+      "subTitle": "The Ethereum Name Service (ENS) is a naming service for wallet addresses, hashes, and other machine-readable identifiers.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ensdomains"
+        }
+    ]
+}
