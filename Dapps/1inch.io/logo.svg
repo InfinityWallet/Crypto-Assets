@@ -11,13 +11,13 @@
 	.st5{fill:#FFD923;}
 	.st6{fill:#D82122;}
 </style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3.0003" y1="3.448076e-08" x2="1027.0002" y2="1024">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3.447894e-08" y1="3.447894e-08" x2="1024" y2="1024">
 	<stop  offset="0" style="stop-color:#205DC4"/>
 	<stop  offset="0.3513" style="stop-color:#0A1446"/>
 	<stop  offset="0.5974" style="stop-color:#0A142F"/>
 	<stop  offset="1" style="stop-color:#4E0D3F"/>
 </linearGradient>
-<rect x="3" class="st0" width="1024" height="1024"/>
+<rect x="0" class="st0" width="1024" height="1024"/>
 <g>
 	<path class="st1" d="M299,550.6l21.1-159.1L136.6,264l167.7,56.8l39.6-60.7l144.6-89.8l318.9,175.6l16.5,268.1L682,811.4
 		l-112.2,17.2l58.1-106.3V619.9L585.6,540l-42.9-28.4l-66,68v72l-51.5,48.2l-65.4,7.9l-29.1,16.5L283.2,709l-19.8-71.3l35.7-50.2
