@@ -1,0 +1,37 @@
+{
+    "id": "mdex.com",
+    "name": "MDEX",
+    "dappLink": "https://mdex.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56],
+    "categories": ["DeFi", "Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "mdex.com",
+      "subTitle": "A decentralized exchange utilizing AMM technology.",
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/mdex/",
+      "coinGecko": "https://www.coingecko.com/en/exchanges/mdex"
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0x9c65ab58d8d978db963e63f2bfb7121627e3a739"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Mdexswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MdexEN"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/3TYDPktjqC"
+        }
+    ]
+}

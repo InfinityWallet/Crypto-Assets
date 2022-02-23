@@ -1,0 +1,30 @@
+{
+    "id": "opensea.io",
+    "name": "OpenSea",
+    "dappLink": "https://opensea.io/",
+    "defaultChain": 1,
+    "supportedChains": [1, 137],
+    "categories": ["Marketplace", "NFTs"],
+    "label": "NFT Marketplace",
+    "information": {
+      "website": "opensea.io",
+      "subTitle": "A peer-to-peer marketplace for NFTs, rare digital items and crypto collectibles.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/opensea"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/opensea"
+        }
+    ]
+}

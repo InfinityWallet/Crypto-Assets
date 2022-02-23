@@ -1,0 +1,37 @@
+{
+    "id": "sandbox.game",
+    "name": "The Sandbox",
+    "dappLink": "https://www.sandbox.game/",
+    "defaultChain": 1,
+    "supportedChains": [1],
+    "categories": ["Games", "NFTs"],
+    "label": "Metaverse Game",
+    "information": {
+      "website": "sandbox.game",
+      "subTitle": "The Sandbox is a virtual Metaverse where players can play, build, own, and monetize their virtual experiences.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x3845badade8e6dff049820680d1f14bd3903a5d0"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/thesandboxgame"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/sandboxgame"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/vAe4zvY"
+        }
+    ]
+}
