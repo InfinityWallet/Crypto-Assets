@@ -1,0 +1,41 @@
+{
+    "id": "mobox.io",
+    "name": "Mobox",
+    "dappLink": "https://www.mobox.io/",
+    "defaultChain": 56,
+    "supportedChains": [56],
+    "categories": ["Games", "NFTs"],
+    "label": "P2E Game",
+    "information": {
+      "website": "mobox.io",
+      "subTitle": "Mobox is a decentralized blockchain-based play-to-earn (P2E) gaming platform that operates on Binance Smart Chain (BSC).",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MOBOX_Official"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/mobox_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/ZSEhP2AbQ9"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Mobox"
+        }
+    ]
+}
