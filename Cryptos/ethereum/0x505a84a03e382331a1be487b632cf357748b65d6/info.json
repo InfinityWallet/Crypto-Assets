@@ -1,0 +1,38 @@
+{
+    "id": "0x505a84a03e382331a1be487b632cf357748b65d6",
+    "name": "Shiba Girlfriend",
+    "tag": "SHIBGF",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://shibgftoken.com/",
+      "coinGeckoID": "shibgf",
+      "coinMarketCapID": "shiba-girlfriend",
+      "description": "Shiba Girlfriend is a meme token with utility that helps female technology engineering students and entrepreneurs establish themselves in the tech space by helping fund their education and development.",
+      "explorer": "https://etherscan.io/token/0x505a84a03e382331a1be487b632cf357748b65d6",
+      "coinGecko": "https://coinmarketcap.com/currencies/shibgf/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/shiba-girlfriend/"
+    },
+    "styles": {
+      "color":"#ff496f",
+      "button_a":"#ff6686",
+      "button_b":"#ff2e59",
+      "hover_a":"#fb5376",
+      "hover_b":"#f32a53"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/shibgf"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/shibgftoken"
+        },
+        {
+            "name": "medium",
+            "url": "https://shibgf.medium.com/"
+        }
+    ]
+}
