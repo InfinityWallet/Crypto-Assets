@@ -29,7 +29,7 @@ Below is a template example of the **info.json** file format, further below you 
     "links": [
         {
             "name": "twitter",
-            "url": "https://twitter.com/ethereum"
+            "url": "https://twitter.com/darkFir88964326"
         },
         {
             "name": "reddit",
@@ -37,7 +37,7 @@ Below is a template example of the **info.json** file format, further below you 
         },
         {
             "name":"facebook",
-            "url":"https://www.facebook.com/ethereumproject/"
+            "url":"https://www.facebook.com/PYKAGAMES/"
         }
     ]
 }
