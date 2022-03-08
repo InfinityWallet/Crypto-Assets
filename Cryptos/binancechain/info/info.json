@@ -1,5 +1,5 @@
 {
-    "id": "binancechain",
+    "id": "binancepyka"/
     "name": "Binance Coin",
     "tag": "BNB",
     "decimals": 8,
@@ -7,7 +7,7 @@
     "tokenType": "",
     "information": {
       "website": "https://binance.org/",
-      "coinGeckoID": "binancecoin",
+      "coinGeckoID": "binancecoin",     
       "coinMarketCapID": "binance-coin",
       "description": "As the native coin of Binance Chain and Binance Smart Chain, BNB has multiple uses: fueling transactions on the Chains and Binance DEX, paying for transaction fees on Binance Exchange, making in-store payments, and many more. Additionally Binance frequently burns an amount of BNB collected from their exchange fees.",
       "explorer": "https://explorer.binance.org/",
@@ -24,23 +24,23 @@
     "links": [
         {
             "name": "twitter",
-            "url": "https://twitter.com/binance"
+            "url": "https://twitter.com/darkFir88964326"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/BinanceExchange"
+            "url": "https://t.me/7296257244"
         },
         {
             "name": "medium",
-            "url": "https://medium.com/binanceexchange"
+            "url": ""
         },
         {
             "name": "reddit",
-            "url": "https://www.reddit.com/r/binanceexchange"
+            "url": ""
         },
         {
             "name":"facebook",
-            "url":"https://www.facebook.com/binance"
+            "url":"https://www.facebook.com/pykagames"
         }
     ]
 }
