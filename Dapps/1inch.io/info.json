@@ -16,13 +16,13 @@
       "hasToken": true,
       "tokenContract": {
         "56": {
-          "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302"
-        },
+          "tokenAddress":"0xb9a28C08F0fb13371b20BE3d5e0fCd9ea35E7314"
+        },  
         "1": {
-          "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302"
+          "tokenAddress":"0x147e3D2423721603328DC12672658FF5F8cC5fe2"
         },
         "137": {
-          "tokenAddress":"0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f"
+          "tokenAddress":"0x70Ea5ccd3694B9c27179a88b4EC0fb1aFb7603B0"
         }
       }
     },
