@@ -1,0 +1,42 @@
+{
+    "id": "fio",
+    "name": "Fio",
+    "tag": "FIO Protocol",
+    "decimals": 9,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://fioprotocol.io/",
+      "coinGeckoID": "fio-protocol",
+      "coinMarketCapID": "fio-protocol",
+      "description": "The FIO Protocol is an open-source naming solution that makes sending, receiving and requesting cryptocurrency across all blockchains easy by providing a decentralized human-readable address (NFT).",
+      "explorer": "https://fio.bloks.io/",
+      "coinGecko": "https://www.coingecko.com/coins/fio-protocol",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/fio-protocol/"
+    },
+    "styles": {
+      "color":"#327ec0",
+      "button_a":"#3f97da",
+      "button_b":"#114381",
+      "hover_a":"#2d84c7",
+      "hover_b":"#10407c"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/joinFIO"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/officialFIO"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pHBmJCc"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/joinFIO"
+        }
+    ]
+}
