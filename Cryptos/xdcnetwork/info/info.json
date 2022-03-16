@@ -1,0 +1,38 @@
+{
+    "id": "xdcnetwork",
+    "name": "XDC Network",
+    "tag": "XDC",
+    "decimals": 18,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://xinfin.org/",
+      "coinGeckoID": "xdce-crowd-sale",
+      "coinMarketCapID": "xinfin",
+      "description": "The XDC Network is the blockchain technology solution built by XinFin. The XDC Network is a global, open-source, delegated proof of stake consensus network (XDPoS), which enables hybrid relay bridges, instant block finality and interoperability with ISO 20022 financial messaging standards.",
+      "explorer": "https://explorer.xinfin.network/",
+      "coinGecko": "https://www.coingecko.com/coins/xdc-network",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/xinfin/"
+    },
+    "styles": {
+      "color":"#0d5485",
+      "button_a":"#074d7c",
+      "button_b":"#003365",
+      "hover_a":"#054570",
+      "hover_b":"#022c56"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/XinFin_Official"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/xinfin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/xinfintalk"
+        }
+    ]
+}

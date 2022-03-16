@@ -1,7 +1,7 @@
 {
     "id": "fio",
-    "name": "Fio",
-    "tag": "FIO Protocol",
+    "name": "Fio Protocol",
+    "tag": "FIO",
     "decimals": 9,
     "type": "coin",
     "tokenType": "",

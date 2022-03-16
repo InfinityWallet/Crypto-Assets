@@ -1,0 +1,38 @@
+{
+    "id": "tezos",
+    "name": "Tezos",
+    "tag": "XTZ",
+    "decimals": 6,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://tezos.com/",
+      "coinGeckoID": "tezos",
+      "coinMarketCapID": "tezos",
+      "description": "Tezos is an open-source platform that addresses key barriers facing blockchain adoption for assets and applications backed by a global community of validators, researchers, and builders. By design, Tezos embraces long-term upgradability, open participation, collaboration, and smart contract safety.",
+      "explorer": "https://tzstats.com/",
+      "coinGecko": "https://www.coingecko.com/coins/tezos",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/tezos/"
+    },
+    "styles": {
+      "color":"#0b57e5",
+      "button_a":"#0f61fe",
+      "button_b":"#0443b5",
+      "hover_a":"#0c58e9",
+      "hover_b":"#033ea9"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tezos"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/tezos"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/udZwhQn"
+        }
+    ]
+}
