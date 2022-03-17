@@ -1,0 +1,34 @@
+{
+    "id": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+    "name": "KuCoin Token",
+    "tag": "KCS",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.kucoin.com/",
+      "coinGeckoID": "kucoin-shares",
+      "coinMarketCapID": "kucoin-token",
+      "description": "Built by the fans of KCS and KuCoin's fan communities,KCC is a decentralized public chain with EVM compatible and high performance. Its purpose is to solve the problems such as low performance and high cost of public chain, to provide community users with faster, more convenient and low-cost experience.",
+      "explorer": "https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+      "coinGecko": "https://www.coingecko.com/coins/kucoin-shares",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/kucoin-token/"
+    },
+    "styles": {
+      "color":"#28b888",
+      "button_a":"#3fe2ac",
+      "button_b":"#0a8158",
+      "hover_a":"#2dc391",
+      "hover_b":"#0a7450"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/kucoincom"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/kucoin"
+        }
+    ]
+}
