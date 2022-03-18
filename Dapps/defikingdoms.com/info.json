@@ -2,8 +2,8 @@
     "id": "defikingdoms",
     "name": "DeFi Kingdoms",
     "dappLink": "https://game.defikingdoms.com/",
-    "defaultChain": 1666700000,
-    "supportedChains": [1666700000],
+    "defaultChain": 1666600000,
+    "supportedChains": [1666600000],
     "categories": ["Games"],
     "label": "DeFi Game",
     "information": {
