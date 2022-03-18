@@ -1,0 +1,34 @@
+{
+    "id": "kcc.io",
+    "name": "KCC Bridge",
+    "dappLink": "https://www.kcc.io/bridge/transfer",
+    "defaultChain": 321,
+    "supportedChains": [321],
+    "categories": ["Tools"],
+    "label": "Bridge",
+    "information": {
+      "website": "kcc.io",
+      "subTitle": "Bridge coins & tokens on/off the Kucoin Community Chain",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/KCCOfficialTW"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/KCCOfficialEnglishCommunity"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/H5ucJydSyd"
+        }
+    ]
+}
