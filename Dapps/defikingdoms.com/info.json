@@ -1,0 +1,38 @@
+{
+    "id": "defikingdoms",
+    "name": "DeFi Kingdoms",
+    "dappLink": "https://game.defikingdoms.com/",
+    "defaultChain": 1666700000,
+    "supportedChains": [1666700000],
+    "categories": ["Games"],
+    "label": "DeFi Game",
+    "information": {
+      "website": "defikingdoms.com",
+      "subTitle": "DeFi Kingdoms is a game, DEX, liquidity pool, market of rare utility driven NFTs, and it all plays out in the nostalgic form of fantasy pixel art.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DefiKingdoms"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/defikingdoms"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/defikingdoms"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/DefiKingdoms/"
+        }
+    ]
+}
