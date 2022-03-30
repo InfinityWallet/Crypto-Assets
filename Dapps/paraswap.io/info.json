@@ -1,7 +1,7 @@
 {
     "id": "paraswap.io",
     "name": "ParaSwap",
-    "dappLink": "https://paraswap.io/",
+    "dappLink": "https://app.paraswap.io/",
     "defaultChain": 1,
     "supportedChains": [1, 56, 137],
     "categories": ["DeFi", "Exchange"],

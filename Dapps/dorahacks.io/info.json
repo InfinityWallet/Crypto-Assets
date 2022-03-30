@@ -1,0 +1,37 @@
+{
+    "id": "dorahacks.io",
+    "name": "dorahacks",
+    "dappLink": "https://dorahacks.io/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137],
+    "categories": ["Tools"],
+    "label": "Hackathons & Grants",
+    "information": {
+      "website": "dorahacks.io",
+      "subTitle": "DoraHacks is a global hackathon organizer and it provides Web3 developers around the world receive funding for their startups.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DoraHacks"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/AbgwK8b8A8"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/DoraHacksGlobalHack"
+        }
+    ]
+}
