@@ -1,6 +1,6 @@
 {
     "id": "dorahacks.io",
-    "name": "dorahacks",
+    "name": "DoraHacks",
     "dappLink": "https://dorahacks.io/",
     "defaultChain": 1,
     "supportedChains": [1, 56, 137],
