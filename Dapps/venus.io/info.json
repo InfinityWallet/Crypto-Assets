@@ -1,0 +1,37 @@
+{
+    "id": "venus.io",
+    "name": "Venus",
+    "dappLink": "https://app.venus.io/",
+    "defaultChain": 56,
+    "supportedChains": [56],
+    "categories": ["DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "venus.io",
+      "subTitle": "The Venus Protocol is a decentralized lending system built on the Binance Smart Chain that allows borrowers to borrow funds and lenders to earn.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/VenusProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/VenusProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pTQ9EBHYtF"
+        }
+    ]
+}
