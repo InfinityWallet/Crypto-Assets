@@ -15,11 +15,11 @@
       "coinMarketCap": "https://coinmarketcap.com/currencies/okt/"
     },
     "styles": {
-      "color":"#000012",
-      "button_a":"#000b34",
-      "button_b":"#000521",
-      "hover_a":"#010c2e",
-      "hover_b":"#000220"
+      "color":"#374468",
+      "button_a":"#2d3650",
+      "button_b":"#090c1c",
+      "hover_a":"#262f48",
+      "hover_b":"#080b1a"
     },
     "links": [
         {
