@@ -1,12 +1,12 @@
 {
-    "id": "oec",
-    "name": "OEC Token",
+    "id": "okt",
+    "name": "OKC Token",
     "tag": "OKT",
     "decimals": 18,
     "type": "coin",
     "tokenType": "",
     "information": {
-      "website": "https://www.okx.com/oec",
+      "website": "https://www.okx.com/okc",
       "coinGeckoID": "oec-token",
       "coinMarketCapID": "okt",
       "description": "OEC is a set of open-source blockchain projects developed by OKEx, aiming to promote the development of large-scale commercial applications based on blockchain technology.",
@@ -24,7 +24,7 @@
     "links": [
         {
             "name": "twitter",
-            "url": "https://twitter.com/OECprotocol"
+            "url": "https://twitter.com/OKCNetwork"
         },
         {
             "name": "telegram",
