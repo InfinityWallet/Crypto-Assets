@@ -1,0 +1,42 @@
+{
+    "id": "xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed",
+    "name": "StorX",
+    "tag": "SRX",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "XRC20",
+    "information": {
+      "website": "https://storx.tech/",
+      "coinGeckoID": "storx",
+      "coinMarketCapID": "storx-network",
+      "description": "StorX is a decentralized cloud storage network, which empowers users to store their data securely on the cloud. Each file uploaded on StorX is split and encrypted into multiple fragments to autonomous storage nodes operated by individual operators across the world.",
+      "explorer": "https://xdc.network/token/xdc5d5f074837f5d4618b3916ba74de1bf9662a3fed",
+      "coinGecko": "https://coinmarketcap.com/currencies/storx/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/storx-network/"
+    },
+    "styles": {
+      "color":"#f5aa05",
+      "button_a":"#fed501",
+      "button_b":"#dd3611",
+      "hover_a":"#e1bc00",
+      "hover_b":"#bf2705"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/StorXNetwork"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/StorXNetwork"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/StorXNetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/ha4Jufj2Nm"
+        }
+    ]
+}
