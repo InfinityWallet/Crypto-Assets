@@ -3,7 +3,7 @@
     "name": "Aave",
     "dappLink": "https://app.aave.com/",
     "defaultChain": 1,
-    "supportedChains": [1, 137],
+    "supportedChains": [1, 137, 43114],
     "categories": ["Lend", "DeFi", "Earn"],
     "label": "Lend & Borrow",
     "information": {

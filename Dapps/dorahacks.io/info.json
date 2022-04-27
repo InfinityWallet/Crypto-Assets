@@ -3,7 +3,7 @@
     "name": "DoraHacks",
     "dappLink": "https://dorahacks.io/",
     "defaultChain": 1,
-    "supportedChains": [1, 56, 137],
+    "supportedChains": [1, 56, 137, 43114],
     "categories": ["Tools"],
     "label": "Hackathons & Grants",
     "information": {
