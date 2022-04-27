@@ -1,0 +1,38 @@
+{
+    "id": "Avalanche",
+    "name": "Avalanche",
+    "tag": "AVAX",
+    "decimals": 18,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://www.avax.network/",
+      "coinGeckoID": "avalanche-2",
+      "coinMarketCapID": "avalanche",
+      "description": "Avalanche is an open-source platform for Decentralized Applications (DApps) that aims to enhance scalability, interoperability, and usability within its three chains.",
+      "explorer": "https://snowtrace.io/",
+      "coinGecko": "https://www.coingecko.com/coins/avalanche",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/avalanche/"
+    },
+    "styles": {
+      "color":"#E84142",
+      "button_a":"#E84142",
+      "button_b":"#BF221F",
+      "hover_a":"#c93334",
+      "hover_b":"#b51c19"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AvalancheAVAX"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Avax"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/avalancheavax"
+        }
+    ]
+}
