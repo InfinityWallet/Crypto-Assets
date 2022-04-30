@@ -1,0 +1,42 @@
+{
+    "id": "cronos",
+    "name": "Cronos",
+    "tag": "CRO",
+    "decimals": 18,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://cronos.org/",
+      "coinGeckoID": "crypto-com-chain",
+      "coinMarketCapID": "cronos",
+      "description": "Cronos is the token for the Cronos Chain, which is the EVM compatible chain running in parallel to the Crypto.org Chain. It aims to massively scale the Chain's DeFi ecosystem, by providing developers with the ability to rapidly port apps from Ethereum and EVM-compatible chains, with access to the massive user base of the Crypto.com ecosystem.",
+      "explorer": "https://cronoscan.com/",
+      "coinGecko": "https://www.coingecko.com/coins/cronos",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/cronos/"
+    },
+    "styles": {
+      "color":"#2b5191",
+      "button_a":"#1f4583",
+      "button_b":"#071e53",
+      "hover_a":"#193a70",
+      "hover_b":"#091c48"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cryptocom"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Crypto_com"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CryptoComOfficial"
+        },
+        {
+            "name": "discord",
+            "url": "https://discordapp.com/invite/B6cZahJ"
+        }
+    ]
+}
