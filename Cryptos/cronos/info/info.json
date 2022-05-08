@@ -24,19 +24,19 @@
     "links": [
         {
             "name": "twitter",
-            "url": "https://twitter.com/cryptocom"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Crypto_com"
+            "url": "https://twitter.com/cronos_chain"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/CryptoComOfficial"
+            "url": "https://t.me/Cryptoorg_Chain_Announcements"
         },
         {
             "name": "discord",
-            "url": "https://discordapp.com/invite/B6cZahJ"
+            "url": "https://discord.com/invite/pahqHz26q4"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/cronos-chain"
         }
     ]
 }

@@ -1,0 +1,38 @@
+{
+    "id": "guardarian.com",
+    "name": "Guardarian",
+    "dappLink": "https://guardarian.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137, 43114, 1666600000, 321, 50],
+    "categories": ["Exchange", "Tools"],
+    "label": "Buy/Sell Crypto",
+    "information": {
+      "website": "guardarian.com",
+      "subTitle": "An on-ramp and off-ramp crypto provider for buying or selling crypto to/from fiat",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Guardarian_com"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/guardarian_com"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Guardarian"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/Guardarian-105905604684954"
+        }
+    ]
+}
