@@ -1,0 +1,37 @@
+{
+    "id": "mojitoswap.finance",
+    "name": "MojitoSwap",
+    "dappLink": "https://app.mojitoswap.finance/",
+    "defaultChain": 321,
+    "supportedChains": [321],
+    "categories": ["Exchange", "DeFi", "Earn"],
+    "label": "Bridge",
+    "information": {
+      "website": "mojitoswap.finance",
+      "subTitle": "The top decentralized exchange on KCC",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "321": {
+          "tokenAddress":"0x2ca48b4eea5a731c2b54e7c3944dbdb87c0cfb6f"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MojitoSwap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MojitoFinance"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@mojitoswap"
+        }
+    ]
+}
