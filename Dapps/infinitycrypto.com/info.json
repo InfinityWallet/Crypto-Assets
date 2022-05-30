@@ -5,7 +5,7 @@
     "defaultChain": 56,
     "supportedChains": [56],
     "categories": ["Exchange", "DeFi", "Earn"],
-    "label": "AMM Dex",
+    "label": "AMM DEX",
     "information": {
       "website": "infinitycrypto.com",
       "subTitle": "The #1 AMM DEX, staking, liquidity providing and earning platform on the BSC",

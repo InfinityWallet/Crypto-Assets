@@ -5,7 +5,7 @@
     "defaultChain": 321,
     "supportedChains": [321],
     "categories": ["Exchange", "DeFi", "Earn"],
-    "label": "Bridge",
+    "label": "AMM DEX",
     "information": {
       "website": "mojitoswap.finance",
       "subTitle": "The top decentralized exchange on KCC",
