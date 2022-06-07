@@ -1,0 +1,42 @@
+{
+    "id": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "name": "Venus",
+    "tag": "XVS",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://venus.io/",
+      "coinGeckoID": "venus",
+      "coinMarketCapID": "venus",
+      "description": "XVS is the governance and utility token of the Venus protocol which is an algorithmic money market protocol for lending and borrowing on the Binance Smart Chain.",
+      "explorer": "https://bscscan.com/token/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+      "coinGecko": "https://coinmarketcap.com/currencies/venus/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/venus/"
+    },
+    "styles": {
+      "color":"#41bbdb",
+      "button_a":"#44e1c8",
+      "button_b":"#3b76fe",
+      "hover_a":"#34cfb6",
+      "hover_b":"#326aeb"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/VenusProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/VenusProtocol"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/venusprotocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pTQ9EBHYtF"
+        }
+    ]
+}
