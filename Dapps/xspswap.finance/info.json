@@ -1,0 +1,36 @@
+{
+    "id": "xspswap.finance",
+    "name": "XSwap Protocol",
+    "dappLink": "https://xspswap.finance/",
+    "defaultChain": 50,
+    "supportedChains": [50],
+    "categories": ["Exchange", "DeFi"],
+    "label": "AMM DEX ",
+    "information": {
+      "website": "xspswap.finance",
+      "subTitle": "XSwap Protocol is the 1st AMM DEX to launch on the XDC Network.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "50": {
+          "tokenAddress":"xdc36726235dadbdb4658d33e62a249dca7c4b2bc68"
+        }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/XSwapProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/real_XSwapProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/gKhvwgGx6E"
+        }
+    ]
+}
