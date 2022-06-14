@@ -1,12 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="4.8422" y1="2.2537" x2="48.8146" y2="51.8727">
-	<stop  offset="0" style="stop-color:#00ADEF"/>
-	<stop  offset="1" style="stop-color:#0084FF"/>
-</linearGradient>
-<rect x="0" fill="url(#SVGID_1_)" width="50" height="50"/>
-<path fill="#FFFFFF" d="M16.9,11.6l-2.7,2.7V25l2.7,2.7h10.7v5.4h-5.3v-2.7h-8.1v5.4l2.7,2.7H33l2.7-2.7V25L33,22.3H22.3v-5.4h5.4
-	v2.7h8.1v-5.4l-2.7-2.7L16.9,11.6L16.9,11.6z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500.00001 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #fc9965;
+      }
+
+      .cls-5 {
+        fill: #ff2d55;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        fill: #ffbc5b;
+      }
+
+      .cls-8 {
+        fill: #ffc95b;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1939" y1="729.29999" x2="1439" y2="729.29999" gradientTransform="matrix(0, -1, -1, 0, 979.3, 1939)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffbc5b"/>
+      <stop offset="1" stop-color="#ff3159"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-43.64979" y1="-155.96674" x2="-43.64979" y2="-154.92279" gradientTransform="translate(5721.69922 23545) scale(125 150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a524b3"/>
+      <stop offset="1" stop-color="#ff2d55"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-43.26995" y1="-155.54338" x2="-43.26995" y2="-154.49943" gradientTransform="translate(4349.79956 17345) scale(91.7 110)" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <title>decentraland</title>
+  <polygon class="cls-1" points="500 0 500 500 0 500 0 0 500 0"/>
+  <g>
+    <path class="cls-2" d="M200.31674,149.819V306.19911H330.63348Z" transform="translate(-0.7 -1)"/>
+    <path class="cls-3" d="M70,306.19908H200.31674V149.819Z" transform="translate(-0.7 -1)"/>
+    <path class="cls-4" d="M94.43439,348.552c11.40271,16.28959,26.06335,29.32125,42.353,42.353H387.64705c16.2896-11.40273,29.32126-26.06336,42.353-42.353Z" transform="translate(-0.7 -1)"/>
+    <path class="cls-5" d="M136.78734,390.905a207.72456,207.72456,0,0,0,125.42984,42.35294c47.23978,0,89.59276-16.28959,125.42987-42.35294Z" transform="translate(-0.7 -1)"/>
+    <path class="cls-6" d="M333.89138,234.52488V348.552H430Z" transform="translate(-0.7 -1)"/>
+    <path class="cls-7" d="M332.26245,306.19908H70a219.85961,219.85961,0,0,0,24.43439,42.353H332.26245v-42.353Z" transform="translate(-0.7 -1)"/>
+    <path class="cls-3" d="M237.78279,348.552h96.10859V234.52488Z" transform="translate(-0.7 -1)"/>
+    <circle class="cls-8" cx="331.56245" cy="148.819" r="52.1267"/>
+    <circle class="cls-8" cx="199.61674" cy="91.80543" r="26.06335"/>
+  </g>
 </svg>
