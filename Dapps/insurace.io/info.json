@@ -1,0 +1,47 @@
+{
+    "id": "insurace.io",
+    "name": "InsurAce",
+    "dappLink": "https://app.insurace.io/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137, 43114],
+    "categories": ["DeFi", "Tools"],
+    "label": "DeFi Insurance",
+    "information": {
+      "website": "insurace.io",
+      "subTitle": "InsurAce is the a multi-chain decentralised insurance protocol, allowing users to insure their crypto on DeFi & Web3 protocols and platforms.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x544c42fbb96b39b21df61cf322b5edc285ee7429"
+        },
+        "56": {
+          "tokenAddress":"0x3192ccddf1cdce4ff055ebc80f3f0231b86a7e30"
+        },
+        "137": {
+          "tokenAddress":"0x8a0e8b4b0903929f47c3ea30973940d4a9702067"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/InsurAce_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/vCZMjuH69F"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/InsurAceIo"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/insurace_protocol"
+        }
+    ]
+}

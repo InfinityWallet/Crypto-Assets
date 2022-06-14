@@ -1,7 +1,7 @@
 {
     "id": "xspswap.finance",
     "name": "XSwap Protocol",
-    "dappLink": "https://xspswap.finance/",
+    "dappLink": "http://app.xspswap.finance/",
     "defaultChain": 50,
     "supportedChains": [50],
     "categories": ["Exchange", "DeFi"],

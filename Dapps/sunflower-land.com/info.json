@@ -1,0 +1,33 @@
+{
+    "id": "sunflower-land.com",
+    "name": "Sunflower Land",
+    "dappLink": "https://sunflower-land.com/play/",
+    "defaultChain": 137,
+    "supportedChains": [137],
+    "categories": ["Games", "NFTs"],
+    "label": "Farm Game",
+    "information": {
+      "website": "sunflower-land.com",
+      "subTitle": "A play-to-own crypto farming game on Polygon where users Plant, Chop, Mine, Craft & Collect Sunflower Land!",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "137": {
+          "tokenAddress":"0xd1f9c58e33933a993a3891f8acfe05a68e1afc05"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/0xSunflowerLand"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/sunflowerland"
+        }
+    ]
+}

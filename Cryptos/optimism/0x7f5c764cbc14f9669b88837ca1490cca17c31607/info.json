@@ -1,0 +1,34 @@
+{
+    "id": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "name": "USD Coin",
+    "tag": "USDC",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.centre.io/",
+      "coinGeckoID": "usd-coin",
+      "coinMarketCapID": "usd-coin",
+      "description": "An open source, smart contract-based stablecoin by Circle and Coinbase. USD Coin, is an ERC-20 token creating possibilities in payments, lending, investing, trading and trade finance. USDC are issued by regulated and licensed financial institutions that maintain full reserves of the equivalent fiat currency.",
+      "explorer": "https://optimistic.etherscan.io/token/0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "coinGecko": "https://www.coingecko.com/coins/usd-coin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/usd-coin/"
+    },
+    "styles": {
+      "color":"#4394ec",
+      "button_a":"#1681e0",
+      "button_b":"#1360a9",
+      "hover_a":"#0e6abb",
+      "hover_b":"#145cad"
+    },
+    "links": [
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/USDC/"
+        },
+        {
+            "name":"discord",
+            "url":"https://discordapp.com/invite/Q7bKN5y"
+        }
+    ]
+}

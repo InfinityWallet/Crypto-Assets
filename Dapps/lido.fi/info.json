@@ -1,0 +1,41 @@
+{
+    "id": "lido.fi",
+    "name": "Lido",
+    "dappLink": "https://stake.lido.fi/",
+    "defaultChain": 1,
+    "supportedChains": [1],
+    "categories": ["Earn"],
+    "label": "ETH Staking",
+    "information": {
+      "website": "lido.fi",
+      "subTitle": "Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers. Lido lets users stake their ETH without locking their ETH or maintaining a node.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lidofinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/vgdPfhZ"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/lidofinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/lidofinance"
+        }
+    ]
+}

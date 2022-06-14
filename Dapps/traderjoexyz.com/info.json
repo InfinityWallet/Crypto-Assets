@@ -1,0 +1,37 @@
+{
+    "id": "traderjoexyz.com",
+    "name": "Trader Joe",
+    "dappLink": "https://traderjoexyz.com/",
+    "defaultChain": 43114,
+    "supportedChains": [43114],
+    "categories": ["Exchange", "DeFi", "Earn"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "traderjoexyz.com",
+      "subTitle": "Trader Joe is a one-stop-shop decentralized trading platform native to Avalanche allowing users to Trade, Farm, Stake, Lend and Launch.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "43114": {
+          "tokenAddress":"0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/traderjoe_xyz"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/GHZceZhbZU"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/traderjoe_xyz"
+        }
+    ]
+}

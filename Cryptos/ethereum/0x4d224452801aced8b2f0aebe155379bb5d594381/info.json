@@ -1,0 +1,30 @@
+{
+    "id": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "name": "ApeCoin",
+    "tag": "APE",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://apecoin.com/",
+      "coinGeckoID": "apecoin",
+      "coinMarketCapID": "apecoin-ape",
+      "description": "Apecoin is the governance and utility toke that serves the Bored Ape Yacht Club community and related communities.",
+      "explorer": "https://etherscan.io/token/0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "coinGecko": "https://coinmarketcap.com/currencies/apecoin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/apecoin-ape/"
+    },
+    "styles": {
+      "color":"#2264e7",
+      "button_a":"#014fea",
+      "button_b":"#053593",
+      "hover_a":"#064bd3",
+      "hover_b":"#063187"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/apecoin"
+        }
+    ]
+}

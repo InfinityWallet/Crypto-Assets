@@ -1,0 +1,38 @@
+{
+    "id": "0x4200000000000000000000000000000000000042",
+    "name": "Optimism",
+    "tag": "OP",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.optimism.io/",
+      "coinGeckoID": "optimism",
+      "coinMarketCapID": "optimism-ethereum",
+      "description": "The OP token gives holders governance rights on the Optimism chain, which is split into a two-tier governance system composed of Token House and Citizens' House",
+      "explorer": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042",
+      "coinGecko": "https://coinmarketcap.com/currencies/optimism/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/optimism-ethereum/"
+    },
+    "styles": {
+      "color":"#fb3d3c",
+      "button_a":"#fe3f3f",
+      "button_b":"#d81c1b",
+      "hover_a":"#f13737",
+      "hover_b":"#cd1918"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/optimismPBC"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord-gateway.optimism.io/"
+        },
+        {
+            "name": "medium",
+            "url": "https://optimismpbc.medium.com/"
+        }
+    ]
+}

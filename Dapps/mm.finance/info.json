@@ -1,0 +1,33 @@
+{
+    "id": "mm.finance",
+    "name": "MM Finance",
+    "dappLink": "https://mm.finance/",
+    "defaultChain": 25,
+    "supportedChains": [25],
+    "categories": ["DeFi", "Exchange", "Earn"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "mm.finance",
+      "subTitle": "MM Finance is a AMM DEX on the Cronos Chain, allowing users to trade, earn passive income, take part in launches and more",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "25": {
+          "tokenAddress":"0x97749c9B61F878a880DfE312d2594AE07AEd7656"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MMFcrypto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MMFcrypto"
+        }
+    ]
+}

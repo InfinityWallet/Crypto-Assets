@@ -1,0 +1,41 @@
+{
+    "id": "decentraland.org",
+    "name": "Decentraland",
+    "dappLink": "https://play.decentraland.org/",
+    "defaultChain": 1,
+    "supportedChains": [1],
+    "categories": ["Games", "NFTs"],
+    "label": "Metaverse Game",
+    "information": {
+      "website": "decentraland.org",
+      "subTitle": "Decentraland is a user-owned, Ethereum-based virtual world where users can play, explore, and interact with games and activities.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/decentraland"
+        },
+        {
+            "name": "discord",
+            "url": "https://dcl.gg/discord"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/decentraland"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DecentralandTG"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+    "name": "StepN",
+    "tag": "GMT",
+    "decimals": 8,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://www.stepn.com/",
+      "coinGeckoID": "stepn",
+      "coinMarketCapID": "green-metaverse-token",
+      "description": "StepN is a fitness App which allows uers to earn rewards for walking or running.",
+      "explorer": "https://bscscan.com/token/0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+      "coinGecko": "https://coinmarketcap.com/currencies/stepn/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/green-metaverse-token/"
+    },
+    "styles": {
+      "color":"#dab764",
+      "button_a":"#cfa767",
+      "button_b":"#b78e33",
+      "hover_a":"#bf9859",
+      "hover_b":"#a98331"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/stepnofficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/STEPNofficial"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/stepn"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/StepN"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/u426hmda5T"
+        }
+    ]
+}
