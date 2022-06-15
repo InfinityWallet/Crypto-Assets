@@ -1,0 +1,37 @@
+{
+    "id": "apollox.finance",
+    "name": "ApolloX",
+    "dappLink": "https://www.apollox.finance/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56],
+    "categories": ["Exchange"],
+    "label": "Futures DEX",
+    "information": {
+      "website": "apollox.finance",
+      "subTitle": "A decentralized spot and futures exchange deployed on Ethereum and Binance Smart Chain.",
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/apollox-dex/",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0x78f5d389f5cdccfc41594abab4b0ed02f31398b3"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ApolloX_com"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/apolloxchange"
+        },
+        {
+            "name": "discord",
+            "url": "http://discord.gg/apollox"
+        }
+    ]
+}

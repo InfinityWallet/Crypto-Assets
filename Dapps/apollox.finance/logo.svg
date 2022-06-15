@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1460" y1="-480" x2="960" y2="20" gradientTransform="matrix(0 -1 1 0 480 1460)">
+	<stop  offset="0" style="stop-color:#1E1F31"/>
+	<stop  offset="1" style="stop-color:#16223F"/>
+</linearGradient>
+<polygon class="st0" points="500,0 500,500 0,500 0,0 "/>
+<title>traderjoe</title>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-44.1224" y1="411.2953" x2="480.2739" y2="160.0055" gradientTransform="matrix(1 0 0 -1 0 500)">
+	<stop  offset="0" style="stop-color:#C040FC"/>
+	<stop  offset="1" style="stop-color:#4B3CFF"/>
+</linearGradient>
+<path class="st1" d="M402.9,151.6c-26.3,60.5-69.3,112.3-124,149.1s-118.8,57.3-184.7,58.9c-13.6-20.3-23.2-43.1-28-67.1
+	c-4.8-24-4.9-48.7-0.2-72.7c4.7-24,14.1-46.9,27.6-67.3c13.5-20.4,30.9-37.9,51.2-51.6c20.3-13.7,43-23.2,67-28
+	c23.9-4.9,48.6-4.9,72.6-0.2c24,4.7,46.8,14.1,67.1,27.6C371.7,113.9,389.2,131.3,402.9,151.6z M415,150.5v-23.1
+	c0-0.2,0.1-0.5,0.2-0.7c0.1-0.2,0.3-0.4,0.5-0.5l19.9-11.7c0.2-0.1,0.4-0.2,0.6-0.2c0.2,0,0.4,0.1,0.6,0.2c0.2,0.1,0.4,0.3,0.5,0.5
+	c0.1,0.2,0.2,0.4,0.2,0.7v23.1c0,0.2-0.1,0.5-0.2,0.7c-0.1,0.2-0.3,0.4-0.5,0.5l-19.9,11.7c-0.2,0.1-0.4,0.2-0.6,0.2
+	c-0.2,0-0.4-0.1-0.6-0.2c-0.2-0.1-0.4-0.3-0.5-0.5C415.1,150.9,415,150.7,415,150.5z M399,362.7c22.6-31.6,34.8-69.6,34.8-108.5
+	c0-28.7-6.6-57-19.4-82.6c-58.1,75.2-95,164.7-106.6,259.1C344.5,418.1,376.4,394.3,399,362.7z"/>
+</svg>
