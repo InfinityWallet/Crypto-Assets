@@ -1,0 +1,30 @@
+{
+    "id": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "name": "Euro Coin",
+    "tag": "EUROC",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.circle.com/en/euro-coin",
+      "coinGeckoID": "euro-coin",
+      "coinMarketCapID": "",
+      "description": "An open source, smart contract-based stablecoin by Circle. Euro Coin, is an ERC-20 token creating possibilities in payments, lending, investing, trading and trade finance. EUROC are issued by regulated and licensed financial institutions that maintain full reserves of the equivalent fiat currency.",
+      "explorer": "https://etherscan.io/token/0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+      "coinGecko": "https://www.coingecko.com/en/coins/euro-coin",
+      "coinMarketCap": ""
+    },
+    "styles": {
+      "color":"#4897f8",
+      "button_a":"#1aa3ff",
+      "button_b":"#7165f2",
+      "hover_a":"#1394eb",
+      "hover_b":"#6458e1"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/circlepay"
+        }
+    ]
+}
