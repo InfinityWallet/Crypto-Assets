@@ -5,7 +5,7 @@
     "defaultChain": 1,
     "supportedChains": [1, 56],
     "categories": ["Exchange"],
-    "label": "Futures DEX",
+    "label": "Derivatives",
     "information": {
       "website": "apollox.finance",
       "subTitle": "A decentralized spot and futures exchange deployed on Ethereum and Binance Smart Chain.",
