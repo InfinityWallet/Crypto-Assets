@@ -1,0 +1,40 @@
+{
+    "id": "travala.com",
+    "name": "Travala",
+    "dappLink": "https://www.travala.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56],
+    "categories": ["Tools"],
+    "label": "Travel Booking",
+    "information": {
+      "website": "travala.com",
+      "subTitle": "A crypto friendly travel booking platform for accommodation and flights",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0"
+        },
+        "56": {
+          "tokenAddress":"0x13616f44ba82d63c8c0dc3ff843d36a8ec1c05a9"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/travalacom"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/travala"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Travala"
+        }
+    ]
+}
