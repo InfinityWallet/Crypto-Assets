@@ -3,7 +3,7 @@
     "name": "1inch",
     "dappLink": "https://app.1inch.io/",
     "defaultChain": 1,
-    "supportedChains": [1, 56, 137, 43114],
+    "supportedChains": [1, 56, 137, 43114, 10],
     "categories": ["DeFi", "Exchange"],
     "label": "DEX Aggregator",
     "information": {
