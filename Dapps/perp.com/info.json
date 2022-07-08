@@ -1,0 +1,40 @@
+{
+    "id": "perp.com",
+    "name": "Perpetual Protocol",
+    "dappLink": "https://app.perp.com/",
+    "defaultChain": 10,
+    "supportedChains": [10],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Margin Trading",
+    "information": {
+      "website": "perp.com",
+      "subTitle": "A decentralized cross margin DeFi trading protocol with up to 10×-leverage.",
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/perpetual-protocol/",
+      "coinGecko": "https://www.coingecko.com/en/exchanges/perpetual_protocol"
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xbc396689893d065f41bc2c6ecbee5e0085233447"
+        },
+        "10": {
+          "tokenAddress":"0x9e1028F5F1D5eDE59748FFceE5532509976840E0"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/perpprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/perpetualprotocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/Dq9mTmCaBb"
+        }
+    ]
+}
