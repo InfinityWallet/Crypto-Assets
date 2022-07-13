@@ -1,1 +1,0 @@
-# Dapps Registry Coming Soon
