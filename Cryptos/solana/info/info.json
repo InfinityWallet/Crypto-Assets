@@ -1,0 +1,42 @@
+{
+    "id": "solana",
+    "name": "Solana",
+    "tag": "SOL",
+    "decimals": 9,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://solana.com/",
+      "coinGeckoID": "solana",
+      "coinMarketCapID": "solana",
+      "description": "Solana is a decentralized blockchain built to enable cheap, scalable and user-friendly apps for the world.",
+      "explorer": "https://solscan.io/",
+      "coinGecko": "https://www.coingecko.com/coins/solana",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/solana/"
+    },
+    "styles": {
+      "color":"#27e0b7",
+      "button_a":"#14f195",
+      "button_b":"#9945ff",
+      "hover_a":"#14d584",
+      "hover_b":"#8136dd"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/solana"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/solana"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/solana"
+        },
+        {
+            "name": "discord",
+            "url": "https://discordapp.com/invite/pquxPsq"
+        }
+    ]
+}
