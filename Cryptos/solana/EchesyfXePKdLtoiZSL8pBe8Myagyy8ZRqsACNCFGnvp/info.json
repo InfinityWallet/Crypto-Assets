@@ -1,0 +1,38 @@
+{
+    "id": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+    "name": "Bonfida",
+    "tag": "FIDA",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "SPL",
+    "information": {
+      "website": "https://bonfida.com/",
+      "coinGeckoID": "bonfida",
+      "coinMarketCapID": "bonfida",
+      "description": "Bonfida is a full product suite, it aims to be a single source of data truth in the cryptocurrency industry focusing on exchange statistics, crypto company reviewing and scoring, and researching crypto trends, among other things.",
+      "explorer": "https://solscan.io/token/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+      "coinGecko": "https://www.coingecko.com/coins/bonfida/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/bonfida/"
+    },
+    "styles": {
+      "color":"#629dde",
+      "button_a":"#6363e1",
+      "button_b":"#62cadd",
+      "hover_a":"#5858d3",
+      "hover_b":"#4ebdd1"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bonfida"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bonfidatg"
+        },
+        {
+            "name":"discord",
+            "url":"https://discord.gg/fxFw4c8pJ5"
+        }
+    ]
+}

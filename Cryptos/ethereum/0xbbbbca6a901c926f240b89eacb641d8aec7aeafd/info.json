@@ -1,0 +1,42 @@
+{
+    "id": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "name": "Loopring",
+    "tag": "LRC",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://loopring.org/",
+      "coinGeckoID": "loopring",
+      "coinMarketCapID": "loopring",
+      "description": "Loopring is a zkRollup layer2, it allows for high-throughput, low-cost trading and payments while guaranteeing the same level of security as the underlying Ethereum blockchain.",
+      "explorer": "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "coinGecko": "https://coinmarketcap.com/currencies/loopring/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/loopring/"
+    },
+    "styles": {
+      "color":"#377afb",
+      "button_a":"#1f69f7",
+      "button_b":"#1542d4",
+      "hover_a":"#1a62eb",
+      "hover_b":"#133ecb"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/loopringorg"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/KkYccYp"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/loopringorg"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/loopring_en"
+        }
+    ]
+}

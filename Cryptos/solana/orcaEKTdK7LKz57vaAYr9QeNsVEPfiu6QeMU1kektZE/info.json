@@ -1,0 +1,42 @@
+{
+    "id": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+    "name": "Orca",
+    "tag": "ORCA",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "SPL",
+    "information": {
+      "website": "https://orca.so/",
+      "coinGeckoID": "orca",
+      "coinMarketCapID": "orca",
+      "description": "Orca (ORCA) is a Solana token that governs the Orca decentralized exchange. Orca aims to enable low-fee, near-instant token swaps using an automated market maker (AMM) model. On the exchange, users supply tokens to “liquidity pools” and algorithms set market prices based on supply and demand.",
+      "explorer": "https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+      "coinGecko": "https://www.coingecko.com/coins/orca/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/orca/"
+    },
+    "styles": {
+      "color":"#ffd15b",
+      "button_a":"#facb55",
+      "button_b":"#dcab2e",
+      "hover_a":"#f1c044",
+      "hover_b":"#d5a325"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/orca_so"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/orca_so"
+        },
+        {
+            "name":"discord",
+            "url":"https://discord.com/invite/nSwGWn5KSG"
+        },
+        {
+            "name":"reddit",
+            "url":"https://reddit.com/r/orca_so"
+        }
+    ]
+}

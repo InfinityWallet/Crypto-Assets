@@ -1,0 +1,38 @@
+{
+    "id": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "name": "Raydium",
+    "tag": "RAY",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "SPL",
+    "information": {
+      "website": "https://raydium.io/",
+      "coinGeckoID": "raydium",
+      "coinMarketCapID": "raydium",
+      "description": "Raydium is an Automated Market Maker (AMM) and liquidity provider built on the Solana blockchain for the Serum Decentralized Exchange (DEX). Raydium has first-mover advantage as an AMM within Serum and it will be an integral part of bringing new and existing projects and protocols into the ecosystem.",
+      "explorer": "https://solscan.io/token/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "coinGecko": "https://www.coingecko.com/coins/raydium/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/raydium/"
+    },
+    "styles": {
+      "color":"#5763f7",
+      "button_a":"#9f1bfc",
+      "button_b":"#3c7ef4",
+      "hover_a":"#961ceb",
+      "hover_b":"#3173e9"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/raydiumprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/raydiumprotocol"
+        },
+        {
+            "name":"discord",
+            "url":"https://discord.com/invite/6EvFwvCfpx"
+        }
+    ]
+}
