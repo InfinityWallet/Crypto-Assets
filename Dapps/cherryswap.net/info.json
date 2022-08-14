@@ -1,0 +1,36 @@
+{
+    "id": "cherryswap.net",
+    "name": "CherrySwap",
+    "dappLink": "https://cherryswap.net/",
+    "defaultChain": 66,
+    "supportedChains": [66],
+    "categories": ["Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "cherryswap.net",
+      "subTitle": "A decentralized exchange on the OKC Chain.",
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/cherryswap/",
+      "coinGecko": "https://www.coingecko.com/en/exchanges/cherryswap"
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0xbc420Bc2c015d1579F77e4a5c68270b75F2DDB9d"
+        },
+        "66": {
+          "tokenAddress":"0x8179d97eb6488860d816e3ecafe694a4153f216c"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CherryswapNet"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/cherryswap_1st"
+        }
+    ]
+}
