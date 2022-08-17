@@ -15,11 +15,11 @@
       "coinMarketCap": "https://coinmarketcap.com/currencies/synthetix-network-token/"
     },
     "styles": {
-      "color":"#3d2dcb",
+      "color":"#3f30c3",
       "button_a":"#22206b",
-      "button_b":"#0f0838",
+      "button_b":"#17103f",
       "hover_a":"#1d1b62",
-      "hover_b":"#0d0632"
+      "hover_b":"#140c41"
     },
     "links": [
         {
