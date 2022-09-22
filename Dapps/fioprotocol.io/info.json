@@ -1,0 +1,38 @@
+{
+    "id": "fioprotocol.io",
+    "name": "Fio",
+    "dappLink": "https://dashboard.fioprotocol.io/ref/infinity",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137, 43114, 1666600000, 10, 50, 25, 321, 66, 501, 1729],
+    "categories": ["Tools"],
+    "label": "Name Service",
+    "information": {
+      "website": "fioprotocol.io",
+      "subTitle": "A single human readable and remember-able identity for all your crypto, removing the need to use a long cryptographic address for each blockchain.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/joinFIO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/joinFIO"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pHBmJCc"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/officialFIO"
+        }
+    ]
+}
