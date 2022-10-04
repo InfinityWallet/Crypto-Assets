@@ -1,0 +1,39 @@
+{
+    "id": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+    "asset_id": 18,
+    "name": "Tether",
+    "tag": "wUSDT",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "FA2",
+    "information": {
+      "website": "https://tether.to/",
+      "coinGeckoID": "tether",
+      "coinMarketCapID": "tether",
+      "description": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether.",
+      "explorer": "https://tzkt.io/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ/tokens/18/transfers",
+      "coinGecko": "https://www.coingecko.com/coins/tether/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/tether/"
+    },
+    "styles": {
+      "color":"#26ad7b",
+      "button_a":"#25bd7a",
+      "button_b":"#269874",
+      "hover_a":"#1ca267",
+      "hover_b":"#1b8c68"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tether_to/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OfficialTether"
+        },
+        {
+            "name":"facebook",
+            "url":"https://www.facebook.com/tether.to"
+        }
+    ]
+}
