@@ -1,0 +1,37 @@
+{
+    "id": "babydogeswap.com",
+    "name": "babydogeswap",
+    "dappLink": "https://babydogeswap.com/",
+    "defaultChain": 56,
+    "supportedChains": [56],
+    "categories": ["DeFi", "Exchange"],
+    "label": "BSC DEX",
+    "information": {
+      "website": "babydogeswap.COM",
+      "subTitle": "A decentralized exchange aggregator to get the best rates.",
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/baby-doge-swap/",
+      "coinGecko": "https://www.coingecko.com/en/exchanges/babydogeswap"
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0xc748673057861a797275cd8a068abb95a902e8de"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/babydogecoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/babydogecoin"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/babydogecoin"
+        }
+    ]
+}
