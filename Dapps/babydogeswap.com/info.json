@@ -1,6 +1,6 @@
 {
     "id": "babydogeswap.com",
-    "name": "babydogeswap",
+    "name": "BabyDoge Swap",
     "dappLink": "https://babydogeswap.com/",
     "defaultChain": 56,
     "supportedChains": [56],
@@ -8,7 +8,7 @@
     "label": "BSC DEX",
     "information": {
       "website": "babydogeswap.COM",
-      "subTitle": "A decentralized exchange aggregator to get the best rates.",
+      "subTitle": "A decentralized exchange on the binance smart chain.",
       "coinMarketCap": "https://coinmarketcap.com/exchanges/baby-doge-swap/",
       "coinGecko": "https://www.coingecko.com/en/exchanges/babydogeswap"
     },
