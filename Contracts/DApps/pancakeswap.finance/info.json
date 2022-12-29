@@ -3,7 +3,7 @@
   "name": "PancakeSwap",
   "dappLink": "https://pancakeswap.finance/",
   "contracts": {
-    1:[
+    "eth":[
       {
         "contractAddress": "0xeff92a263d31888d860bd50809a8d171709b7b1c",
         "id":"pancakeswap-router",
@@ -11,7 +11,7 @@
         "type":"dex"
       }
     ],
-    56:[
+    "bsc":[
       {
         "contractAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
         "id":"pancakeswap-router",
