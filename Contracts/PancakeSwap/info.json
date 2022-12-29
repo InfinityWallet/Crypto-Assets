@@ -1,0 +1,35 @@
+{
+  "id": "pancakeswap.finance",
+  "name": "PancakeSwap",
+  "dappLink": "https://pancakeswap.finance/",
+  "contracts": {
+    1:[
+      {
+        "contractAddress": "0xeff92a263d31888d860bd50809a8d171709b7b1c",
+        "id":"pancakeswap-router",
+        "name": "PancakeSwap Router",
+        "type":"dex"
+      }
+    ],
+    56:[
+      {
+        "contractAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+        "id":"pancakeswap-router",
+        "name": "PancakeSwap Router",
+        "type":"dex"
+      },
+      {
+        "contractAddress": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652",
+        "id":"pancakeswap-stake",
+        "name": "PancakeSwap Stake",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x17539cCa21C7933Df5c980172d22659B8C345C5A",
+        "id":"pancakeswap-marketplace",
+        "name": "PancakeSwap Marketplace",
+        "type":"marketplace"
+      }
+    ]
+  }
+}
