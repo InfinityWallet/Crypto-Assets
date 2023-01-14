@@ -1,0 +1,42 @@
+{
+    "id": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "name": "Yearn Finance",
+    "tag": "YFI",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://yearn.finance/",
+      "coinGeckoID": "yearn-finance",
+      "coinMarketCapID": "yearn-finance",
+      "description": "Yearn Finance (YFI) is an Ethereum token that governs the Yearn platform. The platform is a yield optimizer that moves funds around the decentralized finance ecosystem in an effort to generate a higher return.",
+      "explorer": "https://etherscan.io/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+      "coinGecko": "https://coingecko.com/coins/yearn-finance/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/yearn-finance/"
+    },
+    "styles": {
+      "color":"#0987ef",
+      "button_a":"#0995f9",
+      "button_b":"#1148c5",
+      "hover_a":"#0687e3",
+      "hover_b":"#093fb8"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/iearnfinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/yearnfinance/"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/yearn_finance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/93PHbB4"
+        }
+    ]
+}
