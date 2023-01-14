@@ -1,0 +1,42 @@
+{
+    "id": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "name": "Lido DAO",
+    "tag": "LDO",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://lido.fi/",
+      "coinGeckoID": "lido-dao",
+      "coinMarketCapID": "lido-dao",
+      "description": "LDO is the native utility token that Lido DAO uses for granting governance rights, managing fee structures and distribution, and governing the addition and removal of Lido node operators.",
+      "explorer": "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "coinGecko": "https://coingecko.com/coins/lido-dao",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/lido-dao/"
+    },
+    "styles": {
+      "color":"#e89383",
+      "button_a":"#e87474",
+      "button_b":"#e9b394",
+      "hover_a":"#cf6262",
+      "hover_b":"#e0a887"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lidofinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/lidofinance"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/lidofinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/vgdPfhZ"
+        }
+    ]
+}

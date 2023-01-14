@@ -1,0 +1,42 @@
+{
+    "id": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "name": "Lido Staked ETH",
+    "tag": "stETH",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://stake.lido.fi/",
+      "coinGeckoID": "staked-ether",
+      "coinMarketCapID": "steth",
+      "description": "stETH token is a tokenized version and the liquid alternative of staked Ether released by Lido decentralized finance and staking protocol.",
+      "explorer": "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "coinGecko": "https://coingecko.com/coins/lido-staked-ether",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/steth/"
+    },
+    "styles": {
+      "color":"#57c4fd",
+      "button_a":"#ade7ff",
+      "button_b":"#31b5ff",
+      "hover_a":"#9ee2ff",
+      "hover_b":"#0aa7ff"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lidofinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/lidofinance"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/lidofinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/vgdPfhZ"
+        }
+    ]
+}
