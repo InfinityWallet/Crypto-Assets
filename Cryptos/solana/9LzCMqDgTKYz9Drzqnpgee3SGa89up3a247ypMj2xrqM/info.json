@@ -1,0 +1,38 @@
+{
+    "id": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
+    "name": "Audius",
+    "tag": "AUDIO",
+    "decimals": 8,
+    "type": "token",
+    "tokenType": "SPL",
+    "information": {
+      "website": "https://audius.co/",
+      "coinGeckoID": "audius",
+      "coinMarketCapID": "audius",
+      "description": "The AUDIO token is the native governance and financial incentive token of the Audius platform.",
+      "explorer": "https://solscan.io/token/9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
+      "coinGecko": "https://coingecko.com/coins/audius/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/audius/"
+    },
+    "styles": {
+      "color":"#b54ac5",
+      "button_a":"#cc0fe0",
+      "button_b":"#7e1bcc",
+      "hover_a":"#c306d7",
+      "hover_b":"#7713c6"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AudiusProject"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/audius/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/yNUg2e2"
+        }
+    ]
+}
