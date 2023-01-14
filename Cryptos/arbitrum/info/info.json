@@ -1,0 +1,34 @@
+{
+    "id": "arbitrum",
+    "name": "Ethereum",
+    "tag": "ETH",
+    "decimals": 18,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://arbitrum.io/",
+      "coinGeckoID": "ethereum",
+      "coinMarketCapID": "ethereum",
+      "description": "Ethereum is used for transactions on the Arbitrum Chain, which a layer-2 solution designed to enhance Ethereum smart contracts.",
+      "explorer": "https://arbiscan.io/",
+      "coinGecko": "https://www.coingecko.com/coins/ethereum/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/ethereum/"
+    },
+    "styles": {
+      "color":"#5960a0",
+      "button_a":"#3d3f61",
+      "button_b":"#2a2b4e",
+      "hover_a":"#383a5a",
+      "hover_b":"#28294c"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/arbitrum"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/arbitrum"
+        }
+    ]
+}

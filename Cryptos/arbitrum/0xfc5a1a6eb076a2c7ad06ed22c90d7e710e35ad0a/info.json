@@ -1,0 +1,38 @@
+{
+    "id": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "name": "GMX",
+    "tag": "GMX",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://gmx.io/",
+      "coinGeckoID": "gmx",
+      "coinMarketCapID": "gmx",
+      "description": "GMX is a decentralized spot and perpetuals exchange for cryptocurrencies.",
+      "explorer": "https://arbiscan.io/token/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+      "coinGecko": "https://www.coingecko.com/coins/gmx/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/gmx/"
+    },
+    "styles": {
+      "color":"#2089de",
+      "button_a":"#0ebbd4",
+      "button_b":"#412af0",
+      "hover_a":"#06b1ca",
+      "hover_b":"#3821e5"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GMX_IO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GMX_IO"
+        },
+        {
+            "name":"discord",
+            "url":"https://discord.gg/cxjZYR4gQK"
+        }
+    ]
+}
