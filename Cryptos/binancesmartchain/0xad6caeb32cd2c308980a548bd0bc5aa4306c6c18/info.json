@@ -1,0 +1,38 @@
+{
+    "id": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+    "name": "Band Protocol",
+    "tag": "BAND",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://bandprotocol.com/",
+      "coinGeckoID": "band-protocol",
+      "coinMarketCapID": "band-protocol",
+      "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
+      "explorer": "https://bscscan.com/token/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "coinGecko": "https://coingecko.com/coins/band-protocol/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/band-protocol/"
+    },
+    "styles": {
+      "color":"#7253fc",
+      "button_a":"#795aff",
+      "button_b":"#4520e6",
+      "hover_a":"#6a49f9",
+      "hover_b":"#401cde"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bandprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bandprotocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/3t4bsY7"
+        }
+    ]
+}
