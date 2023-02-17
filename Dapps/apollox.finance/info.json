@@ -3,7 +3,7 @@
     "name": "ApolloX",
     "dappLink": "https://www.apollox.finance/",
     "defaultChain": 1,
-    "supportedChains": [1, 56],
+    "supportedChains": [1, 56, 42161],
     "categories": ["Exchange"],
     "label": "Derivatives",
     "information": {

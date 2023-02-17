@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<title>decentraland</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-887.4" y1="61.4212" x2="-387.4" y2="61.4212" gradientTransform="matrix(0 -1 -1 0 311.3 -387)">
+	<stop  offset="0" style="stop-color:#101124"/>
+	<stop  offset="1" style="stop-color:#17182C"/>
+</linearGradient>
+<polygon class="st0" points="499.9,0.4 499.9,500.4 -0.1,500.4 -0.1,0.4 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-439.8952" y1="1284.4403" x2="-446.1208" y2="1272.8903" gradientTransform="matrix(29.515 0 0 -21.463 13373.542 27738.1895)">
+	<stop  offset="0" style="stop-color:#03D1CF;stop-opacity:0.988"/>
+	<stop  offset="1" style="stop-color:#4E09F8"/>
+</linearGradient>
+<path class="st1" d="M425,368.2L250.3,113.7L75,368.2h244.2l-68.9-97.1l-34.2,50.5h-36.3l70.5-101.5l102,148.1L425,368.2z"/>
+</svg>

@@ -1,0 +1,40 @@
+{
+    "id": "gmx.io",
+    "name": "GMX",
+    "dappLink": "https://app.gmx.io/",
+    "defaultChain": 42161,
+    "supportedChains": [42161, 43114],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Perpetual Exchange",
+    "information": {
+      "website": "gmx.io",
+      "subTitle": "GMX is a decentralized, permissionless perpetual swap and spot exchange.",
+      "coinMarketCap": "gmx",
+      "coinGecko": "gmx"
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "42161": {
+          "tokenAddress":"0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
+        },
+        "43114": {
+          "tokenAddress":"0x62edc0692bd897d2295872a9ffcac5425011c661"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GMX_IO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GMX_IO"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/ymN38YefH9"
+        }
+    ]
+}

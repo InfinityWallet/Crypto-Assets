@@ -3,7 +3,7 @@
     "name": "Unstoppable Domains",
     "dappLink": "https://unstoppabledomains.com/",
     "defaultChain": 1,
-    "supportedChains": [1, 56, 137, 43114, 1666600000, 50],
+    "supportedChains": [1, 56, 137, 43114, 1666600000, 50, 42161],
     "categories": ["Tools"],
     "label": "NFT Domain Service",
     "information": {

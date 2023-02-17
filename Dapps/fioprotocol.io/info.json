@@ -3,7 +3,7 @@
     "name": "Fio",
     "dappLink": "https://dashboard.fioprotocol.io/ref/infinity",
     "defaultChain": 1,
-    "supportedChains": [1, 56, 137, 43114, 1666600000, 10, 50, 25, 321, 66, 501, 1729],
+    "supportedChains": [1, 56, 137, 42161, 43114, 1666600000, 10, 50, 25, 321, 66, 501, 1729],
     "categories": ["Tools"],
     "label": "Name Service",
     "information": {

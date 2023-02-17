@@ -3,7 +3,7 @@
     "name": "OpenSea",
     "dappLink": "https://opensea.io/",
     "defaultChain": 1,
-    "supportedChains": [1, 137, 501],
+    "supportedChains": [1, 137, 501, 42161],
     "categories": ["Marketplace", "NFTs"],
     "label": "NFT Marketplace",
     "information": {

@@ -3,7 +3,7 @@
     "name": "Guardarian",
     "dappLink": "https://guardarian.com/",
     "defaultChain": 1,
-    "supportedChains": [1, 56, 137, 43114, 1666600000, 50],
+    "supportedChains": [1, 56, 137, 43114, 1666600000, 42161, 50],
     "categories": ["Exchange", "Tools"],
     "label": "Buy/Sell Crypto",
     "information": {

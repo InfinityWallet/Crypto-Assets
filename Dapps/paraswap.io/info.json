@@ -3,7 +3,7 @@
     "name": "ParaSwap",
     "dappLink": "https://app.paraswap.io/",
     "defaultChain": 1,
-    "supportedChains": [1, 56, 137, 43114],
+    "supportedChains": [1, 56, 137, 43114, 42161],
     "categories": ["DeFi", "Exchange"],
     "label": "DEX Aggregator",
     "information": {
