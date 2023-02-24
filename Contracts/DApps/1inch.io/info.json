@@ -1,0 +1,87 @@
+{
+  "id": "1inch.io",
+  "name": "1inch",
+  "dappLink": "https://1inch.io/",
+  "contracts": {
+    "eth":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "avaxc":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "op":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "gno":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "klay":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ],
+    "aurora":[
+      {
+        "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
+        "id":"1inch-aggregation-v5",
+        "name": "1inch v5",
+        "type":"aggregator"
+      }
+    ]
+  }
+}

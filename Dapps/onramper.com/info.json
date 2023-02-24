@@ -1,0 +1,26 @@
+{
+    "id": "onramper.com",
+    "name": "Onramper",
+    "dappLink": "https://widget.onramper.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137, 43114, 1666600000, 42161, 50],
+    "categories": ["Exchange", "Tools"],
+    "label": "Buy/Sell Crypto",
+    "information": {
+      "website": "onramper.com",
+      "subTitle": "An on-ramp and off-ramp crypto provider for buying or selling crypto to/from fiat",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GetOnramper"
+        }
+    ]
+}
