@@ -1,0 +1,37 @@
+{
+    "id": "cow.fi",
+    "name": "CoW Swap",
+    "dappLink": "https://swap.cow.fi/",
+    "defaultChain": 1,
+    "supportedChains": [1],
+    "categories": ["DeFi", "Exchange"],
+    "label": "DEX Aggregator",
+    "information": {
+      "website": "cow.fi",
+      "subTitle": "CoW Protocol finds the lowest price for your trade across all exchanges and aggregators, such as Uniswap and 1inch and protects you from MEV.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CoWSwap"
+        },
+        {
+            "name": "medium",
+            "url": "https://cow-protocol.medium.com/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/cowprotocol"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "space.id",
+    "name": "Space ID",
+    "dappLink": "https://space.id/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 42161],
+    "categories": ["Tools"],
+    "label": "Web3 Domains",
+    "information": {
+      "website": "space.id",
+      "subTitle": "Space ID is a universal name service with a one-stop identity platform to discover, register, trade, manage web3 domains.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x2dff88a56767223a5529ea5960da7a3f5f766406"
+        },
+        "56": {
+          "tokenAddress":"0x2dff88a56767223a5529ea5960da7a3f5f766406"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SpaceIDProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/spaceid"
+        }
+    ]
+}

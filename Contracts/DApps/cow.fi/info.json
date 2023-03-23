@@ -1,0 +1,21 @@
+{
+  "id": "cow.fi",
+  "name": "CoW Swap",
+  "dappLink": "https://swap.cow.fi/",
+  "contracts": {
+    "eth":[
+      {
+        "contractAddress": "0x40a50cf069e992aa4536211b23f286ef88752187",
+        "id":"cowswap-eth-swaps",
+        "name": "CoW Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0xc92e8bdf79f0507f65a392b0ab4667716bfe0110",
+        "id":"cowswap-relayer",
+        "name": "CoW Swap",
+        "type":"aggregator"
+      }
+    ]
+  }
+}

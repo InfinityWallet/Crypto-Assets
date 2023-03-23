@@ -1,0 +1,38 @@
+{
+    "id": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+    "name": "Space ID",
+    "tag": "ID",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://space.id/",
+      "coinGeckoID": "space-id",
+      "coinMarketCapID": "space-id",
+      "description": "Space ID is a universal name service with a one-stop identity platform to discover, register, trade, manage web3 domains.",
+      "explorer": "https://bscscan.com/token/0x2dff88a56767223a5529ea5960da7a3f5f766406",
+      "coinGecko": "https://www.coingecko.com/en/coins/space-id",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/space-id/"
+    },
+    "styles": {
+      "color":"#1eefa4",
+      "button_a":"#1ee8a0",
+      "button_b":"#1e6f54",
+      "hover_a":"#1dc98c",
+      "hover_b":"#1b684e"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SpaceIDProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/spaceid_news"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/spaceid"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+    "name": "CoW Protocol",
+    "tag": "COW",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://space.id/",
+      "coinGeckoID": "cow-protocol",
+      "coinMarketCapID": "cow-protocol",
+      "description": "CoW Protocol finds the lowest price for your trade across all exchanges and aggregators, such as Uniswap and 1inch and protects you from MEV.",
+      "explorer": "https://bscscan.com/token/0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+      "coinGecko": "https://www.coingecko.com/en/coins/cow-protocol",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/cow-protocol/"
+    },
+    "styles": {
+      "color":"#1571b5",
+      "button_a":"#035896",
+      "button_b":"#042e61",
+      "hover_a":"#054f85",
+      "hover_b":"#032a5a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CoWSwap"
+        },
+        {
+            "name": "medium",
+            "url": "https://cow-protocol.medium.com/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/cowprotocol"
+        }
+    ]
+}

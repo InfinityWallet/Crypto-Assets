@@ -1,0 +1,15 @@
+{
+  "id": "space.id",
+  "name": "Space ID",
+  "dappLink": "https://space.id/",
+  "contracts": {
+    "bsc":[
+      {
+        "contractAddress": "0xe3b1d32e43ce8d658368e2cbff95d57ef39be8a6",
+        "id":"spaceid-register",
+        "name": "Space ID",
+        "type":"name service"
+      }
+    ]
+  }
+}
