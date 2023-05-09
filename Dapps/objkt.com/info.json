@@ -1,0 +1,30 @@
+{
+    "id": "objkt.com",
+    "name": "objkt",
+    "dappLink": "https://objkt.com/",
+    "defaultChain": 1,
+    "supportedChains": [1729],
+    "categories": ["Marketplace", "NFTs"],
+    "label": "NFT Marketplace",
+    "information": {
+      "website": "objkt.com",
+      "subTitle": "A decentralized marketplace for NFTs and crypto collectibles.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/objktcom"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/m7YFqPvmj6"
+        }
+    ]
+}

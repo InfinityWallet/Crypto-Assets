@@ -1,0 +1,39 @@
+{
+    "id": "KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ",
+    "asset_id": 16,
+    "name": "Uniswap",
+    "tag": "wUNI",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "FA2",
+    "information": {
+      "website": "https://uniswap.org/",
+      "coinGeckoID": "uniswap",
+      "coinMarketCapID": "uniswap",
+      "description": "Uniswap is a protocol on Ethereum for swapping ERC20 tokens without the need for buyers and sellers to create demand. It does this via an equation that automatically sets and balances the value depending on how much demand there is.",
+      "explorer": "https://tzkt.io/KT18fp5rcTW7mbWDmzFwjLDUhs5MeJmagDSZ/tokens/16/transfers",
+      "coinGecko": "https://coinmarketcap.com/currencies/uniswap/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/uniswap/"
+    },
+    "styles": {
+      "color":"#ed76ae",
+      "button_a":"#f7c0d8",
+      "button_b":"#ee77ae",
+      "hover_a":"#ecaec9",
+      "hover_b":"#ea6ea7"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/UniswapProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/XErMcTq"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Uniswap"
+        }
+    ]
+}
