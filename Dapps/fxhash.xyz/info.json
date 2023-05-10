@@ -2,7 +2,7 @@
     "id": "fxhash.xyz",
     "name": "fxhash",
     "dappLink": "https://www.fxhash.xyz/",
-    "defaultChain": 1,
+    "defaultChain": 1729,
     "supportedChains": [1729],
     "categories": ["Marketplace", "NFTs"],
     "label": "NFT Marketplace",
