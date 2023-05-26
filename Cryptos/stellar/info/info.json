@@ -1,0 +1,38 @@
+{
+    "id": "stellar",
+    "name": "Stellar",
+    "tag": "XLM",
+    "decimals": 7,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://www.stellar.org/",
+      "coinGeckoID": "stellar",
+      "coinMarketCapID": "stellar",
+      "description": "Stellar is an open-source and decentralized global blockchain network that allows digital currency to fiat money low-cost transfers at near instant speed.",
+      "explorer": "https://stellarchain.io/",
+      "coinGecko": "https://www.coingecko.com/coins/stellar",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/stellar/"
+    },
+    "styles": {
+      "color":"#8893a7",
+      "button_a":"#d6d8db",
+      "button_b":"#5d6574",
+      "hover_a":"#b1b5bd",
+      "hover_b":"#4a5362"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/StellarOrg"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Stellar/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/zVYdY3ktTn"
+        }
+    ]
+}
