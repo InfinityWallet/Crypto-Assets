@@ -1,0 +1,38 @@
+{
+    "id": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
+    "name": "Gala",
+    "tag": "GALA",
+    "decimals": 8,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://gala.com/",
+      "coinGeckoID": "gala",
+      "coinMarketCapID": "gala",
+      "description": "Gala Games is a blockchain gaming platform that allows players to earn cryptocurrencies and non-fungible tokens (NFTs) through gameplay. The GALA token is used to reward nodes for providing services to the network, as an in-game currency in Gala-sponsored blockchain games, as a means of trade in Gala's NFT marketplace, and for platform governance.",
+      "explorer": "https://etherscan.io/token/0xd1d2eb1b1e90b638588728b4130137d262c87cae",
+      "coinGecko": "https://coingecko.com/coins/gala/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/gala/"
+    },
+    "styles": {
+      "color":"#2588ed",
+      "button_a":"#2587ec",
+      "button_b":"#0a337e",
+      "hover_a":"#1e7ad8",
+      "hover_b":"#082b74"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GoGalaGames"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GoGalaGames"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/GoGalaGames/"
+        }
+    ]
+}
