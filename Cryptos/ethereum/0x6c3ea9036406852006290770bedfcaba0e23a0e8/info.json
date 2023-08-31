@@ -1,0 +1,30 @@
+{
+    "id": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+    "name": "Paypal USD",
+    "tag": "PYUSD",
+    "decimals": 6,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd",
+      "coinGeckoID": "paypal-usd",
+      "coinMarketCapID": "paypal-usd",
+      "description": "PayPal USD is designed to maintain a stable $1 USD value. It’s backed by dollar deposits, US treasuries, and cash equivalents.",
+      "explorer": "https://etherscan.io/token/0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+      "coinGecko": "https://coinmarketcap.com/currencies/paypal-usd",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/paypal-usd/"
+    },
+    "styles": {
+      "color":"#2982db",
+      "button_a":"#0070e0",
+      "button_b":"#0a3d99",
+      "hover_a":"#0a6aca",
+      "hover_b":"#003087"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PayPal"
+        }
+    ]
+}
