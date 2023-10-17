@@ -1,0 +1,15 @@
+{
+  "id": "paraswap.io",
+  "name": "ParaSwap",
+  "dappLink": "https://app.paraswap.io/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57",
+        "id":"paraswap-AugustusSwapper-v5",
+        "name": "Paraswap Swap",
+        "type":"aggregator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "velodrome.finance",
+  "name": "Velodrome",
+  "dappLink": "https://app.velodrome.finance/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x9c12939390052919af3155f41bf4160fd3666a6f",
+        "id":"velodrome-router-v1",
+        "name": "Velodrome Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x25cbddb98b35ab1ff77413456b31ec81a6b6b746",
+        "id":"velodrome-pairfactory-v1",
+        "name": "Velodrome Pair Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x5d5bea9f0fc13d967511668a60a3369fd53f784f",
+        "id":"velodrome-rewardsdistributor-v1",
+        "name": "Velodrome Rewards",
+        "type":"earn"
+      },
+      {
+        "contractAddress": "0x09236cff45047dbee6b921e00704bed6d6b8cf7e",
+        "id":"velodrome-voter-v1",
+        "name": "Velodrome Voter",
+        "type":"governance"
+      },
+      {
+        "contractAddress": "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858",
+        "id":"velodrome-router-v2",
+        "name": "Velodrome Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
+        "id":"velodrome-poolfactory-v2",
+        "name": "Velodrome Pool Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x41c914ee0c7e1a5edcd0295623e6dc557b5abf3c",
+        "id":"velodrome-voter-v2",
+        "name": "Velodrome Voter",
+        "type":"governance"
+      },
+      {
+        "contractAddress": "0x9d4736ec60715e71afe72973f7885dcbc21ea99b",
+        "id":"velodrome-distributor-v2",
+        "name": "Velodrome Rewards",
+        "type":"earn"
+      }
+    ]
+  }
+}

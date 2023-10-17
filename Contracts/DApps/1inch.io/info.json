@@ -7,7 +7,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -15,7 +15,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -23,7 +23,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -31,7 +31,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -39,7 +39,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -47,7 +47,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -55,7 +55,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -63,7 +63,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -71,7 +71,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ],
@@ -79,7 +79,7 @@
       {
         "contractAddress": "0x1111111254eeb25477b68fb85ed929f73a960582",
         "id":"1inch-aggregation-v5",
-        "name": "1inch v5",
+        "name": "1inch Swap",
         "type":"aggregator"
       }
     ]

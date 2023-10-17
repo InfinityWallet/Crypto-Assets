@@ -1,0 +1,37 @@
+{
+    "id": "velodrome.finance",
+    "name": "Velodrome",
+    "dappLink": "https://app.velodrome.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10],
+    "categories": ["DeFi", "Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "velodrome.finance",
+      "subTitle": "A decentralized AMM exchange on Optimism.",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/velodrome-finance/",
+      "coinGecko": "https://www.coingecko.com/coins/velodrome-finance"
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x9560e827af36c94d2ac33a39bce1fe78631088db"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/VelodromeFi"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/velodrome"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@VelodromeFi"
+        }
+    ]
+}

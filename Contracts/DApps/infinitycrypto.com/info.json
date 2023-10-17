@@ -8,7 +8,7 @@
         "contractAddress": "0xeb1c0efe6655e019e2c6ab01e0bd0c97f4899a4e",
         "id":"infinitycrypto-router",
         "name": "Infinity Crypto Router",
-        "type":"dex"
+        "type":"swap"
       },
       {
         "contractAddress": "0x58e3e2061c7dc94e06ce9e36c3db0e5687d88f12",
