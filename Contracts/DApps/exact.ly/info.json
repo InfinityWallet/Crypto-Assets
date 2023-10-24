@@ -1,0 +1,83 @@
+{
+  "id": "exact.ly",
+  "name": "Exactly",
+  "dappLink": "https://app.exact.ly/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x29babff3eba7b517a75109ea8fd6d1eab4a10258",
+        "id":"exactly-marketethrouter",
+        "name": "Exactly MarketETHRouter",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xa430a427bd00210506589906a71b54d6c256cedb",
+        "id":"exactly-marketop",
+        "name": "Exactly MarketOP",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
+        "id":"exactly-marketusdc",
+        "name": "Exactly MarketUSDC",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xc4d4500326981eacd020e20a81b1c479c161c7ef",
+        "id":"exactly-marketweth",
+        "name": "Exactly MarketWETH",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
+        "id":"exactly-marketwsteth",
+        "name": "Exactly MarketWstETH",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xbd1ba78a3976cab420a9203e6ef14d18c2b2e031",
+        "id":"exactly-rewardscontroller",
+        "name": "Exactly RewardsController",
+        "type":"token"
+      }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0x29babff3eba7b517a75109ea8fd6d1eab4a10258",
+        "id":"exactly-marketethrouter",
+        "name": "Exactly MarketETHRouter",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x163538e22f4d38c1eb21b79939f3d2ee274198ff",
+        "id":"exactly-marketdai",
+        "name": "Exactly MarketDAI",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x660e2fc185a9ffe722af253329ceaad4c9f6f928",
+        "id":"exactly-marketusdc",
+        "name": "Exactly MarketUSDC",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x8644c0fded361d1920e068ba4b09996e26729435",
+        "id":"exactly-marketwbtc",
+        "name": "Exactly MarketWBTC",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xc4d4500326981eacd020e20a81b1c479c161c7ef",
+        "id":"exactly-marketweth",
+        "name": "Exactly MarketWETH",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x3843c41da1d7909c86fad51c47b9a97cf62a29e1",
+        "id":"exactly-marketwsteth",
+        "name": "Exactly MarketWstETH",
+        "type":"token"
+      }
+    ],
+  }
+}

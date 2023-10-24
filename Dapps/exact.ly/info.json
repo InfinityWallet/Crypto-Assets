@@ -1,0 +1,33 @@
+{
+    "id": "exact.ly",
+    "name": "Exactly",
+    "dappLink": "https://app.exact.ly/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "exact.ly",
+      "subTitle": "A decentralized to earn intrest on lending or borrow assets.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x1e925de1c68ef83bd98ee3e130ef14a50309c01b"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ExactlyProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/exactly"
+        }
+    ]
+}

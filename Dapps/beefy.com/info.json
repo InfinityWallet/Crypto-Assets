@@ -1,0 +1,53 @@
+{
+    "id": "beefy.com",
+    "name": "Beefy",
+    "dappLink": "https://app.beefy.com/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 56, 137, 42161, 43114, 250, 25, 1284, 1285, 1088, 122, 2222, 7700, 324, 1101 ,8453],
+    "categories": ["DeFi", "Earn"],
+    "label": "Yield Aggregator",
+    "information": {
+      "website": "beefy.com",
+      "subTitle": "A decentralized multichain yield optimizer",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1"
+        },
+        "56": {
+          "tokenAddress":"0xca3f508b8e4dd382ee878a314789373d80a5190a"
+        },
+        "137": {
+          "tokenAddress":"0xfbdd194376de19a88118e84e279b977f165d01b8"
+        },
+        "42161": {
+          "tokenAddress":"0x99c409e5f62e4bd2ac142f17cafb6810b8f0baae"
+        },
+        "43114": {
+          "tokenAddress":"0xd6070ae98b8069de6b494332d1a1a81b6179d960"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/beefyfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/beefyfinance"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/beefy/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/beefyfinance"
+        }
+    ]
+}
