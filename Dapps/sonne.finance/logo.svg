@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FDA669;}
+	.st2{fill:#FD684E;}
+</style>
+<title>decentraland</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1539" y1="619.3" x2="1039" y2="619.3" gradientTransform="matrix(0 -1 -1 0 869.3 1539)">
+	<stop  offset="0" style="stop-color:#4D231D"/>
+	<stop  offset="1" style="stop-color:#30100B"/>
+</linearGradient>
+<polygon class="st0" points="500,0 500,500 0,500 0,0 "/>
+<g id="Layer_1-2">
+	<g>
+		<circle class="st1" cx="85.3" cy="281.1" r="13.8"/>
+		<circle class="st1" cx="414.7" cy="281.1" r="13.8"/>
+		<circle class="st1" cx="392.6" cy="198.7" r="13.8"/>
+		<circle class="st1" cx="332.4" cy="138.5" r="13.8"/>
+		<circle class="st1" cx="250" cy="116.4" r="13.8"/>
+		<circle class="st1" cx="167.6" cy="138.5" r="13.8"/>
+		<circle class="st1" cx="107.4" cy="198.7" r="13.8"/>
+		<path class="st1" d="M152.2,199c23.3-28.1,58.4-46,97.7-46c51.1,0,95.1,30.2,115.2,73.6H188.1c-5.2,0-10.2-2.1-13.8-5.7L152.2,199
+			z"/>
+		<path class="st2" d="M372.8,246.8H179.7c-5.2,0-10.2-2.1-13.8-5.8l-25.8-25.7c-10,17.2-16,37-16.8,58.1h253.4
+			C376.3,264.4,375,255.3,372.8,246.8L372.8,246.8z"/>
+		<path class="st2" d="M123.3,293.6c0.4,9,1.6,17.9,3.8,26.4l0.6,0.3h192.7c5.2,0,10.2,2.1,13.8,5.8l25.7,25.7
+			c10-17.2,16-37,16.8-58.1C376.7,293.6,123.3,293.6,123.3,293.6z"/>
+		<path class="st1" d="M60,340.5h250.4c5.5,0,10.7,2.3,14.4,6.3l10.1,10.9H77.2C67.8,357.7,60.1,350,60,340.5L60,340.5L60,340.5z"/>
+		<path class="st1" d="M386.3,340.5H440c0,9.5-7.8,17.2-17.2,17.2h-43.3C379.5,357.7,384.5,349,386.3,340.5z"/>
+		<path class="st1" d="M95,377.7l310.1,0.6l0,0c0,9.5-7.7,17.2-17.2,17.2l-275.7-0.5C102.7,394.9,95,387.2,95,377.7L95,377.7
+			L95,377.7z"/>
+	</g>
+</g>
+</svg>

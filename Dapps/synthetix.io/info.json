@@ -1,0 +1,46 @@
+{
+    "id": "synthetix.io",
+    "name": "Synthetix",
+    "dappLink": "https://staking.synthetix.io/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1],
+    "categories": ["DeFi", "Earn"],
+    "label": "Synthetix Assets",
+    "information": {
+      "website": "synthetix.io",
+      "subTitle": "Decentralized synthetic asset platform",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+        },
+        "56": {
+          "tokenAddress":"0x9ac983826058b8a9c7aa1c9171441191232e8404"
+        },
+        "10": {
+          "tokenAddress":"0x8700daec35af8ff88c16bdf0418774cb3d7599b4"
+        },
+        "137": {
+          "tokenAddress":"0x50b728d8d964fd00c2d0aad81718b71311fef68a"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/synthetix_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/AEdUHzt"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/synthetix_io"
+        }
+    ]
+}

@@ -9,8 +9,8 @@
     "information": {
       "website": "velodrome.finance",
       "subTitle": "A decentralized AMM exchange on Optimism.",
-      "coinMarketCap": "https://coinmarketcap.com/currencies/velodrome-finance/",
-      "coinGecko": "https://www.coingecko.com/coins/velodrome-finance"
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/velodrome-finance-v2/",
+      "coinGecko": ""
     },
     "tokenInformation": {
       "hasToken": true,

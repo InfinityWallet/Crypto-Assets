@@ -1,0 +1,52 @@
+{
+    "id": "uniswap.org",
+    "name": "Uniswap",
+    "dappLink": "https://app.uniswap.org/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 56, 42161, 137, 8453, 43114, 42220],
+    "categories": ["DeFi", "Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "uniswap.org",
+      "subTitle": "The 1st decentralized AMM exchange",
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/uniswap-v3/",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+        },
+        "56": {
+          "tokenAddress":"0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+        },
+        "10": {
+          "tokenAddress":"0x6fd9d7ad17242c41f7131d257212c54a0e816691"
+        },
+        "137": {
+          "tokenAddress":"0xb33eaad8d922b1083446dc23f610c2567fb5180f"
+        },
+        "42161": {
+          "tokenAddress":"0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0"
+        },
+        "43114": {
+          "tokenAddress":"0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Uniswap"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/FCfyBSbCU5"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Uniswap"
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "uniswap.org",
+  "name": "uniswap",
+  "dappLink": "https://app.uniswap.org/",
+  "contracts": {
+    "eth":[
+      {
+        "contractAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+        "id":"uniswap-factory-v3",
+        "name": "Uniswap Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+        "id":"uniswap-multicall-v3",
+        "name": "Uniswap Aggregate",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe592427a0aece92de3edee1f18e0157c05861564",
+        "id":"uniswap-router-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45",
+        "id":"uniswap-router02-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+        "id":"uniswap-permit2-v3",
+        "name": "Uniswap Approve",
+        "type":"permit"
+      },
+      {
+        "contractAddress": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad",
+        "id":"uniswap-universalrouter-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      }
+    ],
+    "op":[
+      {
+        "contractAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+        "id":"uniswap-factory-v3",
+        "name": "Uniswap Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+        "id":"uniswap-multicall-v3",
+        "name": "Uniswap Aggregate",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe592427a0aece92de3edee1f18e0157c05861564",
+        "id":"uniswap-router-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45",
+        "id":"uniswap-router02-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+        "id":"uniswap-permit2-v3",
+        "name": "Uniswap Approve",
+        "type":"permit"
+      },
+      {
+        "contractAddress": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad",
+        "id":"uniswap-universalrouter-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+        "id":"uniswap-factory-v3",
+        "name": "Uniswap Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+        "id":"uniswap-multicall-v3",
+        "name": "Uniswap Aggregate",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe592427a0aece92de3edee1f18e0157c05861564",
+        "id":"uniswap-router-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45",
+        "id":"uniswap-router02-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+        "id":"uniswap-permit2-v3",
+        "name": "Uniswap Approve",
+        "type":"permit"
+      },
+      {
+        "contractAddress": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad",
+        "id":"uniswap-universalrouter-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+        "id":"uniswap-factory-v3",
+        "name": "Uniswap Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x5ba1e12693dc8f9c48aad8770482f4739beed696",
+        "id":"uniswap-multicall-v3",
+        "name": "Uniswap Aggregate",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe592427a0aece92de3edee1f18e0157c05861564",
+        "id":"uniswap-router-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45",
+        "id":"uniswap-router02-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+        "id":"uniswap-permit2-v3",
+        "name": "Uniswap Approve",
+        "type":"permit"
+      },
+      {
+        "contractAddress": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad",
+        "id":"uniswap-universalrouter-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0xdb1d10011ad0ff90774d0c6bb92e5c5c8b4461f7",
+        "id":"uniswap-factory-v3",
+        "name": "Uniswap Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x963df249ed09c358a4819e39d9cd5736c3087184",
+        "id":"uniswap-multicall-v3",
+        "name": "Uniswap Aggregate",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xb971ef87ede563556b2ed4b1c0b0019111dd85d2",
+        "id":"uniswap-router02-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+        "id":"uniswap-permit2-v3",
+        "name": "Uniswap Approve",
+        "type":"permit"
+      },
+      {
+        "contractAddress": "0x5302086a3a25d473aabbd0356eff8dd811a4d89b",
+        "id":"uniswap-universalrouter-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      }
+    ],
+    "celo":[
+      {
+        "contractAddress": "0xafe208a311b21f13ef87e33a90049fc17a7acdec",
+        "id":"uniswap-factory-v3",
+        "name": "Uniswap Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x633987602de5c4f337e3dbf265303a1080324204",
+        "id":"uniswap-multicall-v3",
+        "name": "Uniswap Aggregate",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x5615cdab10dc425a742d643d949a7f474c01abc4",
+        "id":"uniswap-router-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+        "id":"uniswap-permit2-v3",
+        "name": "Uniswap Approve",
+        "type":"permit"
+      },
+      {
+        "contractAddress": "0x5dc88340e1c5c6366864ee415d6034cadd1a9897",
+        "id":"uniswap-universalrouter-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0x33128a8fc17869897dce68ed026d694621f6fdfd",
+        "id":"uniswap-factory-v3",
+        "name": "Uniswap Factory",
+        "type":"pools"
+      },
+      {
+        "contractAddress": "0x091e99cb1c49331a94dd62755d168e941abd0693",
+        "id":"uniswap-multicall-v3",
+        "name": "Uniswap Aggregate",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x2626664c2603336e57b271c5c0b26f421741e481",
+        "id":"uniswap-router02-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+        "id":"uniswap-permit2-v3",
+        "name": "Uniswap Approve",
+        "type":"permit"
+      },
+      {
+        "contractAddress": "0x198ef79f1f515f02dfe9e3115ed9fc07183f02fc",
+        "id":"uniswap-universalrouter-v3",
+        "name": "Uniswap Router",
+        "type":"swap"
+      }
+    ]
+  }
+}

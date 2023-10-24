@@ -1,0 +1,33 @@
+{
+    "id": "sonne.finance",
+    "name": "Sonne Finance",
+    "dappLink": "https://sonne.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 8453],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "sonne.finance",
+      "subTitle": "A decentralized to earn intrest on lending or borrow assets.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x1db2466d9f5e10d7090e7152b68d62703a2245f0"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SonneFinance"
+        },
+        {
+            "name": "discord",
+            "url": "http://discord.gg/SonneFinance"
+        }
+    ]
+}

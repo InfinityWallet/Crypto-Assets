@@ -1,0 +1,125 @@
+{
+  "id": "sonne.finance",
+  "name": "Sonne Finance",
+  "dappLink": "https://sonne.finance/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x60cf091cd3f50420d50fd7f707414d0df4751c58",
+        "id":"sonne-finance-unitroller",
+        "name": "Sonne Finance Unitroller",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xf7b5965f5c117eb1b5450187c9dcfccc3c317e8e",
+        "id":"sonne-finance-soweth",
+        "name": "Sonne Finance soWETH",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x5569b83de187375d43fbd747598bfe64fc8f6436",
+        "id":"sonne-finance-unitroller-sodai",
+        "name": "Sonne Finance soDAI",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xec8fea79026ffed168ccf5c627c7f486d77b765f",
+        "id":"sonne-finance-unitroller-sousdc",
+        "name": "Sonne Finance soUSDC",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x5ff29e4470799b982408130efaabdeeae7f66a10",
+        "id":"sonne-finance-unitroller-sousdt",
+        "name": "Sonne Finance soUSDT",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x8cd6b19a07d754bf36adeee79edf4f2134a8f571",
+        "id":"sonne-finance-unitroller-soop",
+        "name": "Sonne Finance soOP",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xd14451e0fa44b18f08aeb1e4a4d092b823caca68",
+        "id":"sonne-finance-unitroller-sosusd",
+        "name": "Sonne Finance soSUSD",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x41279e29586eb20f9a4f65e031af09fced171166",
+        "id":"sonne-finance-unitroller-usonne",
+        "name": "Sonne Finance Staked Sonne",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0xdc05d85069dc4aba65954008ff99f2d73ff12618",
+        "id":"sonne-finance-unitroller-ssonne",
+        "name": "Sonne Finance Staked Sonne",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0xd7daabd899d1fabbc3a9ac162568939cec0393cc",
+        "id":"sonne-finance-unitroller-sosnx",
+        "name": "Sonne Finance soSNX",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x33865e09a572d4f1cc4d75afc9abcc5d3d4d867d",
+        "id":"sonne-finance-unitroller-sowbtc",
+        "name": "Sonne Finance soWBTC",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xafdf91f120dec93c65fd63dbd5ec372e5dca5f82",
+        "id":"sonne-finance-unitroller-solusd",
+        "name": "Sonne Finance soLUSD",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x26aab17f27cd1c8d06a0ad8e4a1af8b1032171d5",
+        "id":"sonne-finance-unitroller-sowsteth",
+        "name": "Sonne Finance sowstETH",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xe7de932d50efc9ea0a7a409fc015b4f71443528e",
+        "id":"sonne-finance-unitroller-somai",
+        "name": "Sonne Finance soMAI",
+        "type":"token"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
+        "id":"sonne-finance-unitroller",
+        "name": "Sonne Finance Unitroller",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x5f5c479fe590cd4442a05ae4a941dd991a633b8e",
+        "id":"sonne-finance-unitroller-sobweth",
+        "name": "Sonne Finance sobWETH",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xb864ba2aab1f53bc3af7ae49a318202dd3fd54c2",
+        "id":"sonne-finance-unitroller-sobdai",
+        "name": "Sonne Finance sobDAI",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0x225886c9beb5eee254f79d58bbd80cf9f200d4d0",
+        "id":"sonne-finance-unitroller-sobusdbc",
+        "name": "Sonne Finance sobUSDbC",
+        "type":"token"
+      },
+      {
+        "contractAddress": "0xfd68f92b45b633bbe0f475294c1a86aecd62985a",
+        "id":"sonne-finance-unitroller-sobusdc",
+        "name": "Sonne Finance sobUSDC",
+        "type":"token"
+      }
+    ],
+  }
+}
