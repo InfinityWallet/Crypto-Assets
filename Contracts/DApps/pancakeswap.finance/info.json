@@ -9,26 +9,224 @@
         "id":"pancakeswap-router",
         "name": "PancakeSwap Router",
         "type":"swap"
+      },
+      {
+        "contractAddress": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x556b9306565093c855aea9ae92a594704c2cd59e",
+        "id":"pancakeswap-masterchef-v3",
+        "name": "PancakeSwap Masterchef",
+        "type":"stake"
       }
     ],
     "bsc":[
       {
-        "contractAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+        "contractAddress": "0x10ed43c718714eb63d5aa57b78b54704e256024e",
         "id":"pancakeswap-router",
         "name": "PancakeSwap Router",
         "type":"swap"
       },
       {
-        "contractAddress": "0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652",
+        "contractAddress": "0xa5f8c5dbd5f286960b9d90548680ae5ebff07652",
         "id":"pancakeswap-stake",
         "name": "PancakeSwap Stake",
         "type":"stake"
       },
       {
-        "contractAddress": "0x17539cCa21C7933Df5c980172d22659B8C345C5A",
+        "contractAddress": "0x17539cca21c7933df5c980172d22659b8c345c5a",
         "id":"pancakeswap-marketplace",
         "name": "PancakeSwap Marketplace",
         "type":"marketplace"
+      },
+      {
+        "contractAddress": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Smart Router",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x556b9306565093c855aea9ae92a594704c2cd59e",
+        "id":"pancakeswap-masterchef-v3",
+        "name": "PancakeSwap Masterchef",
+        "type":"stake"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x32226588378236fd0c7c4053999f88ac0e5cac77",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Smart Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x5e09acf80c0296740ec5d6f643005a4ef8daa694",
+        "id":"pancakeswap-masterchef-v3",
+        "name": "PancakeSwap Masterchef",
+        "type":"stake"
+      }
+    ],
+    "op":[
+      {
+        "contractAddress": "0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Smart Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Smart Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xc6a2db661d5a5690172d8eb0a7dea2d3008665a3",
+        "id":"pancakeswap-masterchef-v3",
+        "name": "PancakeSwap Masterchef",
+        "type":"stake"
+      }
+    ],
+    "linea":[
+      {
+        "contractAddress": "0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Smart Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x22e2f236065b780fa33ec8c4e58b99ebc8b55c57",
+        "id":"pancakeswap-masterchef-v3",
+        "name": "PancakeSwap Masterchef",
+        "type":"stake"
+      }
+    ],
+    "zkevem":[
+      {
+        "contractAddress": "0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Smart Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x1b81d678ffb9c0263b24a97847620c99d213eb14",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xe9c7f3196ab8c09f6616365e8873daeb207c0391",
+        "id":"pancakeswap-masterchef-v3",
+        "name": "PancakeSwap Masterchef",
+        "type":"stake"
+      }
+    ],
+    "zksync":[
+      {
+        "contractAddress": "0xf8b59f3c3ab33200ec80a8a58b2aa5f5d2a8944c",
+        "id":"pancakeswap-smartrouter-v3",
+        "name": "PancakeSwap Smart Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xd70c70ad87aa8d45b8d59600342fb3aee76e3c68",
+        "id":"pancakeswap-router-v3",
+        "name": "PancakeSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xa815e2ed7f7d5b0c49fda367f249232a1b9d2883",
+        "id":"pancakeswap-nonfungiblepositionmanager-v3",
+        "name": "PancakeSwap NonfungiblePositionManager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x4c615e78c5fca1ad31e4d66eb0d8688d84307463",
+        "id":"pancakeswap-masterchef-v3",
+        "name": "PancakeSwap Masterchef",
+        "type":"stake"
       }
     ]
   }
