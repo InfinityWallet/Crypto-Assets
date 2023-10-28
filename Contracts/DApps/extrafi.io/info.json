@@ -1,0 +1,47 @@
+{
+  "id": "extrafi.io",
+  "name": "Extra Finance",
+  "dappLink": "https://app.extrafi.io/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd",
+        "id":"extrafi-lending",
+        "name": "Extra Finance Lending",
+        "type":"lend"
+      },
+      {
+        "contractAddress": "0xf9cfb8a62f50e10adde5aa888b44cf01c5957055",
+        "id":"extrafi-farming",
+        "name": "Extra Finance Farming",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xe0bec4f45aef64cec9dcb9010d4beffb13e91466",
+        "id":"extrafi-staking",
+        "name": "Extra Finance Staking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0xb7d8613728efcfbb18bcd63deec06f64441d322a",
+        "id":"extrafi-reward-distributor",
+        "name": "Extra Finance RewardDistributor",
+        "type":"earn"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd",
+        "id":"extrafi-lending",
+        "name": "Extra Finance Lending",
+        "type":"lend"
+      },
+      {
+        "contractAddress": "0xf9cfb8a62f50e10adde5aa888b44cf01c5957055",
+        "id":"extrafi-farming",
+        "name": "Extra Finance Farming",
+        "type":"farm"
+      }
+    ]
+  }
+}

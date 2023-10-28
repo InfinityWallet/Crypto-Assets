@@ -1,0 +1,33 @@
+{
+    "id": "extrafi.io",
+    "name": "Extra Finance",
+    "dappLink": "https://app.extrafi.io/",
+    "defaultChain": 10,
+    "supportedChains": [10, 8453],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Leveraged Farming",
+    "information": {
+      "website": "extrafi.io",
+      "subTitle": "A leveraged yield strategy & lending protocol",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x2dad3a13ef0c6366220f989157009e501e7938f8"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ExtraFi_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/extra-finance"
+        }
+    ]
+}
