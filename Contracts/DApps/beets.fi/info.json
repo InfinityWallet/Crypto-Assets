@@ -1,0 +1,29 @@
+{
+  "id": "beets.fi",
+  "name": "Beethoven X",
+  "dappLink": "https://op.beets.fi/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0xba12222222228d8ba445958a75a0704d566bf2c8",
+        "id":"beets-swap",
+        "name": "Beethoven X Swap",
+        "type":"swap"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0x20dd72ed959b6147912c2e529f0a0c651c33c9ce",
+        "id":"beets-swap",
+        "name": "Beethoven X Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x8166994d9ebbe5829ec86bd81258149b87facfd3",
+        "id":"beets-masterchef",
+        "name": "Beethoven X MasterChef",
+        "type":"stake"
+      }
+    ]
+  }
+}

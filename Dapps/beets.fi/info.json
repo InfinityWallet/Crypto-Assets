@@ -1,0 +1,36 @@
+{
+    "id": "beets.fi",
+    "name": "Beethoven X",
+    "dappLink": "https://op.beets.fi/",
+    "defaultChain": 10,
+    "supportedChains": [10, 250],
+    "categories": ["DeFi", "Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "beets.fi",
+      "subTitle": "A decentralized AMM exchange",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x97513e975a7fa9072c72c92d8000b0db90b163c5"
+        },
+        "250": {
+          "tokenAddress":"0xf24bcf4d1e507740041c9cfd2dddb29585adce1e"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/beethoven_x"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/jedS4zGk28"
+        }
+    ]
+}

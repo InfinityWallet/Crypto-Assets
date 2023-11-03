@@ -1,0 +1,64 @@
+{
+    "id": "yearn.fi",
+    "name": "Yearn Finance",
+    "dappLink": "https://yearn.fi/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 250, 42161, 8453],
+    "categories": ["DeFi", "Earn"],
+    "label": "Yield Aggregator",
+    "information": {
+      "website": "yearn.fi",
+      "subTitle": "A DeFi aggregator using automation to allow maximization of profits from yield farming.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+        },
+        "10": {
+          "tokenAddress":"0x9046d36440290ffde54fe0dd84db8b1cfee9107b"
+        },
+        "56": {
+          "tokenAddress":"0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e"
+        },
+        "43114": {
+          "tokenAddress":"0x9eaac1b23d935365bd7b542fe22ceee2922f52dc"
+        },
+        "42161": {
+          "tokenAddress":"0x82e3a8f066a6989666b031d916c43672085b1582"
+        },
+        "250": {
+          "tokenAddress":"0x29b0da86e484e1c0029b56e817912d778ac0ec69"
+        },
+        "100": {
+          "tokenAddress":"0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd"
+        },
+        "8453": {
+          "tokenAddress":"0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239"
+        },
+        "137": {
+          "tokenAddress":"0xda537104d6a5edd53c6fbba9a898708e465260b6"
+        },
+        "501": {
+          "tokenAddress":"BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/yearnfi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/yearnfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/93PHbB4"
+        }
+    ]
+}
