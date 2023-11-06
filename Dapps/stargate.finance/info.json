@@ -1,0 +1,55 @@
+{
+    "id": "stargate.finance",
+    "name": "Stargate",
+    "dappLink": "https://stargate.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 56, 43114, 137, 42161, 250, 1088, 8453, 59144, 2222],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Bridge",
+    "information": {
+      "website": "stargate.finance",
+      "subTitle": "A decentralized liquity protocol for cross-chain transfer",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6"
+        },
+        "56": {
+          "tokenAddress":"0xb0d502e938ed5f4df2e681fe6e419ff29631d62b"
+        },
+        "10": {
+          "tokenAddress":"0x296f55f8fb28e498b858d0bcda06d955b2cb3f97"
+        },
+        "42161": {
+          "tokenAddress":"0x6694340fc020c5e6b96567843da2df01b2ce1eb6"
+        },
+        "43114": {
+          "tokenAddress":"0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+        },
+        "137": {
+          "tokenAddress":"0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+        },
+        "250": {
+          "tokenAddress":"0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/StargateFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/joinchat/LEM0ELklmO1kODdh"
+        },
+        {
+            "name": "discord",
+            "url": "https://stargate.finance/discord"
+        }
+    ]
+}

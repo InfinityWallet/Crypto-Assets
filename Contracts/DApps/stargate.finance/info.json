@@ -1,0 +1,431 @@
+{
+  "id": "stargate.finance",
+  "name": "Stargate",
+  "dappLink": "https://stargate.finance/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0xb49c4e680174e331cb0a7ff3ab58afc9738d5f8b",
+        "id":"stargate-router-eth",
+        "name": "Stargate Router Eth",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x4dea9e918c6289a52cd469cac652727b7b412cd2",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0xd22363e3762ca7339569f3d33eade20127d5f98c",
+        "id":"stargate-pool-eth",
+        "name": "Stargate Pool ETH",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0xdecc0c09c3b5f6e92ef4184125d5648a66e35298",
+        "id":"stargate-pool-usdc",
+        "name": "Stargate Pool USDC",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x165137624f1f692e69659f944bf69de02874ee27",
+        "id":"stargate-pool-dai",
+        "name": "Stargate Pool DAI",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x368605d9c6243a80903b9e326f1cddde088b8924",
+        "id":"stargate-pool-frax",
+        "name": "Stargate Pool FRAX",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x2F8bC9081c7FCFeC25b9f41a50d97EaA592058ae",
+        "id":"stargate-pool-susd",
+        "name": "Stargate Pool sUSD",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x3533f5e279bdbf550272a199a223da798d9eff78",
+        "id":"stargate-pool-lusd",
+        "name": "Stargate Pool LUSD",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x5421fa1a48f9ff81e4580557e86c7c0d24c18036",
+        "id":"stargate-pool-mai",
+        "name": "Stargate Pool MAI",
+        "type":"pool"
+      }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0x8731d54e9d02c286767d56ac03e8037c07e01e98",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x150f94b44927f078737562f0fcf3c95c01cc2376",
+        "id":"stargate-router-eth",
+        "name": "Stargate Router Eth",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x101816545f6bd2b1076434b54383a1e633390a2e",
+        "id":"stargate-pool-eth",
+        "name": "Stargate Pool ETH",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0xdf0770df86a8034b3efef0a1bb3c889b8332ff56",
+        "id":"stargate-pool-usdc",
+        "name": "Stargate Pool USDC",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x38ea452219524bb87e18de1c24d3bb59510bd783",
+        "id":"stargate-pool-usdt",
+        "name": "Stargate Pool USDT",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x692953e758c3669290cb1677180c64183cee374e",
+        "id":"stargate-pool-usdd",
+        "name": "Stargate Pool USDD",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x0faf1d2d3ced330824de3b8200fc8dc6e397850d",
+        "id":"stargate-pool-dai",
+        "name": "Stargate Pool DAI",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0xfa0f307783ac21c39e939acff795e27b650f6e68",
+        "id":"stargate-pool-frax",
+        "name": "Stargate Pool FRAX",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x590d4f8a68583639f215f675f3a259ed84790580",
+        "id":"stargate-pool-susd",
+        "name": "Stargate Pool sUSD",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0xe8f55368c82d38bbbbdb5533e7f56afc2e978cc2",
+        "id":"stargate-pool-lusd",
+        "name": "Stargate Pool LUSD",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x9cef9a0b1be0d289ac9f4a98ff317c33eaa84eb8",
+        "id":"stargate-pool-mai",
+        "name": "Stargate Pool MAI",
+        "type":"pool"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0x4a364f8c717caad9a442737eb7b8a55cc6cf18d8",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x3052a0f6ab15b4ae1df39962d5ddefaca86dab47",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda",
+        "id":"stargate-pool-usdt",
+        "name": "Stargate Pool USDT",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x4e145a589e4c03cbe3d28520e4bf3089834289df",
+        "id":"stargate-pool-usdd",
+        "name": "Stargate Pool USDD",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x7bfd7f2498c4796f10b6c611d9db393d3052510c",
+        "id":"stargate-pool-mai",
+        "name": "Stargate Pool MAI",
+        "type":"pool"
+      }
+    ],
+    "avaxc":[
+      {
+        "contractAddress": "0x45a01e4e04f14f7a4a6702c74187c5f6222033cd",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x8731d54e9d02c286767d56ac03e8037c07e01e98",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x1205f31718499dbf1fca446663b532ef87481fe1",
+        "id":"stargate-pool-usdc",
+        "name": "Stargate Pool USDC",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x29e38769f23701a2e4a8ef0492e19da4604be62c",
+        "id":"stargate-pool-usdt",
+        "name": "Stargate Pool USDT",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x1c272232df0bb6225da87f4decd9d37c32f63eea",
+        "id":"stargate-pool-frax",
+        "name": "Stargate Pool FRAX",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x8736f92646b2542b3e5f3c63590ca7fe313e283b",
+        "id":"stargate-pool-mai",
+        "name": "Stargate Pool MAI",
+        "type":"pool"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0x45a01e4e04f14f7a4a6702c74187c5f6222033cd",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x8731d54e9d02c286767d56ac03e8037c07e01e98",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x1205f31718499dbf1fca446663b532ef87481fe1",
+        "id":"stargate-pool-usdc",
+        "name": "Stargate Pool USDC",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x29e38769f23701a2e4a8ef0492e19da4604be62c",
+        "id":"stargate-pool-usdt",
+        "name": "Stargate Pool USDT",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x1c272232df0bb6225da87f4decd9d37c32f63eea",
+        "id":"stargate-pool-dai",
+        "name": "Stargate Pool DAI",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x8736f92646b2542b3e5f3c63590ca7fe313e283b",
+        "id":"stargate-pool-mai",
+        "name": "Stargate Pool MAI",
+        "type":"pool"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x53bf833a5d6c4dda888f69c22c88c9f356a41614",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0xbf22f0f184bccbea268df387a49ff5238dd23e40",
+        "id":"stargate-router-eth",
+        "name": "Stargate Router Eth",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x9774558534036ff2e236331546691b4eb70594b1",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x915a55e36a01285a14f05de6e81ed9ce89772f8e",
+        "id":"stargate-pool-eth",
+        "name": "Stargate Pool ETH",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x892785f33cdee22a30aef750f285e18c18040c3e",
+        "id":"stargate-pool-usdc",
+        "name": "Stargate Pool USDC",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0xb6cfcf89a7b22988bfc96632ac2a9d6dab60d641",
+        "id":"stargate-pool-usdt",
+        "name": "Stargate Pool USDT",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0xaa4bf442f024820b2c28cd0fd72b82c63e66f56c",
+        "id":"stargate-pool-frax",
+        "name": "Stargate Pool FRAX",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0xf39b7be294cb36de8c510e267b82bb588705d977",
+        "id":"stargate-pool-mai",
+        "name": "Stargate Pool MAI",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x600e576f9d853c95d58029093a16ee49646f3ca5",
+        "id":"stargate-pool-lusd",
+        "name": "Stargate Pool LUSD",
+        "type":"pool"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x224d8fd7ab6ad4c6eb4611ce56ef35dec2277f03",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x224d8fd7ab6ad4c6eb4611ce56ef35dec2277f03",
+        "id":"stargate-pool-usdc",
+        "name": "Stargate Pool USDC",
+        "type":"pool"
+      }
+    ],
+    "metis":[
+      {
+        "contractAddress": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x45a01e4e04f14f7a4a6702c74187c5f6222033cd",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0xaad094f6a75a14417d39f04e690fc216f080a41a",
+        "id":"stargate-pool-metis",
+        "name": "Stargate Pool METIS",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x2b60473a7c41deb80eddaafd5560e963440eb632",
+        "id":"stargate-pool-mUSDT",
+        "name": "Stargate Pool m.USDT",
+        "type":"pool"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0x45f1a95a4d3f3836523f5c83673c797f4d4d263b",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x50b6ebc2103bfec165949cc946d739d5650d7ae4",
+        "id":"stargate-router-eth",
+        "name": "Stargate Router Eth",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x06eb48763f117c7be887296cdcdfad2e4092739c",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0x28fc411f9e1c480ad312b3d9c60c22b965015c6b",
+        "id":"stargate-pool-eth",
+        "name": "Stargate Pool ETH",
+        "type":"pool"
+      },
+      {
+        "contractAddress": "0x4c80e24119cfb836cdf0a6b53dc23f04f7e652ca",
+        "id":"stargate-pool-usdc",
+        "name": "Stargate Pool USDC",
+        "type":"pool"
+      }
+    ],
+    "linea":[
+      {
+        "contractAddress": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x8731d54e9d02c286767d56ac03e8037c07e01e98",
+        "id":"stargate-router-eth",
+        "name": "Stargate Router Eth",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x4a364f8c717caad9a442737eb7b8a55cc6cf18d8",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0xaad094f6a75a14417d39f04e690fc216f080a41a",
+        "id":"stargate-pool-eth",
+        "name": "Stargate Pool ETH",
+        "type":"pool"
+      }
+    ],
+    "kava":[
+      {
+        "contractAddress": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+        "id":"stargate-router",
+        "name": "Stargate Router",
+        "type":"bridge"
+      },
+      {
+        "contractAddress": "0x35f78adf283fe87732abc9747d9f6630df33276c",
+        "id":"stargate-lpstaking",
+        "name": "Stargate LPStaking",
+        "type":"stake"
+      },
+      {
+        "contractAddress": "0xaad094f6a75a14417d39f04e690fc216f080a41a",
+        "id":"stargate-pool-usdt",
+        "name": "Stargate Pool USDT",
+        "type":"pool"
+      }
+    ]
+  }
+}

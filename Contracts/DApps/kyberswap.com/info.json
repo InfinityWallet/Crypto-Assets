@@ -229,7 +229,7 @@
         "type":"pools"
       }
     ],
-    "avax":[
+    "avaxc":[
       {
         "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
         "id":"kyberswap-aggregator",
