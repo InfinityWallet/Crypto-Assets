@@ -1,17 +1,9 @@
 # Infinity Wallet Crypto Information
 
 ## Overview
-This repository contains a collection of information from chains and tokens, allowing projects to add their logo, receive custom styles and further information, visible when imported by a user into the Infinity Wallet or other platforms/developers/designers using this repository.
-
-This allows any token to gain additional credibility and a professional feel when manually imported across the ecosystem, while providing them with:
-- Custom designed logo of the token [Example](https://raw.githubusercontent.com/InfinityWallet/Crypto-Assets/main/Cryptos/binancesmartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.svg).
-- Custom color within the Infinity Wallet.
-- Fiat price display for the token within the Infinity Wallet.
-- Coin info section themed style in the Infinity Wallet.
-- Instantly tradable via DeFi aggragted swaps on ETH, BSC and POLYGON (Coming Soon).
+This repository contains a collection of information from chains, tokens and DApps, allowing projects to add their logo, receive custom styles and provide further information, to be listed and visible within the Infinity Wallet or other platforms/developers/designers using this repository.
 
 ## Documentation
-
 For more information [click here](https://docs.infinitywallet.io/developers-and-projects/listing#token-custom-list-integration) or if you are interested in learning how to be **Whitelisted** to gain **additional benefits**, **awareness/marketing to hundreds of thousands of users** and be **default enabled removing the need to be imported**, see the following [Documentation](https://docs.infinitywallet.io/developers-and-projects/listing#token-whitelisting)
 
 ### Add/Edit a DApp, Token or Contract Address
