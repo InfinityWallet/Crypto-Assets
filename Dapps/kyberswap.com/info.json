@@ -1,0 +1,43 @@
+{
+    "id": "1inch.io",
+    "name": "1inch",
+    "dappLink": "https://app.1inch.io/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137, 43114, 10, 42161],
+    "categories": ["DeFi", "Exchange"],
+    "label": "DEX Aggregator",
+    "information": {
+      "website": "1inch.io",
+      "subTitle": "A decentralized exchange aggregator to get the best rates.",
+      "coinMarketCap": "https://coinmarketcap.com/exchanges/1inch-exchange/",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302"
+        },
+        "1": {
+          "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302"
+        },
+        "137": {
+          "tokenAddress":"0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/1inch"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OneInchNetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/1inch"
+        }
+    ]
+}

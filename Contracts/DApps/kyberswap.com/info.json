@@ -1,0 +1,487 @@
+{
+  "id": "kyberswap.com",
+  "name": "kyberSwap",
+  "dappLink": "https://kyberswap.com/swap/optimism",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x30c5322e4e08ad500c348007f92f120ab4e2b79e",
+        "id":"kyberswap-elastic-zap",
+        "name": "KyberSwap Zap",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf2bcdf38baa52f6b0c1db5b025dfff01ae1d6dbd",
+        "id":"kyberswap-elastic-static-farm-4",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0x3d6afe2fb73ffed2e3dd00c501a174554e147a43",
+        "id":"kyberswap-elastic-static-farm-3",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf2bcdf38baa52f6b0c1db5b025dfff01ae1d6dbd",
+        "id":"kyberswap-elastic-static-farm-4",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0x3d6afe2fb73ffed2e3dd00c501a174554e147a43",
+        "id":"kyberswap-elastic-static-farm-3",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x30c5322e4e08ad500c348007f92f120ab4e2b79e",
+        "id":"kyberswap-elastic-zap",
+        "name": "KyberSwap Zap",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf2bcdf38baa52f6b0c1db5b025dfff01ae1d6dbd",
+        "id":"kyberswap-elastic-static-farm-4",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0x3d6afe2fb73ffed2e3dd00c501a174554e147a43",
+        "id":"kyberswap-elastic-static-farm-3",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x30c5322e4e08ad500c348007f92f120ab4e2b79e",
+        "id":"kyberswap-elastic-zap",
+        "name": "KyberSwap Zap",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf2bcdf38baa52f6b0c1db5b025dfff01ae1d6dbd",
+        "id":"kyberswap-elastic-static-farm-4",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0x3d6afe2fb73ffed2e3dd00c501a174554e147a43",
+        "id":"kyberswap-elastic-static-farm-3",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "avax":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x30c5322e4e08ad500c348007f92f120ab4e2b79e",
+        "id":"kyberswap-elastic-zap",
+        "name": "KyberSwap Zap",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf2bcdf38baa52f6b0c1db5b025dfff01ae1d6dbd",
+        "id":"kyberswap-elastic-static-farm-4",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0x3d6afe2fb73ffed2e3dd00c501a174554e147a43",
+        "id":"kyberswap-elastic-static-farm-3",
+        "name": "KyberSwap Static Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x30c5322e4e08ad500c348007f92f120ab4e2b79e",
+        "id":"kyberswap-elastic-zap",
+        "name": "KyberSwap Zap",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "cro":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "zksync":[
+      {
+        "contractAddress": "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "zkevm":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "aurora":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      }
+    ],
+    "linea":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "bittorrent":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x227b0c196ea8db17a665ea6824d972a64202e936",
+        "id":"kyberswap-limit-order",
+        "name": "KyberSwap Limit Order",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ],
+    "scroll":[
+      {
+        "contractAddress": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5",
+        "id":"kyberswap-aggregator",
+        "name": "KyberSwap Swap",
+        "type":"aggregator"
+      },
+      {
+        "contractAddress": "0x30c5322e4e08ad500c348007f92f120ab4e2b79e",
+        "id":"kyberswap-elastic-zap",
+        "name": "KyberSwap Zap",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x7d5ba536ab244aaa1ea42ab88428847f25e3e676",
+        "id":"kyberswap-elastic-dynamic-farm",
+        "name": "KyberSwap Dynamic Farm",
+        "type":"farm"
+      },
+      {
+        "contractAddress": "0xf9c2b5746c946ef883ab2660bbbb1f10a5bdeab4",
+        "id":"kyberswap-elastic-router",
+        "name": "KyberSwap Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0xe222fbe074a436145b255442d919e4e3a6c6a480",
+        "id":"kyberswap-elastic-position-manager",
+        "name": "KyberSwap Position Manager",
+        "type":"pools"
+      }
+    ]
+  }
+}
