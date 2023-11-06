@@ -1,43 +1,49 @@
 {
-    "id": "1inch.io",
-    "name": "1inch",
-    "dappLink": "https://app.1inch.io/",
-    "defaultChain": 1,
-    "supportedChains": [1, 56, 137, 43114, 10, 42161],
+    "id": "kyberswap.com",
+    "name": "kyberSwap",
+    "dappLink": "https://kyberswap.com/swap/optimism",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 137, 324, 534352, 43114, 199 , 1313161554, 42161, 59144, 1101, 8453, 56, 250, 25],
     "categories": ["DeFi", "Exchange"],
     "label": "DEX Aggregator",
     "information": {
-      "website": "1inch.io",
-      "subTitle": "A decentralized exchange aggregator to get the best rates.",
-      "coinMarketCap": "https://coinmarketcap.com/exchanges/1inch-exchange/",
+      "website": "kyberswap.com",
+      "subTitle": "A decentralized exchange aggregator to get the best rates",
+      "coinMarketCap": "",
       "coinGecko": ""
     },
     "tokenInformation": {
       "hasToken": true,
       "tokenContract": {
-        "56": {
-          "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302"
-        },
         "1": {
-          "tokenAddress":"0x111111111117dc0aa78b770fa6a738034120c302"
+          "tokenAddress":"0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202"
+        },
+        "56": {
+          "tokenAddress":"0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b"
+        },
+        "10": {
+          "tokenAddress":"0xa00e3a3511aac35ca78530c85007afcd31753819"
         },
         "137": {
-          "tokenAddress":"0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f"
+          "tokenAddress":"0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c"
+        },
+        "42161": {
+          "tokenAddress":"0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb"
         }
       }
     },
     "links": [
         {
             "name": "twitter",
-            "url": "https://twitter.com/1inch"
+            "url": "https://twitter.com/KyberNetwork"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/OneInchNetwork"
+            "url": "https://t.me/kybernetwork"
         },
         {
             "name": "discord",
-            "url": "https://discord.com/invite/1inch"
+            "url": "https://discord.com/invite/NB3vc8J9uv"
         }
     ]
 }
