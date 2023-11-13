@@ -1,0 +1,37 @@
+{
+    "id": "uquid.com",
+    "name": "Uquid",
+    "dappLink": "https://shop.uquid.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137],
+    "categories": ["Tools"],
+    "label": "Shopping",
+    "information": {
+      "website": "uquid.com",
+      "subTitle": "An online store for shopping with crypto",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/uquidcard"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/uquidcoinofficial"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/uquid"
+        }
+    ]
+}
