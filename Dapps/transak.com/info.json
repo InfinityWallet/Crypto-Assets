@@ -1,0 +1,30 @@
+{
+    "id": "transak.com",
+    "name": "Transak",
+    "dappLink": "https://global.transak.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 10, 56, 137, 43114, 1666600000, 42161, 50, 324, 534352, 199, 1313161554, 59144, 1101, 8453, 250, 25],
+    "categories": ["Exchange", "Tools"],
+    "label": "Buy/Sell Crypto",
+    "information": {
+      "website": "transak.com",
+      "subTitle": "An on-ramp and off-ramp crypto provider for buying or selling crypto to/from fiat",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/intent/follow?screen_name=transak"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/transakfinance"
+        }
+    ]
+}

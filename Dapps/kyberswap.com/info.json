@@ -3,7 +3,7 @@
     "name": "kyberSwap",
     "dappLink": "https://kyberswap.com/swap/optimism",
     "defaultChain": 10,
-    "supportedChains": [10, 1, 137, 324, 534352, 43114, 199 , 1313161554, 42161, 59144, 1101, 8453, 56, 250, 25],
+    "supportedChains": [10, 1, 137, 324, 534352, 43114, 199, 1313161554, 42161, 59144, 1101, 8453, 56, 250, 25],
     "categories": ["DeFi", "Exchange"],
     "label": "DEX Aggregator",
     "information": {
