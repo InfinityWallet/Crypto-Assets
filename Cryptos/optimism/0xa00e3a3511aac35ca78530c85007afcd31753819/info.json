@@ -1,0 +1,46 @@
+{
+    "id": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+    "name": "Kyber Network",
+    "tag": "KNC",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://kyber.network/",
+      "coinGeckoID": "kyber-network-crystal",
+      "coinMarketCapID": "kyber-network-crystal-v2",
+      "description": "KNC is used to pay fees on Kyber Network a protocol that aims to make swapping digital assets and cryptocurrencies simple and efficient. Also holding KNC lets users participate in governance by voting on proposals.",
+      "explorer": "https://optimistic.etherscan.io/token/0xa00e3a3511aac35ca78530c85007afcd31753819",
+      "coinGecko": "https://coinmarketcap.com/currencies/kyber-network-crystal/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/kyber-network-crystal-v2/"
+    },
+    "styles": {
+      "color":"#31cb9e",
+      "button_a":"#31cb9e",
+      "button_b":"#238166",
+      "hover_a":"#27b78d",
+      "hover_b":"#1b745a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/kybernetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/kyberswap"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/kybernetwork"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kybernetwork"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/kyberswap/"
+        }
+    ]
+}
