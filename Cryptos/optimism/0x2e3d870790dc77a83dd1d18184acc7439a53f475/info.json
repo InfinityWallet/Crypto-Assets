@@ -1,0 +1,38 @@
+{
+    "id": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+    "name": "Frax",
+    "tag": "FRAX",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://frax.finance/",
+      "coinGeckoID": "frax",
+      "coinMarketCapID": "frax",
+      "description": "The Frax stablecoin is a crypto collateralized stablecoin pegged to the US dollar with parts of its supply backed by collateral and other parts backed algorithmically. The Frax protocol is a two-token system encompassing a stablecoin Frax (FRAX), and a governance token Frax Shares (FXS).",
+      "explorer": "https://optimistic.etherscan.io/token/0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+      "coinGecko": "https://coinmarketcap.com/currencies/frax/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/frax/"
+    },
+    "styles": {
+      "color":"#fd4143",
+      "button_a":"#fd4143",
+      "button_b":"#e7051d",
+      "hover_a":"#e53739",
+      "hover_b":"#cb0419"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/fraxfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/MTZu6Hf57d"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fraxfinance"
+        }
+    ]
+}
