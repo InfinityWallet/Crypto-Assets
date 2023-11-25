@@ -1,0 +1,38 @@
+{
+    "id": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "name": "Aura",
+    "tag": "AURA",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://aura.finance/",
+      "coinGeckoID": "aura-finance",
+      "coinMarketCapID": "aura-finance",
+      "description": "Aura Finance is a protocol built on top of the Balancer system to provide maximum incentives to Balancer liquidity providers and BAL stakers. The AURA token acts as a governance and incentivisation tool within the AURA ecosystem.",
+      "explorer": "https://optimistic.etherscan.io/token/0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+      "coinGecko": "https://coinmarketcap.com/currencies/aura-finance/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/aura-finance/"
+    },
+    "styles": {
+      "color":"#8c4bd3",
+      "button_a":"#9b4dd6",
+      "button_b":"#692cc9",
+      "hover_a":"#8943be",
+      "hover_b":"#5b23b4"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aurafinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/aurafinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/aurafinance"
+        }
+    ]
+}
