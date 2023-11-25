@@ -1,0 +1,34 @@
+{
+    "id": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+    "name": "Extra Finance",
+    "tag": "EXTRA",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://app.extrafi.io/",
+      "coinGeckoID": "extra-finance",
+      "coinMarketCapID": "extra-finance",
+      "description": "Extra Finance is a leveraged yield farming & lending protocol built on Optimism.",
+      "explorer": "https://optimistic.etherscan.io/token/0x2dad3a13ef0c6366220f989157009e501e7938f8",
+      "coinGecko": "https://coinmarketcap.com/currencies/extra-finance/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/extra-finance/"
+    },
+    "styles": {
+      "color":"#008CF2",
+      "button_a":"#008CF2",
+      "button_b":"#035BC7",
+      "hover_a":"#017fda",
+      "hover_b":"#024fac"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ExtraFi_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/extra-finance"
+        }
+    ]
+}
