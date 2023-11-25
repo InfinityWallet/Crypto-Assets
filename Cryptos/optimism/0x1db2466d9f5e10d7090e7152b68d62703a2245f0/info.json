@@ -1,0 +1,38 @@
+{
+    "id": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
+    "name": "Sonne Finance",
+    "tag": "SONNE",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://sonne.finance/",
+      "coinGeckoID": "sonne-finance",
+      "coinMarketCapID": "sonne-finance",
+      "description": "Sonne Finance is the first native decentralized lending protocol on Optimism for individuals, institutions and protocols to access financial services.",
+      "explorer": "https://optimistic.etherscan.io/token/0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
+      "coinGecko": "https://coinmarketcap.com/currencies/sonne-finance/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/sonne-finance/"
+    },
+    "styles": {
+      "color":"#fda669",
+      "button_a":"#fda669",
+      "button_b":"#fd684e",
+      "hover_a":"#ee9659",
+      "hover_b":"#e85b42"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SonneFinance"
+        },
+        {
+            "name": "discord",
+            "url": "http://discord.gg/SonneFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/SonneFin"
+        }
+    ]
+}
