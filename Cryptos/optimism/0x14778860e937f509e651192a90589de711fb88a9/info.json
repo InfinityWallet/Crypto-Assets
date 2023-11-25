@@ -1,0 +1,38 @@
+{
+    "id": "0x14778860e937f509e651192a90589de711fb88a9",
+    "name": "CyberConnect",
+    "tag": "CYBER",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://cyberconnect.me/",
+      "coinGeckoID": "cyberconnect",
+      "coinMarketCapID": "cyberconnect",
+      "description": "CyberConnect is a decentralized Web3 social network that enables developers to create social applications empowering users to own their digital identity, content, connections, and interactions.",
+      "explorer": "https://optimistic.etherscan.io/token/0x14778860e937f509e651192a90589de711fb88a9",
+      "coinGecko": "https://coinmarketcap.com/currencies/cyberconnect/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/cyberconnect/"
+    },
+    "styles": {
+      "color":"#43e7ac",
+      "button_a":"#68ea9c",
+      "button_b":"#3bdfa4",
+      "hover_a":"#58d48a",
+      "hover_b":"#2cc991"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CyberConnectHQ"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/cyberconnecthq"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CyberConnect"
+        }
+    ]
+}
