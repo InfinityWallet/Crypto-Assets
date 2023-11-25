@@ -1,0 +1,38 @@
+{
+    "id": "0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
+    "name": "Synapse",
+    "tag": "SYN",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://synapseprotocol.com/",
+      "coinGeckoID": "synapse-2",
+      "coinMarketCapID": "synapse-2",
+      "description": "Synapse is a protocol for bridging and swapping assets across chains, earning yield, and more. SYN can be used to vote on the future of the protocol, and can be awarded to network liquidity providers.",
+      "explorer": "https://optimistic.etherscan.io/token/0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
+      "coinGecko": "https://coinmarketcap.com/currencies/synapse/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/synapse-2/"
+    },
+    "styles": {
+      "color":"#d45eff",
+      "button_a":"#fb3afb",
+      "button_b":"#9170f0",
+      "hover_a":"#ea2fea",
+      "hover_b":"#8360e7"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SynapseProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/synapseprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/synapseprotocol"
+        }
+    ]
+}
