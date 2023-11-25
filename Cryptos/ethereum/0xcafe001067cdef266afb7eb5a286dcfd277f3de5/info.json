@@ -1,0 +1,34 @@
+{
+    "id": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+    "name": "ParaSwap",
+    "tag": "PSP",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://paraswap.io/",
+      "coinGeckoID": "paraswap",
+      "coinMarketCapID": "paraswap",
+      "description": "ParaSwap is a DeFi aggregator that aggregates the liquidity of decentralized exchanges and lending protocols into a single interface and API while offering the best route to exchange any asset.",
+      "explorer": "https://etherscan.io/token/0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+      "coinGecko": "https://www.coingecko.com/coins/paraswap/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/paraswap/"
+    },
+    "styles": {
+      "color":"#4b86ff",
+      "button_a":"#3676FB",
+      "button_b":"#0A4AE2",
+      "hover_a":"#2e67de",
+      "hover_b":"#0842cb"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/paraswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/paraswap"
+        }
+    ]
+}
