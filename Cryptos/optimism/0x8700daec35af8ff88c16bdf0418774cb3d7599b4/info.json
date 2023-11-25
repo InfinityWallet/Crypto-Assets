@@ -10,7 +10,7 @@
       "coinGeckoID": "havven",
       "coinMarketCapID": "synthetix-network-token",
       "description": "Synthetix is a new financial primitive enabling the creation of synthetic assets, offering unique derivatives and exposure to real-world assets on the blockchain.",
-      "explorer": "https://etherscan.io/token/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "explorer": "https://optimistic.etherscan.io/token/0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
       "coinGecko": "https://coinmarketcap.com/currencies/synthetix-network-token/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/synthetix-network-token/"
     },

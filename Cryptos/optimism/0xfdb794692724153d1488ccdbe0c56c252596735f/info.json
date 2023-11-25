@@ -10,7 +10,7 @@
       "coinGeckoID": "lido-dao",
       "coinMarketCapID": "lido-dao",
       "description": "LDO is the native utility token that Lido DAO uses for granting governance rights, managing fee structures and distribution, and governing the addition and removal of Lido node operators.",
-      "explorer": "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "explorer": "https://optimistic.etherscan.io/token/0xfdb794692724153d1488ccdbe0c56c252596735f",
       "coinGecko": "https://coingecko.com/coins/lido-dao",
       "coinMarketCap": "https://coinmarketcap.com/currencies/lido-dao/"
     },

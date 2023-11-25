@@ -1,0 +1,42 @@
+{
+    "id": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+    "name": "ChainLink",
+    "tag": "LINK",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://chain.link/",
+      "coinGeckoID": "chainlink",
+      "coinMarketCapID": "chainlink",
+      "description": "The Chainlink network provides reliable tamper-proof inputs and outputs for complex smart contracts on any blockchain, connected to real world data, events and payments. Chainlink provide a reliable connection to external data that is provably secure end-to-end.",
+      "explorer": "https://optimistic.etherscan.io/token/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+      "coinGecko": "https://coinmarketcap.com/currencies/chainlink/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/chainlink/"
+    },
+    "styles": {
+      "color":"#0e65b4",
+      "button_a":"#2088b9",
+      "button_b":"#00479b",
+      "hover_a":"#197eaa",
+      "hover_b":"#003594"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/chainlink"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/chainlinkofficial"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/aSK4zew"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Chainlink/"
+        }
+    ]
+}

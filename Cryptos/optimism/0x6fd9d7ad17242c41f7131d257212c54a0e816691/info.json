@@ -10,7 +10,7 @@
       "coinGeckoID": "uniswap",
       "coinMarketCapID": "uniswap",
       "description": "Uniswap is a protocol on Ethereum for swapping ERC20 tokens without the need for buyers and sellers to create demand. It does this via an equation that automatically sets and balances the value depending on how much demand there is.",
-      "explorer": "https://polygonscan.com/token/0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+      "explorer": "https://optimistic.etherscan.io/token/0x6fd9d7ad17242c41f7131d257212c54a0e816691",
       "coinGecko": "https://coinmarketcap.com/currencies/uniswap/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/uniswap/"
     },
