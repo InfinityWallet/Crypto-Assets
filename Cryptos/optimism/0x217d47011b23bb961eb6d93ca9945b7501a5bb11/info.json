@@ -1,0 +1,34 @@
+{
+    "id": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
+    "name": "Thales",
+    "tag": "THALES",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://thalesmarket.io/",
+      "coinGeckoID": "thales",
+      "coinMarketCapID": "thales",
+      "description": "Thales is a protocol that allows the creation of peer-to-peer parimutuel markets that anyone can join.",
+      "explorer": "https://optimistic.etherscan.io/token/0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
+      "coinGecko": "https://coinmarketcap.com/currencies/thales/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/thales/"
+    },
+    "styles": {
+      "color":"#295ca2",
+      "button_a":"#234F8B",
+      "button_b":"#082547",
+      "hover_a":"#1d447b",
+      "hover_b":"#052040"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/thalesmarket"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/thales"
+        }
+    ]
+}
