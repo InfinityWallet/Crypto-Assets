@@ -1,0 +1,38 @@
+{
+    "id": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+    "name": "MAI",
+    "tag": "MAI",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "http://mai.finance/",
+      "coinGeckoID": "mimatic",
+      "coinMarketCapID": "mai",
+      "description": "MAI is a stablecoin backed by locked collateral tokens. MAI borrowing is decentralized and non-custodial, meaning that only users have control over their funds.",
+      "explorer": "https://optimistic.etherscan.io/token/0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+      "coinGecko": "https://coinmarketcap.com/currencies/mai/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/mai/"
+    },
+    "styles": {
+      "color":"#eb9c9e",
+      "button_a":"#eb9c9e",
+      "button_b":"#f16e69",
+      "hover_a":"#d6898b",
+      "hover_b":"#dc5f5a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/QiDaoProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/mQq55j65xJ"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/QiDaoProtocol"
+        }
+    ]
+}
