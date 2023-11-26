@@ -1,0 +1,42 @@
+{
+    "id": "0x6f7c932e7684666c9fd1d44527765433e01ff61d",
+    "name": "Maker",
+    "tag": "MKR",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://makerdao.com/",
+      "coinGeckoID": "maker",
+      "coinMarketCapID": "maker",
+      "description": "Maker is a decentralised finance (DeFi) project through which anyone, anywhere can generate the Dai stablecoin against crypto collateral assets. The Maker token holders govern the Maker Protocol and the smart contracts that power Dai.",
+      "explorer": "https://polygonscan.com/token/0x6f7c932e7684666c9fd1d44527765433e01ff61d",
+      "coinGecko": "https://coinmarketcap.com/currencies/maker/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/maker/"
+    },
+    "styles": {
+      "color":"#1abc9c",
+      "button_a":"#1abc9c",
+      "button_b":"#386669",
+      "hover_a":"#15a78a",
+      "hover_b":"#2f575a"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MakerDAO"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/RBRumCpEDH"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/MakerDAO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/makerdaoOfficial"
+        }
+    ]
+}
