@@ -1,0 +1,38 @@
+{
+    "id": "0x172370d5cd63279efa6d502dab29171933a610af",
+    "name": "Curve DAO",
+    "tag": "CRV",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://www.curve.fi/",
+      "coinGeckoID": "curve-dao-token",
+      "coinMarketCapID": "curve-dao-token",
+      "description": "Curve is an AMM platform offering a highly efficient way to exchange tokens while maintaining low fees and low slippage by only accommodating liquidity pools made up of similarly behaving assets focused on stablecoins",
+      "explorer": "https://polygonscan.com/token/0x172370d5cd63279efa6d502dab29171933a610af",
+      "coinGecko": "https://coinmarketcap.com/currencies/curve-dao-token/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/curve-dao-token/"
+    },
+    "styles": {
+      "color":"#facb04",
+      "button_a":"#faee03",
+      "button_b":"#f85907",
+      "hover_a":"#e1cd05",
+      "hover_b":"#e15204"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/curvefinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/9uEHakc"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/curvefi"
+        }
+    ]
+}
