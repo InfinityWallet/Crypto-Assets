@@ -1,0 +1,30 @@
+{
+    "id": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+    "name": "Ethereum Name Service",
+    "tag": "ENS",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://ens.domains/",
+      "coinGeckoID": "ethereum-name-service",
+      "coinMarketCapID": "ethereum-name-service",
+      "description": "Ethereum Name Service (ENS) is a naming service for wallet addresses, hashes, and other machine-readable identifiers.",
+      "explorer": "https://etherscan.io/token/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+      "coinGecko": "https://coinmarketcap.com/currencies/ethereum-name-service/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/ethereum-name-service/"
+    },
+    "styles": {
+      "color":"#569cf6",
+      "button_a":"#45bdf0",
+      "button_b":"#5a6cff",
+      "hover_a":"#37abdc",
+      "hover_b":"#4759e8"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ensdomains"
+        }
+    ]
+}
