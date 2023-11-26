@@ -1,0 +1,38 @@
+{
+    "id": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+    "name": "SushiSwap",
+    "tag": "SUSHI",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "MATIC",
+    "information": {
+      "website": "https://sushi.com/",
+      "coinGeckoID": "sushi",
+      "coinMarketCapID": "sushiswap",
+      "description": "SushiSwap is an AMM exchange protocol that incentivize users to provide liquidity and enables users to buy and sell crypto assets.",
+      "explorer": "https://polygonscan.com/token/0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+      "coinGecko": "https://coinmarketcap.com/currencies/sushi/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/sushiswap/"
+    },
+    "styles": {
+      "color":"#c36cb6",
+      "button_a":"#2ab8f4",
+      "button_b":"#f653a1",
+      "hover_a":"#20a6df",
+      "hover_b":"#df448e"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/sushiswap"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/MsVBwEc"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/SushiSwap"
+        }
+    ]
+}
