@@ -4,7 +4,7 @@
     "tag": "MKR",
     "decimals": 18,
     "type": "token",
-    "tokenType": "ERC20",
+    "tokenType": "BEP20",
     "information": {
       "website": "https://makerdao.com/",
       "coinGeckoID": "maker",
