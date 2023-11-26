@@ -4,7 +4,7 @@
     "tag": "WBTC",
     "decimals": 8,
     "type": "token",
-    "tokenType": "ERC20",
+    "tokenType": "MATIC",
     "information": {
       "website": "https://wbtc.network/",
       "coinGeckoID": "wrapped-bitcoin",

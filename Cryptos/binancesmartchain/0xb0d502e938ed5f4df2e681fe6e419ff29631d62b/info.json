@@ -1,0 +1,38 @@
+{
+    "id": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+    "name": "Stargate Finance",
+    "tag": "STG",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "BEP20",
+    "information": {
+      "website": "https://stargate.finance/",
+      "coinGeckoID": "stargate-finance",
+      "coinMarketCapID": "stargate-finance",
+      "description": "Stargate Finance is a cross-chain bridge solution built on LayerZero. The STG token is used to reward liquidity providers for funding Stargate Protocol operations, and to lock and receive the Stargate Protocol governance token.",
+      "explorer": "https://bscscan.com/token/0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+      "coinGecko": "https://coinmarketcap.com/currencies/stargate-finance/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/stargate-finance/"
+    },
+    "styles": {
+      "color":"#62d2c5",
+      "button_a":"#62d2c5",
+      "button_b":"#24aaa7",
+      "hover_a":"#50bbae",
+      "hover_b":"#188b89"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/StargateFinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://stargate.finance/discord"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/joinchat/LEM0ELklmO1kODdh"
+        }
+    ]
+}
