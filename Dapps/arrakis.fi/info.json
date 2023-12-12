@@ -1,0 +1,34 @@
+{
+    "id": "arrakis.fi",
+    "name": "Arrakis Finance",
+    "dappLink": "https://app.arrakis.fi/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 137, 42161],
+    "categories": ["DeFi", "Earn"],
+    "label": "Liquidity Manager",
+    "information": {
+      "website": "arrakis.fi",
+      "subTitle": "Market making protocol for automated liquidity management",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ArrakisFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/arrakisfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/arrakisfinance"
+        }
+    ]
+}

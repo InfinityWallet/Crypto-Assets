@@ -1,0 +1,40 @@
+{
+    "id": "vesper.finance",
+    "name": "Vesper",
+    "dappLink": "https://app.vesper.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 137, 43114],
+    "categories": ["DeFi", "Earn"],
+    "label": "Yield Aggregator",
+    "information": {
+      "website": "vesper.finance",
+      "subTitle": "A DeFi platform that simplifies participation in the DeFi ecosystem.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+        },
+        "137": {
+          "tokenAddress":"0x09c5a4bca808bd1ba2b8e6b3aaf7442046b4ca5b"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/VesperFi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/vesperfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/Pm8UDaazsK"
+        }
+    ]
+}

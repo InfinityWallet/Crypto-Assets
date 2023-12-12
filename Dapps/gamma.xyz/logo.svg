@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:#FFFFFF;}
+	.st2{fill:#FFFFFF;}
+</style>
+<title>decentraland</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1539" y1="619.3" x2="1039" y2="619.3" gradientTransform="matrix(0 -1 -1 0 869.3 1539)">
+	<stop  offset="0" style="stop-color:#FF0025"/>
+	<stop  offset="1" style="stop-color:#FF0025"/>
+</linearGradient>
+<polygon class="st0" points="500,0 500,500 0,500 0,0 "/>
+<g>
+	<path class="st1" d="M248.5,92.1L248.5,92.1c6.7,0,11.8,5,11.8,11.8v294.3c0,6.7-5,11.8-11.8,11.8l0,0c-6.7,0-11.8-5-11.8-11.8
+		V103.9C238.4,97.1,243.5,92.1,248.5,92.1z"/>
+	<path class="st1" d="M410,250.2L410,250.2c0,6.7-5,11.8-11.8,11.8H103.9c-6.7,0-11.8-5-11.8-11.8l0,0c0-6.7,5-11.8,11.8-11.8h294.3
+		C405,240.1,410,245.2,410,250.2z"/>
+	<path class="st2" d="M364.6,362.9L364.6,362.9c5-5,5-11.8,0-15.1L156,139.2c-5-5-11.8-5-15.1,0c-5,5-5,11.8,0,15.1l208.6,208.6
+		C352.8,368,359.5,368,364.6,362.9z"/>
+	<path class="st2" d="M93.8,405L93.8,405c5,5,11.8,5,15.1,0l296-296c5-5,5-11.8,0-15.1c-5-5-11.8-5-15.1,0l-296,296
+		C88.7,393.2,88.7,401.6,93.8,405z"/>
+	<g>
+		<path class="st2" d="M248.5,92.1L248.5,92.1c-6.7,0-11.8,5-11.8,11.8v294.3c0,6.7,5,11.8,11.8,11.8c6.7,0,11.8-5,11.8-11.8V103.9
+			C260.3,97.1,255.3,92.1,248.5,92.1z"/>
+		<path class="st2" d="M410,250.2L410,250.2c0-6.7-5-11.8-11.8-11.8H103.9c-6.7,0-11.8,5-11.8,11.8c0,6.7,5,11.8,11.8,11.8h294.3
+			C405,262,410,256.9,410,250.2z"/>
+		<path class="st1" d="M364.6,362.9L364.6,362.9c-5,5-11.8,5-15.1,0L139.2,156c-5-5-5-11.8,0-15.1l0,0c5-5,11.8-5,15.1,0
+			l208.6,208.6C368,352.8,368,359.5,364.6,362.9z"/>
+		<path class="st1" d="M93.8,405L93.8,405c-5-5-5-11.8,0-15.1l296-296c5-5,11.8-5,15.1,0l0,0c5,5,5,11.8,0,15.1l-296,296
+			C105.6,410,97.1,410,93.8,405z"/>
+	</g>
+</g>
+</svg>

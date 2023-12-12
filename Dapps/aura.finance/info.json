@@ -1,0 +1,40 @@
+{
+    "id": "aura.finance",
+    "name": "Aura Finance",
+    "dappLink": "https://app.aura.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 137, 42161, 8453],
+    "categories": ["DeFi", "Earn"],
+    "label": "Yield",
+    "information": {
+      "website": "aura.finance",
+      "subTitle": "A protocol built on top of Balancer to provide maximum incentives to Balancer liquidity providers",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x1509706a6c66ca549ff0cb464de88231ddbe213b"
+        },
+        "1": {
+          "tokenAddress":"0xc0c293ce456ff0ed870add98a0828dd4d2903dbf"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aurafinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/aurafinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/aurafinanceofficial"
+        }
+    ]
+}

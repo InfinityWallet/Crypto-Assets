@@ -1,0 +1,30 @@
+{
+    "id": "tally.xyz",
+    "name": "Tally",
+    "dappLink": "https://www.tally.xyz/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 42161, 43114, 8453, 56, 42220, 100, 59144, 255, 5000, 1284, 42170, 137, 1101, 534352, 148, 324],
+    "categories": ["Tools"],
+    "label": "DAO Manager",
+    "information": {
+      "website": "tally.xyz",
+      "subTitle": "A platform to launch and manage DAOs",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tallyxyz"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/3wgMrqaCCk"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "tofunft.com",
+    "name": "tofuNFT",
+    "dappLink": "https://tofunft.com/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 56, 42161, 43114, 137, 592, 336, 248, 250, 1284, 25, 1313161554, 1088, 42220, 42170, 1101],
+    "categories": ["Marketplace", "NFTs"],
+    "label": "NFT Marketplace",
+    "information": {
+      "website": "tofunft.com",
+      "subTitle": "An marketplace for NFTs, rare digital items and crypto collectibles.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tofuNFT"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/tofuNFT"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/3wFUTZmTm7"
+        }
+    ]
+}

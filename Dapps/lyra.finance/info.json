@@ -1,0 +1,39 @@
+{
+    "id": "lyra.finance",
+    "name": "Lyra Finance",
+    "dappLink": "https://app.lyra.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 42161],
+    "categories": ["DeFi"],
+    "label": "Options",
+    "information": {
+      "website": "lyra.finance",
+      "subTitle": "A decentralized options protocol",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x50c5725949a6f0c72e6c4a641f24049a917db0cb"
+        },
+        "1": {
+          "tokenAddress":"0x01ba67aac7f75f647d94220cc98fb30fcc5105bf"
+        },
+        "42161": {
+          "tokenAddress":"0x079504b86d38119f859c4194765029f692b7b7aa"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lyrafinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/P49mj6UbmC"
+        }
+    ]
+}

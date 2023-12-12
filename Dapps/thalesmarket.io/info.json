@@ -1,0 +1,45 @@
+{
+    "id": "thalesmarket.io",
+    "name": "Thales",
+    "dappLink": "https://thalesmarket.io/markets",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 42161, 137, 8453],
+    "categories": ["DeFi"],
+    "label": "Prediction Market",
+    "information": {
+      "website": "thalesmarket.io",
+      "subTitle": "A protocol for peer-to-peer parimutuel markets",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x217d47011b23bb961eb6d93ca9945b7501a5bb11"
+        },
+        "1": {
+          "tokenAddress":"0x8947da500eb47f82df21143d0c01a29862a8c3c5"
+        },
+        "137": {
+          "tokenAddress":"0x692c44990e4f408ba0917f5c78a83160c1557237"
+        },
+        "8453": {
+          "tokenAddress":"0xf34e0cff046e154cafcae502c7541b9e5fd8c249"
+        },
+        "42161": {
+          "tokenAddress":"0xe85b662fe97e8562f4099d8a1d5a92d4b453bf30"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/thales_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/thales"
+        }
+    ]
+}

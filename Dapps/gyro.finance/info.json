@@ -1,0 +1,30 @@
+{
+    "id": "gyro.finance",
+    "name": "Gyroscope",
+    "dappLink": "https://app.gyro.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 137, 42161, 1101],
+    "categories": ["DeFi", "Tools"],
+    "label": "Stablecoin",
+    "information": {
+      "website": "gyro.finance",
+      "subTitle": "A decentralized stablecoin featuring a novel stablecoin design with more efficient stablecoin liquidity pools.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/gyrostable/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/2vnqnS7wE6"
+        }
+    ]
+}

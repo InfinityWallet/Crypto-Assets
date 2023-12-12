@@ -1,0 +1,46 @@
+{
+    "id": "dhedge.org",
+    "name": "dHEDGE",
+    "dappLink": "https://dhedge.org/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 137, 42161],
+    "categories": ["DeFi"],
+    "label": "Indexes",
+    "information": {
+      "website": "dhedge.org",
+      "subTitle": "A decentralized non-custodial asset management protocol",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151"
+        },
+        "1": {
+          "tokenAddress":"0xca1207647ff814039530d7d35df0e1dd2e91fa84"
+        },
+        "137": {
+          "tokenAddress":"0x8c92e38eca8210f4fcbf17f0951b198dd7668292"
+        },
+        "42161": {
+          "tokenAddress":"0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dHedgeOrg"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/dhedge"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/BAWTbRA"
+        }
+    ]
+}
