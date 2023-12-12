@@ -5,7 +5,7 @@
     "defaultChain": 42161,
     "supportedChains": [42161, 43114],
     "categories": ["DeFi", "Exchange"],
-    "label": "Perpetual Exchange",
+    "label": "Derivatives",
     "information": {
       "website": "gmx.io",
       "subTitle": "GMX is a decentralized, permissionless perpetual swap and spot exchange.",

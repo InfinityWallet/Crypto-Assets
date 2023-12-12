@@ -1,0 +1,37 @@
+{
+    "id": "equation.trade",
+    "name": "Equation",
+    "dappLink": "https://equation.trade/",
+    "defaultChain": 42161,
+    "supportedChains": [42161],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Derivatives",
+    "information": {
+      "website": "equation.trade",
+      "subTitle": "A perpetual protocol for both traders and liquidity providers with up to 200x leverage.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "42161": {
+          "tokenAddress":"0x87aaffdf26c6885f6010219208d5b161ec7609c0"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EquationDAO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/EquationDao"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/ywFrewsxBH"
+        }
+    ]
+}
