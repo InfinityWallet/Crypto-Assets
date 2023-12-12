@@ -1,0 +1,37 @@
+{
+    "id": "gamma.xyz",
+    "name": "Gamma",
+    "dappLink": "https://app.gamma.xyz/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 56, 137, 42161, 1101, 1284, 8453, 59144, 5000],
+    "categories": ["DeFi", "Earn"],
+    "label": "Liquidity Manager",
+    "information": {
+      "website": "gamma.xyz",
+      "subTitle": "A protocol for active liquidity management and market-making strategies.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x6bea7cfef803d1e3d5f7c0103f7ded065644e197"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GammaStrategies"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/gammastrategies"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/gammastrategies"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "matcha.xyz",
+    "name": "Matcha",
+    "dappLink": "https://matcha.xyz/tokens/optimism/0x4200000000000000000000000000000000000042",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 56, 137, 42161, 8453, 43114, 250, 42220],
+    "categories": ["DeFi", "Exchange"],
+    "label": "DEX Aggregator",
+    "information": {
+      "website": "matcha.xyz",
+      "subTitle": "A decentralized exchange aggregator to get the best rates",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/matchaxyz"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/matchaxyz"
+        }
+    ]
+}

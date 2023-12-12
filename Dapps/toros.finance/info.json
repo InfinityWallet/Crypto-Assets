@@ -1,0 +1,30 @@
+{
+    "id": "toros.finance",
+    "name": "Toros",
+    "dappLink": "https://toros.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 137, 42161],
+    "categories": ["DeFi", "Earn"],
+    "label": "Yield",
+    "information": {
+      "website": "toros.finance",
+      "subTitle": "A protocol for automated vaults to maximize returns",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/torosfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/Jc2skHehBQ"
+        }
+    ]
+}

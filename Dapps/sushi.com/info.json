@@ -1,0 +1,42 @@
+{
+    "id": "sushi.com",
+    "name": "Sushi",
+    "dappLink": "https://www.sushi.com/swap",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 42161, 137, 8453, 1101, 534352, 59144, 1116, 56, 314, 100, 43114, 250, 42170, 1666600000, 199, 2222],
+    "categories": ["DeFi", "Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "sushi.com",
+      "subTitle": "A multi-chain decentralized AMM exchange",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "56": {
+          "tokenAddress":"0x947950bcc74888a40ffa2593c5798f11fc9124c4"
+        },
+        "1": {
+          "tokenAddress":"0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+        },
+        "137": {
+          "tokenAddress":"0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a"
+        },
+        "42161": {
+          "tokenAddress":"0xd4d42f0b6def4ce0383636770ef773390d85c61a"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/sushiswap"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/MsVBwEc"
+        }
+    ]
+}
