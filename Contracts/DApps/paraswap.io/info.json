@@ -10,6 +10,46 @@
         "name": "Paraswap Swap",
         "type":"aggregator"
       }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57",
+        "id":"paraswap-AugustusSwapper-v5",
+        "name": "Paraswap Swap",
+        "type":"aggregator"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57",
+        "id":"paraswap-AugustusSwapper-v5",
+        "name": "Paraswap Swap",
+        "type":"aggregator"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57",
+        "id":"paraswap-AugustusSwapper-v5",
+        "name": "Paraswap Swap",
+        "type":"aggregator"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57",
+        "id":"paraswap-AugustusSwapper-v5",
+        "name": "Paraswap Swap",
+        "type":"aggregator"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57",
+        "id":"paraswap-AugustusSwapper-v5",
+        "name": "Paraswap Swap",
+        "type":"aggregator"
+      }
     ]
   }
 }

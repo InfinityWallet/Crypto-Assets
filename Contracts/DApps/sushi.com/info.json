@@ -1,0 +1,169 @@
+{
+  "id": "sushi.com",
+  "name": "Sushi",
+  "dappLink": "https://www.sushi.com/swap",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0xeb94eca012ec0bbb254722fdda2ce7475875a52b",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x804b526e5bf4349819fe2db65349d0825870f8ee",
+        "id":"sushi-xswap-2",
+        "name": "Sushi Crosschain Swap",
+        "type":"swap"
+      }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0x5550d13389bb70f45fcef58f19f6b6e87f6e747d",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x804b526e5bf4349819fe2db65349d0825870f8ee",
+        "id":"sushi-xswap-2",
+        "name": "Sushi Crosschain Swap",
+        "type":"swap"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0xd36990d74b947ec4ad9f52fe3d49d14addb51e44",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x804b526e5bf4349819fe2db65349d0825870f8ee",
+        "id":"sushi-xswap-2",
+        "name": "Sushi Crosschain Swap",
+        "type":"swap"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0xe7eb31f23a5befeeff76dbd2ed6adc822568a5d2",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x804b526e5bf4349819fe2db65349d0825870f8ee",
+        "id":"sushi-xswap-2",
+        "name": "Sushi Crosschain Swap",
+        "type":"swap"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x09bd2a33c47746ff03b86bce4e885d03c74a8e8c",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x804b526e5bf4349819fe2db65349d0825870f8ee",
+        "id":"sushi-xswap-2",
+        "name": "Sushi Crosschain Swap",
+        "type":"swap"
+      }
+    ],
+    "arb_nova":[
+      {
+        "contractAddress": "0x3db923fbab372ab8c796fef9bb8341cdb37cb9ec",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ],
+    "avaxc":[
+      {
+        "contractAddress": "0x8f54301f315c56c112d492d9443047d4745dbe9e",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x804b526e5bf4349819fe2db65349d0825870f8ee",
+        "id":"sushi-xswap-2",
+        "name": "Sushi Crosschain Swap",
+        "type":"swap"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0x83ec81ae54dd8dca17c3dd4703141599090751d1",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x804b526e5bf4349819fe2db65349d0825870f8ee",
+        "id":"sushi-xswap-2",
+        "name": "Sushi Crosschain Swap",
+        "type":"swap"
+      }
+    ],
+    "celo":[
+      {
+        "contractAddress": "0xab235da7f52d35fb4551afba11bfb56e18774a65",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0xfb70ad5a200d784e7901230e6875d91d5fa6b68c",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ],
+    "gno":[
+      {
+        "contractAddress": "0x7a4af156379f512de147ed3b96393047226d923f",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ],
+    "zkevm":[
+      {
+        "contractAddress": "0xbe811a0d44e2553d25d11cb8dc0d3f0d0e6430e6",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ],
+    "linea":[
+      {
+        "contractAddress": "0x0be808376ecb75a5cf9bb6d237d16cd37893d904",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ],
+    "filecoin":[
+      {
+        "contractAddress": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ],
+    "scroll":[
+      {
+        "contractAddress": "0xca6fe749878841b96f620ec79638b13daad3d320",
+        "id":"sushi-route-3_2",
+        "name": "Sushi Swap",
+        "type":"swap"
+      }
+    ]
+  }
+}
