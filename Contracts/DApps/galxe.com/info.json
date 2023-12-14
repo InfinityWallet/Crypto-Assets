@@ -1,0 +1,122 @@
+{
+  "id": "galxe.com",
+  "name": "Galxe",
+  "dappLink": "https://galxe.com/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x2e42f214467f647fe687fd9a2bf3baddfa737465",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      },
+      {
+        "contractAddress": "0xb83a46447900f0637baab08ffa8ed03447e10bf0",
+        "id":"galxe-oat-1",
+        "name": "Galxe OAT",
+        "type":"nft"
+      }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0x75cda57917e9f73705dc8bcf8a6b2f99adbdc5a5",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x9e6ef7f75ad88d4edb4c9925c94b769c5b0d6281",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      },
+      {
+        "contractAddress": "0x8659a4876369b94515a86048fe7f99daba6b9a7d",
+        "id":"galxe-oat-1",
+        "name": "Galxe OAT",
+        "type":"nft"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0xf6d1b85af155229acd7b523601148585a1ff67c6",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      },
+      {
+        "contractAddress": "0x6cad6e1abc83068ea98924aef37e996ed02abf1c",
+        "id":"galxe-spacestation-v1_3",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      },
+      {
+        "contractAddress": "0x5d666f215a85b87cb042d59662a7ecd2c8cc44e6",
+        "id":"galxe-oat-1",
+        "name": "Galxe OAT",
+        "type":"nft"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0x2d18f2d27d50c9b4013deba3d54f60996bd8847e",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      },
+      {
+        "contractAddress": "0x760b8237e457e6a2b5b196ae073ef0301b8316a2",
+        "id":"galxe-spacestation-v1_2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      },
+      {
+        "contractAddress": "0xadc466855ebe8d1402c5f7e6706fccc3aedb44a0",
+        "id":"galxe-oat-1",
+        "name": "Galxe OAT",
+        "type":"nft"
+      }
+    ],
+    "avaxc":[
+      {
+        "contractAddress": "0x13d8c4e3741e968cc8e740bdb02537cb1d2d70e6",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      },
+      {
+        "contractAddress": "0xf9ad3f5eab7e9214387c75d58ce40d3a6d05b930",
+        "id":"galxe-oat-1",
+        "name": "Galxe OAT",
+        "type":"nft"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0x168a6136fd4f60699b64fb9f8a2f8ed95b279954",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      }
+    ],
+    "moonbeam":[
+      {
+        "contractAddress": "0xa36aabc82b62b01884a66dd9f51ab2e7061748aa",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      }
+    ],
+    "iotex":[
+      {
+        "contractAddress": "0xc24785ed62b06bf4b9b304b8153969abe39ff7bc",
+        "id":"galxe-spacestation-v2",
+        "name": "Galxe SpaceStation",
+        "type":"nft"
+      }
+    ],
+
+  }
+}

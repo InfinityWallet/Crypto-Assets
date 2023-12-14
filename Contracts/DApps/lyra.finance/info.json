@@ -1,0 +1,83 @@
+{
+  "id": "galxe.com",
+  "name": "Galxe",
+  "dappLink": "https://galxe.com/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x59c671b1a1f261fb2192974b43ce1608aefd328e",
+        "id":"lyra-eth-market",
+        "name": "Lyra ETH Market",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xb8e90fd247700de65450aacd4a47b2948dc59fc1",
+        "id":"lyra-eth-liquiditypool",
+        "name": "Lyra ETH Liqudity Pool",
+        "type":"liqudity"
+      },
+      {
+        "contractAddress": "0xdd827aebf9d972c09f6594d82d50676b7cafda7e",
+        "id":"lyra-btc-market",
+        "name": "Lyra BTC Market",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xacacff03241256304e841e89c13319eae09f14b3",
+        "id":"lyra-btc-liquiditypool",
+        "name": "Lyra BTC Liqudity Pool",
+        "type":"liqudity"
+      },
+      {
+        "contractAddress": "0x2a21bfca834d122769cdf9d50b609ca6b210b7f0",
+        "id":"lyra-op-market",
+        "name": "Lyra OP Market",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x12a4fd54aa321eb16b45310ccb177bd87c6ae447",
+        "id":"lyra-op-liquiditypool",
+        "name": "Lyra OP Liqudity Pool",
+        "type":"liqudity"
+      },
+      {
+        "contractAddress": "0xf10bb5296aa5bda5c190ce22f8acb4d4adaae1cd",
+        "id":"lyra-arb-market",
+        "name": "Lyra ARB Market",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xdd0d125475453767e65f1a4dd30b62699fdcc9f5",
+        "id":"lyra-arb-liquiditypool",
+        "name": "Lyra ARB Liqudity Pool",
+        "type":"liqudity"
+      },
+      {
+        "contractAddress": "0x3bb38b77a266fceb4fa5659e0ecb5ecf6aeac28d",
+        "id":"lyra-distributor",
+        "name": "Lyra Distributor",
+        "type":"earn"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x919e5e0c096002cb8a21397d724c4e3ebe77bc15",
+        "id":"lyra-eth-market",
+        "name": "Lyra ETH Market",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xb619913921356904bf62aba7271e694fd95aa10d",
+        "id":"lyra-eth-liquiditypool",
+        "name": "Lyra ETH Liqudity Pool",
+        "type":"liqudity"
+      },
+      {
+        "contractAddress": "0x835f827e3d4ab11dd0b4a0b894b43b308a0e41ff",
+        "id":"lyra-distributor",
+        "name": "Lyra Distributor",
+        "type":"earn"
+      }
+    ]
+  }
+}
