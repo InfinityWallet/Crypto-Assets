@@ -1,0 +1,157 @@
+{
+  "id": "aave.com",
+  "name": "Aave",
+  "dappLink": "https://app.aave.com/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x76d3030728e52deb8848d5613abade88441cbc59",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0x87870bca3f3fd6335c3f4ce8392d69350b4fa4e2",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xd322a49006fc828f9b5b37ab215f99b4e5cab19c",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9",
+        "id":"aave-pool-v2",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xeffc18fc3b7eb8e676dac549e0c693ad50d1ce31",
+        "id":"aave-token-gateway-v2",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
+        "id":"aave-staking",
+        "name": "Aave Staking",
+        "type":"earn"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xb5ee21786d28c5ba61661550879475976b707099",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x1e4b7a6b903680eab0c5dabcb8fd429cd2a9598c",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x8dff5e27ea6b7ac08ebfdf9eb090f32ee9a30fcf",
+        "id":"aave-pool-v2",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xaebf56223f044a73a513fad7e148a9075227ed9b",
+        "id":"aave-token-gateway-v2",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x1dcda4de2bf6c7ad9a34788d22ae6b7d55016e1f",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      }
+    ],
+    "avaxc":[
+      {
+        "contractAddress": "0x794a61358d6845594f94dc1db02a252b5b4814ad",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x6f143fe2f7b02424ad3cad1593d6f36c0aab69d7",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      }
+    ],
+    "metis":[
+      {
+        "contractAddress": "0x90df02551bb792286e8d4f13e0e357b4bf1d6a57",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      }
+    ],
+    "base":[
+      {
+        "contractAddress": "0xa238dd80c259a72e81d7e4664a9801593f98d1c5",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x18cd499e3d7ed42feba981ac9236a278e4cdc2ee",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      }
+    ],
+    "gno":[
+      {
+        "contractAddress": "0xb50201558b00496a145fe76f7424749556e326d8",
+        "id":"aave-pool-v3",
+        "name": "Aave Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xb7e51aa2a5f4dd478f183a593f67637ed6f1d1d9",
+        "id":"aave-token-gateway-v3",
+        "name": "Aave Token Gateway",
+        "type":"defi"
+      }
+    ],
+  }
+}
