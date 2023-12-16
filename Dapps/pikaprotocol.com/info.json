@@ -1,0 +1,37 @@
+{
+    "id": "pikaprotocol.com",
+    "name": "Pika Protocol",
+    "dappLink": "https://www.pikaprotocol.com/#/trade",
+    "defaultChain": 10,
+    "supportedChains": [10],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Derivatives",
+    "information": {
+      "website": "pikaprotocol.com",
+      "subTitle": "A decentralized perpetual swap exchange.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0x9a601c5bb360811d96a23689066af316a30c3027"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PikaProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/ueEe398UWt"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PikaProtocol"
+        }
+    ]
+}

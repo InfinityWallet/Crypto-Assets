@@ -1,0 +1,33 @@
+{
+  "id": "pikaprotocol.com",
+  "name": "Pika Protocol",
+  "dappLink": "https://www.pikaprotocol.com/#/trade",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x9b86b2be8edb2958089e522fe0eb7dd5935975ab",
+        "id":"pika-perp-v4",
+        "name": "Pika Perpetual",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x060c4cb78f1a4508ad84cf2a65c6df9afe3253fe",
+        "id":"pika-vault--fee-reward-v4",
+        "name": "Pika Vault Fee Reward",
+        "type":"earn"
+      },
+      {
+        "contractAddress": "0xb67c152e69217b5acb85a2e19df13423351b0e27",
+        "id":"pika-position-manager-v4",
+        "name": "Pika Position Manager",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x835a179a9e1a57f15823efc82bc460eb2d9d2e7c",
+        "id":"pika-order-book-v4",
+        "name": "Pika Order Book",
+        "type":"defi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "kromatika.finance",
+  "name": "Kromatika",
+  "dappLink": "https://app.kromatika.finance/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0x6fe9f5616ac30e0a66b5bc68d05f081471835bf7",
+        "id":"kromatika-router",
+        "name": "Kromatika Router",
+        "type":"swap"
+      },
+      {
+        "contractAddress": "0x7314af7d05e054e96c44d7923e68d66475ffaab8",
+        "id":"kromatika-limit-order-manager",
+        "name": "Kromatika Limit Order Manager",
+        "type":"defi"
+      }
+    ],
+    "eth":[
+      {
+        "contractAddress": "0xd1fdf0144be118c30a53e1d08cc1e61d600e508e",
+        "id":"kromatika-limit-order-manager",
+        "name": "Kromatika Limit Order Manager",
+        "type":"defi"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x02c282f60fb2f3299458c2b85eb7e303b25fc6f0",
+        "id":"kromatika-limit-order-manager",
+        "name": "Kromatika Limit Order Manager",
+        "type":"defi"
+      }
+    ],
+    "matic":[
+      {
+        "contractAddress": "0x03f490ae5b59e428e6692059d0dca1b87ed42ae1",
+        "id":"kromatika-limit-order-manager",
+        "name": "Kromatika Limit Order Manager",
+        "type":"defi"
+      }
+    ]
+  }
+}
