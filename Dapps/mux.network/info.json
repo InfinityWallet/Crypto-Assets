@@ -1,0 +1,43 @@
+{
+    "id": "mux.network",
+    "name": "Mux",
+    "dappLink": "https://app.mux.network/",
+    "defaultChain": 10,
+    "supportedChains": [10, 42161, 56, 43114, 250],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Derivatives",
+    "information": {
+      "website": "mux.network",
+      "subTitle": "A decentralized leveraged trading protocol and aggregator.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+        },
+        "42161": {
+          "tokenAddress":"0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+        },
+        "56": {
+          "tokenAddress":"0x5fe80d2cd054645b9419657d3d10d26391780a7b"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/muxprotocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/bd88NrzN3N"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/muxprotocol"
+        }
+    ]
+}
