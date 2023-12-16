@@ -1,0 +1,30 @@
+{
+    "id": "aevo.xyz",
+    "name": "Aevo",
+    "dappLink": "https://app.aevo.xyz/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 42161],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Options",
+    "information": {
+      "website": "aevo.xyz",
+      "subTitle": "A high-performance decentralized options exchange.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aevoxyz"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/aevo"
+        }
+    ]
+}

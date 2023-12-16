@@ -1,0 +1,46 @@
+{
+    "id": "kromatika.finance",
+    "name": "Kromatika",
+    "dappLink": "https://app.kromatika.finance/",
+    "defaultChain": 10,
+    "supportedChains": [10, 1, 42161, 137],
+    "categories": ["DeFi", "Exchange"],
+    "label": "Order Book DEX",
+    "information": {
+      "website": "kromatika.finance",
+      "subTitle": "A decentralized order book limit trading protocol on Uniswap.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "10": {
+          "tokenAddress":"0xf98dcd95217e15e05d8638da4c91125e59590b07"
+        },
+        "1": {
+          "tokenAddress":"0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789"
+        },
+        "42161": {
+          "tokenAddress":"0x55ff62567f09906a85183b866df84bf599a4bf70"
+        },
+        "137": {
+          "tokenAddress":"0x14af1f2f02dccb1e43402339099a05a5e363b83c"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/KromatikaFi"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/Uv2Q2v26JG"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kromatika_finance"
+        }
+    ]
+}

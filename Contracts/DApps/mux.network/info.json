@@ -1,0 +1,125 @@
+{
+  "id": "mux.network",
+  "name": "Mux",
+  "dappLink": "https://app.mux.network/",
+  "contracts": {
+    "op":[
+      {
+        "contractAddress": "0xc6bd76fa1e9e789345e003b361e4a0037dfb7260",
+        "id":"mux-liquidity-pool",
+        "name": "Mux Liquidity Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x6fde9892fd5302ac3c68688085bd5b031a63bc9d",
+        "id":"mux-order-book",
+        "name": "Mux Order Book",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xc9296e12e2fe55605d9f6db5412eaa1938f0b404",
+        "id":"mux-referral-manager",
+        "name": "Mux Referral",
+        "type":"earn"
+      }
+    ],
+    "arb":[
+      {
+        "contractAddress": "0x3e0199792ce69dc29a0a36146bfa68bd7c8d6633",
+        "id":"mux-liquidity-pool",
+        "name": "Mux Liquidity Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xa19fd5ab6c8dcffa2a295f78a5bb4ac543aaf5e3",
+        "id":"mux-order-book",
+        "name": "Mux Order Book",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xaf9c4f6a0ceb02d4217ff73f3c95bbc8c7320cee",
+        "id":"mux-reward-router",
+        "name": "Mux Reward",
+        "type":"earn"
+      },
+      {
+        "contractAddress": "0xa68d96f26112377abdf3d6b9fcde9d54f2604c2a",
+        "id":"mux-referral-manager",
+        "name": "Mux Referral",
+        "type":"earn"
+      },
+      {
+        "contractAddress": "0x39a6567c3e01d28c37403c8782de78490d9204fa",
+        "id":"mux-disperse",
+        "name": "Mux Disperse",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x2ff2f1d9826ae2410979ae19b88c361073ab0918",
+        "id":"mux-aggregator",
+        "name": "Mux Aggregator",
+        "type":"defi"
+      }
+    ],
+    "avaxc":[
+      {
+        "contractAddress": "0x0ba2e492e8427fad51692ee8958ebf936bee1d84",
+        "id":"mux-liquidity-pool",
+        "name": "Mux Liquidity Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x5898c3e218a8501533d771c86e2fa37743ea2add",
+        "id":"mux-order-book",
+        "name": "Mux Order Book",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x1444edf22cd6c891391f3644b435ef6b8270c4b0",
+        "id":"mux-referral-manager",
+        "name": "Mux Referral",
+        "type":"earn"
+      }
+    ],
+    "bsc":[
+      {
+        "contractAddress": "0x855e99f768fad76dd0d3eb7c446c0b759c96d520",
+        "id":"mux-liquidity-pool",
+        "name": "Mux Liquidity Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0xa67aa293642c4e02d1b9f360b007c0dbdc451a08",
+        "id":"mux-order-book",
+        "name": "Mux Order Book",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x3efe4639eb082e22209fee29aabaf14ade5bf82b",
+        "id":"mux-referral-manager",
+        "name": "Mux Referral",
+        "type":"earn"
+      }
+    ],
+    "ftm":[
+      {
+        "contractAddress": "0x2e81f443a11a943196c88afcb5a0d807721a88e6",
+        "id":"mux-liquidity-pool",
+        "name": "Mux Liquidity Pool",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x0c30b10462cded51c3ca31e7c51019b7d25a965b",
+        "id":"mux-order-book",
+        "name": "Mux Order Book",
+        "type":"defi"
+      },
+      {
+        "contractAddress": "0x3efe4639eb082e22209fee29aabaf14ade5bf82b",
+        "id":"mux-referral-manager",
+        "name": "Mux Referral",
+        "type":"earn"
+      }
+    ]
+  }
+}
