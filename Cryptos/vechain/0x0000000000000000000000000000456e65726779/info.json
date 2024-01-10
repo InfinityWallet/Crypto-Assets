@@ -1,0 +1,42 @@
+{
+    "id": "0x0000000000000000000000000000456e65726779",
+    "name": "VeThor",
+    "tag": "VTHO",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "VIP180",
+    "information": {
+      "website": "https://www.vechain.org/",
+      "coinGeckoID": "vethor-token",
+      "coinMarketCapID": "vethor-token",
+      "description": "VeThor Token is the main method of payment in the VeChain ecosystem and it also represents the gas currency of the network. VTHO is required for every transaction made on the network, while it is also used for sending data to smart contracts.",
+      "explorer": "https://vechainstats.com/token/vtho/",
+      "coinGecko": "https://coinmarketcap.com/currencies/vethor-token/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/vethor-token/"
+    },
+    "styles": {
+      "color":"#089ac6",
+      "button_a":"#07a0cb",
+      "button_b":"#213e70",
+      "hover_a":"#0688ad",
+      "hover_b":"#1b345f"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/vechainofficial"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/vechain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/vechain_official_english"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/groups/VechainThor/about/"
+        }
+    ]
+}

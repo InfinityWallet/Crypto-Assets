@@ -1,0 +1,42 @@
+{
+    "id": "vechain",
+    "name": "Vechain",
+    "tag": "VET",
+    "decimals": 18,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://www.vechain.org/",
+      "coinGeckoID": "vechain",
+      "coinMarketCapID": "vechain",
+      "description": "VeChain is a smart contract-compatible enterprise blockchain designed to enhance the supply chain as a resilient and expandable enterprise blockchain ecosystem.",
+      "explorer": "https://vechainstats.com/",
+      "coinGecko": "https://www.coingecko.com/coins/vechain/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/vechain/"
+    },
+    "styles": {
+      "color":"#00BED7",
+      "button_a":"#00BED7",
+      "button_b":"#82BE00",
+      "hover_a":"#00a0b5",
+      "hover_b":"#669501"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/vechainofficial"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/vechain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/vechain_official_english"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/groups/VechainThor/about/"
+        }
+    ]
+}
