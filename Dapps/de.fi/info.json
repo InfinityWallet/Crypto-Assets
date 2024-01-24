@@ -1,0 +1,30 @@
+{
+    "id": "de.fi",
+    "name": "De.Fi",
+    "dappLink": "https://de.fi/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 137, 250, 42161, 10, 43114, 100, 42220, 66, 25, 8217, 1284, 324, 8453],
+    "categories": ["DeFi", "Tools"],
+    "label": "DeFi Portfolio",
+    "information": {
+      "website": "de.fi",
+      "subTitle": "A DeFi protfolio tracker and Antivirus SuperApp",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/defi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/dedotfi"
+        }
+    ]
+}
