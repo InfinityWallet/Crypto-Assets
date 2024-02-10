@@ -1,0 +1,34 @@
+{
+    "id": "0x6b0faca7ba905a86f221ceb5ca404f605e5b3131",
+    "name": "DeFi",
+    "tag": "DEFI",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://de.fi/",
+      "coinGeckoID": "de-fi",
+      "coinMarketCapID": "de-fi",
+      "description": "DeFi is a protfolio tracker and Antivirus SuperApp providing tools to secure users. The DEFI token is the native governance token for De.Fi governance and utility.",
+      "explorer": "https://etherscan.io/token/0x6b0faca7ba905a86f221ceb5ca404f605e5b3131",
+      "coinGecko": "https://www.coingecko.com/coins/defi/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/de-fi/"
+    },
+    "styles": {
+      "color":"#1e9cff",
+      "button_a":"#1492f0",
+      "button_b":"#1452f0",
+      "hover_a":"#0e80d9",
+      "hover_b":"#0d4cc9"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/defi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DeDotFi"
+        }
+    ]
+}
