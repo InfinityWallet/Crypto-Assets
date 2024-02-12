@@ -1,0 +1,47 @@
+{
+    "id": "pancakeswap.finance",
+    "name": "PancakeSwap",
+    "dappLink": "https://pancakeswap.finance/",
+    "defaultChain": 56,
+    "supportedChains": [56, 1, 1101, 324, 42161, 59144, 8453, 204],
+    "categories": ["DeFi", "Exchange", "Earn"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "pancakeswap.finance",
+      "subTitle": "PancakeSwap is a decentralized AMM exchange that first launched on BSC.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+        },
+        "56": {
+          "tokenAddress":"0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+        },
+        "42161": {
+          "tokenAddress":"0x1b896893dfc86bb67cf57767298b9073d2c1ba2c"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pancakeswap"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pancakeswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PancakeSwap"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/pancakeswap/"
+        }
+    ]
+}
