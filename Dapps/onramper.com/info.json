@@ -1,7 +1,7 @@
 {
     "id": "onramper.com",
     "name": "Onramper",
-    "dappLink": "https://widget.onramper.com/",
+    "dappLink": "https://buy.onramper.com/",
     "defaultChain": 1,
     "supportedChains": [1, 56, 137, 43114, 1666600000, 42161, 50],
     "categories": ["Exchange", "Tools"],
