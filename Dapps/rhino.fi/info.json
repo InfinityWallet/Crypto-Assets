@@ -1,0 +1,36 @@
+{
+    "id": "rhino.fi",
+    "name": "rhino.fi",
+    "dappLink": "https://app.rhino.fi/",
+    "defaultChain": 42161,
+    "supportedChains": [1, 10, 56, 5000, 42161, 59144, 5000, 34443, 43114, 169, 137, 1101, 204, 8453, 501],
+    "categories": ["DeFi"],
+    "label": "DeFi Aggregator",
+    "information": {
+      "website": "rhino.fi",
+      "subTitle": "A DeFi aggregator that helps explore the best opportunities ",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+        "hasToken": true,
+        "tokenContract": {
+          "1": {
+            "tokenAddress":"0xdddddd4301a082e62e84e43f474f044423921918"
+          },
+          "42161": {
+            "tokenAddress":"0xa7aa2921618e3d63da433829d448b58c9445a4c3"
+          }
+        }
+      },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/rhinofi"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/26sXx2KAhy"
+        }
+    ]
+}

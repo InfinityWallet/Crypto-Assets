@@ -1,0 +1,48 @@
+{
+    "id": "balancer.fi",
+    "name": "Balancer",
+    "dappLink": "https://app.balancer.fi/",
+    "defaultChain": 1,
+    "supportedChains": [1, 10, 100, 42161, 137, 1101, 8453, 43114],
+    "categories": ["DeFi", "Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "balancer.fi",
+      "subTitle": "A decentralized AMM DEX protocol for programmable liquidity pools",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+        "hasToken": true,
+        "tokenContract": {
+          "1": {
+            "tokenAddress":"0xba100000625a3754423978a60c9317c58a424e3d"
+          },
+          "10": {
+            "tokenAddress":"0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921"
+          },
+          "42161": {
+            "tokenAddress":"0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8"
+          },
+          "137": {
+            "tokenAddress":"0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3"
+          },
+          "8453": {
+            "tokenAddress":"0x4158734d47fc9692176b5085e0f52ee0da5d47f1"
+          },
+          "43114": {
+            "tokenAddress":"0xe15bcb9e0ea69e6ab9fa080c4c4a5632896298c3"
+          }
+        }
+      },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BalancerLabs"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.balancer.fi/"
+        }
+    ]
+}

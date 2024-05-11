@@ -1,0 +1,30 @@
+{
+    "id": "debank.com",
+    "name": "DeBank",
+    "dappLink": "https:/debank.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 137, 43114, 56, 100, 250, 66, 10, 42161, 42220, 199, 8217, 321, 7777777, 8453, 25, 324, 1116, 1284, 42170, 204, 59144, 1088, 40, 122, 5000, 9001, 17777, 534352],
+    "categories": ["Tools"],
+    "label": "DeFi Portfolio",
+    "information": {
+      "website": "debank.com",
+      "subTitle": "A DeFi dashboard to track your DeFi portfolio",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DebankDeFi"
+        },
+        {
+            "name": "discord",
+            "url": "https://discordapp.com/invite/KYuj8DE"
+        }
+    ]
+}

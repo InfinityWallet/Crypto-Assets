@@ -1,0 +1,34 @@
+{
+    "id": "superfluid.finance",
+    "name": "Superfluid",
+    "dappLink": "https://app.superfluid.finance/",
+    "defaultChain": 1,
+    "supportedChains": [1, 10, 56, 137, 8453, 42161, 100, 42220, 43114, 534352],
+    "categories": ["Tools"],
+    "label": "Payments",
+    "information": {
+      "website": "superfluid.finance",
+      "subTitle": "An asset streaming protocol for subscriptions, salaries, vesting, and rewards",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Superfluid_HQ"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pPzPEDMVua"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/@SuperfluidHQ"
+        }
+    ]
+}

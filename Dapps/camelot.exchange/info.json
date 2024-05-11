@@ -1,0 +1,37 @@
+{
+    "id": "camelot.exchange",
+    "name": "Camelot",
+    "dappLink": "https://app.camelot.exchange/",
+    "defaultChain": 42161,
+    "supportedChains": [42161],
+    "categories": ["DeFi", "Exchange"],
+    "label": "AMM DEX",
+    "information": {
+      "website": "camelot.exchange",
+      "subTitle": "A community driven DEX built on Arbitrum",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "42161": {
+          "tokenAddress":"0x3d9907f9a368ad0a51be60f7da3b97cf940982d8"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/camelotdex"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/r9V7rry3nz"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/camelotdex"
+        }
+    ]
+}

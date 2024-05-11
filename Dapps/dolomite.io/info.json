@@ -1,0 +1,38 @@
+{
+    "id": "dolomite.io",
+    "name": "Dolomite",
+    "dappLink": "https://app.dolomite.io/",
+    "defaultChain": 42161,
+    "supportedChains": [42161, 1101],
+    "categories": ["DeFi", "Earn", "Exchange"],
+    "label": "DEX & Lending",
+    "information": {
+      "website": "dolomite.io",
+      "subTitle": "A next-generation decentralized money market protocol and DEX",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://www.twitter.com/Dolomite_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/uDRzrB2YgP"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/dolomite_official"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Dolomite"
+        }
+    ]
+}

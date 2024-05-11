@@ -1,0 +1,34 @@
+{
+    "id": "treasure.lol",
+    "name": "Treasure",
+    "dappLink": "https://app.treasure.lol/",
+    "defaultChain": 1,
+    "supportedChains": [1, 42161],
+    "categories": ["Games", "NFTs"],
+    "label": "Gaming",
+    "information": {
+      "website": "treasure.lol",
+      "subTitle": "A game publisher building a decentralized gaming ecosystem",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Treasure_DAO"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/treasuredao"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/@PlayOnTreasure"
+        }
+    ]
+}

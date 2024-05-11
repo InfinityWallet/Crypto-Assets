@@ -1,0 +1,34 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_159_1109)">
+<path d="M500 0V500H0V0H500Z" fill="url(#paint0_linear_159_1109)"/>
+<path d="M330 410L410 330H330V410Z" fill="#4229EF"/>
+<path d="M410 250L330 330H410V250Z" fill="#5552FD"/>
+<path d="M330 330L410 250H330V330Z" fill="#9695F8"/>
+<path d="M410 170.001L330 250.001H410V170.001Z" fill="#BDBDFF"/>
+<path d="M330 250.001L410 170.001H330V250.001Z" fill="#FED84F"/>
+<path d="M90 170L170 90V170H90Z" fill="#4229EF"/>
+<path d="M250 90L170 170V90H250Z" fill="#5552FD"/>
+<path d="M170 170L250 90V170H170Z" fill="#9695F8"/>
+<path d="M330 90L250 170V90H330Z" fill="#BDBDFF"/>
+<path d="M250 170L330 90V170H250Z" fill="#FECE23"/>
+<path d="M410 90L330 170V90H410Z" fill="#FED84F"/>
+<path d="M330 170L410 90V170H330Z" fill="#FECE23"/>
+<path d="M170 330L90 410V330H170Z" fill="#FECE23"/>
+<path d="M90 410L170 330V410H90Z" fill="#FED84F"/>
+<path d="M250 330L170 410V330H250Z" fill="#FECE23"/>
+<path d="M170 410L250 330V410H170Z" fill="#9695F8"/>
+<path d="M330 330L250 410V330H330Z" fill="#625FFF"/>
+<path d="M170 250L90 330H170V250Z" fill="#FED84F"/>
+<path d="M90 330L170 250H90V330Z" fill="#9695F8"/>
+<path d="M170 170.001L90 250.001H170V170.001Z" fill="#625FFF"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_159_1109" x1="250" y1="0" x2="250" y2="500" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3E447C"/>
+<stop offset="1" stop-color="#151832"/>
+</linearGradient>
+<clipPath id="clip0_159_1109">
+<rect width="500" height="500" fill="white"/>
+</clipPath>
+</defs>
+</svg>

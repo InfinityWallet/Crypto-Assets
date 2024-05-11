@@ -1,0 +1,30 @@
+{
+    "id": "layer3.xyz",
+    "name": "Layer3",
+    "dappLink": "https://app.layer3.xyz/",
+    "defaultChain": 1,
+    "supportedChains": [1, 8453, 137, 42161, 324, 10, 501, 534352, 34443, 42220, 1088, 56, 43114, 59144, 7777777, 1101, 100, 122, 238, 196, 1313161554, 7700, 250, 7000],
+    "categories": ["NFTs", "Tools"],
+    "label": "Web3 Community",
+    "information": {
+      "website": "layer3.xyz",
+      "subTitle": "A web3 user acquisition and community incentives platform",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/layer3xyz"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/layer3"
+        }
+    ]
+}

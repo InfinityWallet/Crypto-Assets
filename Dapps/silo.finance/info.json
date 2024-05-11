@@ -1,0 +1,36 @@
+{
+    "id": "silo.finance",
+    "name": "Silo Finance",
+    "dappLink": "https://app.silo.finance/",
+    "defaultChain": 1,
+    "supportedChains": [1, 42161],
+    "categories": ["Lend", "DeFi"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "silo.finance",
+      "subTitle": "A decentralized protocol for lending and borrow assets",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8"
+        },
+        "42161": {
+          "tokenAddress":"0x0341c0c0ec423328621788d4854119b97f44e391"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SiloFinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/silo-finance"
+        }
+    ]
+}
