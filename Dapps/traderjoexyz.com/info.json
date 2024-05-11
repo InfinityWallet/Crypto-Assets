@@ -3,7 +3,7 @@
     "name": "Trader Joe",
     "dappLink": "https://traderjoexyz.com/",
     "defaultChain": 43114,
-    "supportedChains": [43114],
+    "supportedChains": [43114, 42161, 1, 56],
     "categories": ["Exchange", "DeFi", "Earn"],
     "label": "AMM DEX",
     "information": {
