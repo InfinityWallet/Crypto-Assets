@@ -1,0 +1,30 @@
+{
+    "id": "abracadabra.money",
+    "name": "Abracadabra",
+    "dappLink": "https://app.abracadabra.money/",
+    "defaultChain": 1,
+    "supportedChains": [1, 42161, 10, 56, 2222, 43114, 250, 137, 8453, 1285, 59144],
+    "categories": ["DeFi"],
+    "label": "CDP",
+    "information": {
+      "website": "abracadabra.money",
+      "subTitle": "A Omnichain DeFi lending platform utilizing interest-bearing tokens as collateral to mint Magic Internet Money a USD stablecoin.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MIM_Spell"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/mim"
+        }
+    ]
+}

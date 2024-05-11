@@ -1,0 +1,33 @@
+{
+    "id": "bounce.finance",
+    "name": "Bounce",
+    "dappLink": "https://app.bounce.finance/",
+    "defaultChain": 1,
+    "supportedChains": [1, 56, 42161, 137, 10, 43114, 250, 42220, 100, 8217, 1101, 59144, 8453],
+    "categories": ["DeFi", "Tools"],
+    "label": "Launchpad",
+    "information": {
+      "website": "bounce.finance",
+      "subTitle": "A platform for customized decentralized auctions",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+        "hasToken": true,
+        "tokenContract": {
+          "1": {
+            "tokenAddress":"0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096"
+          }
+        }
+      },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bounce_finance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bounce_finance"
+        }
+    ]
+}

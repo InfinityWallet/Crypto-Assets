@@ -1,0 +1,49 @@
+{
+    "id": "pendle.finance",
+    "name": "Pendle",
+    "dappLink": "https://app.pendle.finance/",
+    "defaultChain": 1,
+    "supportedChains": [1, 10, 56, 5000, 42161],
+    "categories": ["Earn", "DeFi"],
+    "label": "Yield",
+    "information": {
+      "website": "pendle.finance",
+      "subTitle": "A DeFi protocol that enables users to trade tokenized future yields",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+        "hasToken": true,
+        "tokenContract": {
+          "1": {
+            "tokenAddress":"0x808507121b80c02388fad14726482e061b8da827"
+          },
+          "10": {
+            "tokenAddress":"0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1"
+          },
+          "56": {
+            "tokenAddress":"0xb3ed0a426155b79b898849803e3b36552f7ed507"
+          },
+          "42161": {
+            "tokenAddress":"0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8"
+          },
+          "43114 ": {
+            "tokenAddress":"0xfb98b335551a418cd0737375a2ea0ded62ea213b"
+          }
+        }
+      },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pendle_fi"
+        },
+        {
+            "name": "discord",
+            "url": "https://pendle.finance/discord"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pendlefinance"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "jumper.exchange",
+    "name": "Jumper",
+    "dappLink": "https://jumper.exchange/",
+    "defaultChain": 42161,
+    "supportedChains": [1, 10, 56, 100, 122, 137, 250, 324, 1088, 1101, 1284, 1285, 8453, 34443, 43114, 59144, 42161, 501],
+    "categories": ["DeFi", "Exchange"],
+    "label": "DEX Aggregator",
+    "information": {
+      "website": "jumper.exchange",
+      "subTitle": "A decentralized exchange aggregator to get the best rates & gas topup service.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/JumperExchange"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/lifi"
+        }
+    ]
+}

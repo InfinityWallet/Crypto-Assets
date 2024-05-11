@@ -1,0 +1,37 @@
+{
+    "id": "renzoprotocol.com",
+    "name": "Renzo",
+    "dappLink": "https://app.renzoprotocol.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 42161, 238, 59144, 56, 34443, 8453],
+    "categories": ["DeFi", "Earn"],
+    "label": "ETH Staking",
+    "information": {
+      "website": "renzoprotocol.com",
+      "subTitle": "An Ethereum restaking protocol based on ther EigenLayer",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0x3b50805453023a91a8bf641e279401a0b23fa6f9"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/RenzoProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/RenzoProtocolChat"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/FMwGPDXXtf"
+        }
+    ]
+}

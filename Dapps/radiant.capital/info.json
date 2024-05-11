@@ -1,0 +1,38 @@
+{
+    "id": "radiant.capital",
+    "name": "Radiant",
+    "dappLink": "https://app.radiant.capital/",
+    "defaultChain": 42161,
+    "supportedChains": [1, 56, 42161],
+    "categories": ["Lend", "DeFi"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "radiant.capital",
+      "subTitle": "A decentralized platform for lending and borrow assets.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/RDNTCapital"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/radiantcapital"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/radiantcapitalofficial"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/c/RadiantCapital/"
+        }
+    ]
+}
