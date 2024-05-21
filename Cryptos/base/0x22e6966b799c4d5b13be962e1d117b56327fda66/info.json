@@ -1,0 +1,38 @@
+{
+    "id": "0x22e6966b799c4d5b13be962e1d117b56327fda66",
+    "name": "Synthetix",
+    "tag": "SNX",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://www.synthetix.io/",
+      "coinGeckoID": "havven",
+      "coinMarketCapID": "synthetix-network-token",
+      "description": "Synthetix is a new financial primitive enabling the creation of synthetic assets, offering unique derivatives and exposure to real-world assets on the blockchain.",
+      "explorer": "https://basescan.org/token/0x22e6966b799c4d5b13be962e1d117b56327fda66",
+      "coinGecko": "https://coinmarketcap.com/currencies/synthetix-network-token/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/synthetix-network-token/"
+    },
+    "styles": {
+      "color":"#3f30c3",
+      "button_a":"#22206b",
+      "button_b":"#17103f",
+      "hover_a":"#1d1b62",
+      "hover_b":"#140c41"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/synthetix_io"
+        },
+        {
+            "name": "discord",
+            "url": "https://discordapp.com/invite/AEdUHzt"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/synthetix_io"
+        }
+    ]
+}
