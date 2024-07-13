@@ -1,0 +1,42 @@
+{
+    "id": "aptos",
+    "name": "Aptos",
+    "tag": "APT",
+    "decimals": 8,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://aptosfoundation.org/",
+      "coinGeckoID": "aptos",
+      "coinMarketCapID": "aptos",
+      "description": "Aptos is a decentralized blockchain designed for high scalability, security, and performance, utilizing the Move programming language and a Byzantine Fault Tolerant (BFT) consensus mechanism to support complex decentralized applications.",
+      "explorer": "https://aptoscan.com/",
+      "coinGecko": "https://www.coingecko.com/coins/aptos",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/aptos/"
+    },
+    "styles": {
+      "color":"#1ed3c2",
+      "button_a":"#1ed3c2",
+      "button_b":"#da9d39",
+      "hover_a":"#15c0b0",
+      "hover_b":"#cb8f2e"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aptos_network"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/aptos"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AptosTG"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/aptosnetwork"
+        }
+    ]
+}
