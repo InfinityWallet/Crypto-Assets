@@ -1,0 +1,30 @@
+{
+    "id": "infinitywallet.io",
+    "name": "Infinity Wallet",
+    "dappLink": "https://infinitywallet.io/",
+    "defaultChain": 1,
+    "supportedChains": [1, 137, 43114, 56, 100, 250, 66, 10, 42161, 42220, 199, 8217, 321, 7777777, 8453, 25, 324, 1116, 1284, 42170, 204, 59144, 1088, 40, 122, 5000, 9001, 17777, 534352],
+    "categories": ["Wallet", "DeFi", "Exchange"],
+    "label": "All-in-one Wallet",
+    "information": {
+      "website": "infinitywallet.io",
+      "subTitle": "A one-stop desktop wallet for all your crypto needs",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/InfinityWallet"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/InfinityEcosystem/"
+        }
+    ]
+}
