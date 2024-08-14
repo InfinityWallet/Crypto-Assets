@@ -1,0 +1,30 @@
+{
+    "id": "topaz.so",
+    "name": "Topaz",
+    "dappLink": "https://www.topaz.so/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Marketplace", "NFTs"],
+    "label": "NFT Marketplace",
+    "information": {
+      "website": "topaz.so",
+      "subTitle": "A NFT marketplace for Aptos.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TopazMarket"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/SWVxuJkFSH"
+        }
+    ]
+}

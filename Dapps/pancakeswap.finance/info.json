@@ -3,7 +3,7 @@
     "name": "PancakeSwap",
     "dappLink": "https://pancakeswap.finance/",
     "defaultChain": 56,
-    "supportedChains": [56, 1, 1101, 324, 42161, 59144, 8453, 204],
+    "supportedChains": [56, 1, 1101, 324, 42161, 59144, 8453, 204, 637],
     "categories": ["DeFi", "Exchange", "Earn"],
     "label": "AMM DEX",
     "information": {

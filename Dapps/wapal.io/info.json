@@ -1,0 +1,30 @@
+{
+    "id": "wapal.io",
+    "name": "Wapal",
+    "dappLink": "https://wapal.io/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Marketplace", "NFTs"],
+    "label": "NFT Marketplace",
+    "information": {
+      "website": "wapal.io",
+      "subTitle": "A NFT marketplace on Aptos.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/wapal_official"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/g8qPYGF2Jc"
+        }
+    ]
+}

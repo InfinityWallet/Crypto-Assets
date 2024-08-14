@@ -1,0 +1,30 @@
+{
+    "id": "aptosnames.com",
+    "name": "Aptos Names",
+    "dappLink": "https://www.aptosnames.com/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Tools"],
+    "label": "Name Service",
+    "information": {
+      "website": "aptosnames.com",
+      "subTitle": "A decentralised naming service for Aptos",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aptoslabs/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/aptosnames"
+        }
+    ]
+}

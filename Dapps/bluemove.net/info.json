@@ -1,0 +1,37 @@
+{
+    "id": "bluemove.net",
+    "name": "BlueMove",
+    "dappLink": "https://bluemove.net/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Marketplace", "NFTs"],
+    "label": "NFT Marketplace",
+    "information": {
+      "website": "bluemove.net",
+      "subTitle": "A marketplace for NFTs on Aptos.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "637": {
+          "tokenAddress":"0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BlueMove_OA"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/bluemove"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/@BlueMoveNFT"
+        }
+    ]
+}

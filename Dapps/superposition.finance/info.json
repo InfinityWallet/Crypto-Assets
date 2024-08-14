@@ -1,0 +1,26 @@
+{
+    "id": "superposition.finance",
+    "name": "Superposition",
+    "dappLink": "https://app.superposition.finance/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "superposition.finance",
+      "subTitle": "A decentralized protocol for lending and borrowing",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/superp_fi"
+        }
+    ]
+}

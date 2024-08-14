@@ -1,0 +1,30 @@
+{
+    "id": "ariesmarkets.xyz",
+    "name": "Aries",
+    "dappLink": "https://app.ariesmarkets.xyz/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "ariesmarkets.xyz",
+      "subTitle": "A decentralised margin trading protocol on Aptos that allows users to borrow, lend, swap, and trade with margin",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AriesMarkets"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/wD97KT29uh"
+        }
+    ]
+}
