@@ -4,7 +4,7 @@
     "dappLink": "https://app.venus.io/",
     "defaultChain": 56,
     "supportedChains": [56],
-    "categories": ["DeFi", "Earn"],
+    "categories": ["Lend", "DeFi", "Earn"],
     "label": "Lend & Borrow",
     "information": {
       "website": "venus.io",

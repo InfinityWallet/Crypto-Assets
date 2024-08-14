@@ -1,0 +1,33 @@
+{
+    "id": "tortuga.finance",
+    "name": "Tortuga",
+    "dappLink": "https://app.tortuga.finance/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Earn", "DeFi"],
+    "label": "Liquid Staking",
+    "information": {
+      "website": "tortuga.finance",
+      "subTitle": "A protocol for liquid staking Aptos.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "637": {
+          "tokenAddress":"0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TortugaFinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/tortuga-finance"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "amnis.finance",
+    "name": "Amnis Finance",
+    "dappLink": "https://amnis.finance/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["DeFi", "Earn"],
+    "label": "Aptos Staking",
+    "information": {
+      "website": "amnis.finance",
+      "subTitle": "A protocol for liquidity staking on Aptos.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "637": {
+          "tokenAddress":"0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5e4b046659fa35796bd11542a::amapt_token::AmnisApt"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AmnisFinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://amnis.finance/discord"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AmnisChannel"
+        }
+    ]
+}

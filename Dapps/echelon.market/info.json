@@ -1,0 +1,30 @@
+{
+    "id": "echelon.market",
+    "name": "Echelon",
+    "dappLink": "https://app.echelon.market/dashboard",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "echelon.market",
+      "subTitle": "A decentralized protocol to earn lending or borrow assets.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EchelonMarket"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/echelonmarket"
+        }
+    ]
+}

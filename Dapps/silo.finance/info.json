@@ -4,7 +4,7 @@
     "dappLink": "https://app.silo.finance/",
     "defaultChain": 1,
     "supportedChains": [1, 42161],
-    "categories": ["Lend", "DeFi"],
+    "categories": ["Lend", "DeFi", "Earn"],
     "label": "Lend & Borrow",
     "information": {
       "website": "silo.finance",

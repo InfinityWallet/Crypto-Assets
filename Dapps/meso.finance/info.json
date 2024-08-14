@@ -1,0 +1,34 @@
+{
+    "id": "meso.finance",
+    "name": "Meso Finance",
+    "dappLink": "https://meso.finance/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "meso.finance",
+      "subTitle": "A pool-based lending platform on aptos",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/Meso_Finance"
+        },
+        {
+            "name": "discord",
+            "url": "https://meso.finance/discord"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/+2CUsHJ6shZwyMDc9"
+        }
+    ]
+}

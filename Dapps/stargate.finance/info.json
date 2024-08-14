@@ -3,7 +3,7 @@
     "name": "Stargate",
     "dappLink": "https://stargate.finance/",
     "defaultChain": 10,
-    "supportedChains": [10, 1, 56, 43114, 137, 42161, 250, 1088, 8453, 59144, 2222],
+    "supportedChains": [10, 1, 56, 43114, 137, 42161, 250, 1088, 8453, 59144, 2222, 637],
     "categories": ["DeFi", "Exchange"],
     "label": "Bridge",
     "information": {

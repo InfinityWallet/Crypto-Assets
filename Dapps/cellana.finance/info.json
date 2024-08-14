@@ -1,0 +1,37 @@
+{
+    "id": "cellana.finance",
+    "name": "Cellana",
+    "dappLink": "https://app.cellana.finance/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Exchange", "Earn", "DeFi"],
+    "label": "DEX",
+    "information": {
+      "website": "cellana.finance",
+      "subTitle": "A community owned Decentralized Exchange",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "637": {
+          "tokenAddress":"0x2ebb2ccac5e027a87fa0e2e5f656a3a4238d6a48d93ec9b610d570fc0aa0df12"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CellanaFinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://cellana.finance/discord"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CellanaFinance"
+        }
+    ]
+}

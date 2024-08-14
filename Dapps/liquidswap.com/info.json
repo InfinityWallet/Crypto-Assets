@@ -1,0 +1,37 @@
+{
+    "id": "liquidswap.com",
+    "name": "Liquidswap",
+    "dappLink": "https://liquidswap.com/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Exchange", "Earn", "DeFi"],
+    "label": "DEX",
+    "information": {
+      "website": "liquidswap.com",
+      "subTitle": "The 1st AMM Decentralized Exchange on Aptos",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "637": {
+          "tokenAddress":"0x53a30a6e5936c0a4c5140daed34de39d17ca7fcae08f947c02e979cef98a3719"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PontemNetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/44QgPFHYqs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pontemnetworkchat"
+        }
+    ]
+}

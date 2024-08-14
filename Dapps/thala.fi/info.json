@@ -1,0 +1,33 @@
+{
+    "id": "thala.fi",
+    "name": "Thala",
+    "dappLink": "https://app.thala.fi/overview",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["DeFi", "Exchange"],
+    "label": "DEX & Borrowing",
+    "information": {
+      "website": "thala.fi",
+      "subTitle": "A protocol for borrowing, with over-collateralized stablecoin the Move Dollar and capital-efficient liquidity provisioning via a rebalancing AMM.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "637": {
+          "tokenAddress":"0x7fd500c11216f0fe3095d0c4b8aa4d64a4e2e04f83758462f2b127255643615::thl_coin::THL"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ThalaLabs"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/thala"
+        }
+    ]
+}

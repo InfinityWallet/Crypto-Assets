@@ -1,0 +1,34 @@
+{
+    "id": "merkle.trade",
+    "name": "Merkle Trade",
+    "dappLink": "https://app.merkle.trade/",
+    "defaultChain": 637,
+    "supportedChains": [637],
+    "categories": ["Exchange", "Earn", "DeFi"],
+    "label": "Perpetual DEX",
+    "information": {
+      "website": "merkle.trade",
+      "subTitle": "The first-ever gamified perpetual DEX",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": false,
+      "tokenContract": {
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/merkle_trade"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/uV2A5nSpng"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/merkle_trade_official"
+        }
+    ]
+}
