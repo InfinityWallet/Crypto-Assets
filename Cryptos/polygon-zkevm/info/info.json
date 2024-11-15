@@ -1,0 +1,38 @@
+{
+    "id": "ethereum",
+    "name": "Ethereum",
+    "tag": "ETH",
+    "decimals": 18,
+    "type": "coin",
+    "tokenType": "",
+    "information": {
+      "website": "https://ethereum.org/",
+      "coinGeckoID": "ethereum",
+      "coinMarketCapID": "ethereum",
+      "description": "Ethereum is used for transactions on the Polygon zkEVM Chain, which is a true L2 side chain for Ethereum.",
+      "explorer": "https://zkevm.polygonscan.io/",
+      "coinGecko": "https://www.coingecko.com/coins/ethereum/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/ethereum/"
+    },
+    "styles": {
+      "color":"#5960a0",
+      "button_a":"#3d3f61",
+      "button_b":"#2a2b4e",
+      "hover_a":"#383a5a",
+      "hover_b":"#28294c"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/optimismPBC"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord-gateway.optimism.io/"
+        },
+        {
+            "name": "medium",
+            "url": "https://optimismpbc.medium.com/"
+        }
+    ]
+}
