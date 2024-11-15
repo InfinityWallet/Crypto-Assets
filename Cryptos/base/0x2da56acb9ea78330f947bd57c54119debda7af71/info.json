@@ -1,0 +1,34 @@
+{
+    "id": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+    "name": "Mog Coin",
+    "tag": "MOG",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://mogcoin.xyz/",
+      "coinGeckoID": "mog-coin",
+      "coinMarketCapID": "mog-coin",
+      "description": "Mog Coin (MOG) is a meme-based cryptocurrency developed on the Ethereum blockchain. It promotes community engagement through internet culture, fostering a social ecosystem for sharing and trading memes. MOG incorporates a token-burning mechanism to limit supply over time.",
+      "explorer": "https://basescan.org/token/0x2da56acb9ea78330f947bd57c54119debda7af71",
+      "coinGecko": "https://coingecko.com/coins/mog-coin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/mog-coin/"
+    },
+    "styles": {
+      "color":"#eaca27",
+      "button_a":"#eaca27",
+      "button_b":"#083adb",
+      "hover_a":"#d4b721",
+      "hover_b":"#0532c2"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MogCoinEth"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/mogcoinYUP"
+        }
+    ]
+}

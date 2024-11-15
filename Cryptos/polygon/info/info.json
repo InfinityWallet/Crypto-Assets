@@ -1,7 +1,7 @@
 {
     "id": "polygon",
     "name": "Polygon",
-    "tag": "MATIC",
+    "tag": "POL",
     "decimals": 18,
     "type": "coin",
     "tokenType": "",

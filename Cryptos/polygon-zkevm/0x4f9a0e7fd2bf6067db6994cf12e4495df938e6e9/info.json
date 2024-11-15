@@ -1,0 +1,24 @@
+{
+    "id": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+    "name": "Wrapped Ether",
+    "tag": "WETH",
+    "decimals": 18,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://weth.io/",
+      "coinGeckoID": "weth",
+      "coinMarketCapID": "weth",
+      "description": "Wrapped Ether (WETH) is a token pegged 1:1 to Ethereum (ETH) and allows ETH to be more universally compatible across all dApps and smart contracts.",
+      "explorer": "https://zkevm.polygonscan.com/token/0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+      "coinGecko": "https://coinmarketcap.com/currencies/weth/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/weth/"
+    },
+    "styles": {
+      "color":"#eb4376",
+      "button_a":"#ec448e",
+      "button_b":"#c92a40",
+      "hover_a":"#d8397f",
+      "hover_b":"#b52136"
+    }
+}

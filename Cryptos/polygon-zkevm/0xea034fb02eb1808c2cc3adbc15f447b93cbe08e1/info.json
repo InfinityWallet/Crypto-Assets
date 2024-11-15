@@ -1,0 +1,30 @@
+{
+    "id": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "name": "Wrapped Bitcoin",
+    "tag": "WBTC",
+    "decimals": 8,
+    "type": "token",
+    "tokenType": "ERC20",
+    "information": {
+      "website": "https://wbtc.network/",
+      "coinGeckoID": "wrapped-bitcoin",
+      "coinMarketCapID": "wrapped-bitcoin",
+      "description": "Wrapped Bitcoin (WBTC) is an ERC-20 token that is pegged to Bitcoin (BTC) and redeemable 1:1 for Bitcoin.",
+      "explorer": "https://zkevm.polygonscan.com/token/0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+      "coinGecko": "https://www.coingecko.com/coins/wrapped-bitcoin/",
+      "coinMarketCap": "https://coinmarketcap.com/currencies/wrapped-bitcoin/"
+    },
+    "styles": {
+      "color":"#764a95",
+      "button_a":"#5F3F76 ",
+      "button_b":"#2c223d",
+      "hover_a":"#55376b",
+      "hover_b":"#2b203b"
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WrappedBTC"
+        }
+    ]
+}
