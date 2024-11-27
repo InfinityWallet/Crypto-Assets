@@ -1,7 +1,7 @@
 {
-    "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "id": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
     "name": "USD Coin",
-    "tag": "USDC.e",
+    "tag": "USDC",
     "decimals": 6,
     "type": "token",
     "tokenType": "MATIC",
@@ -10,7 +10,7 @@
       "coinGeckoID": "usd-coin",
       "coinMarketCapID": "usd-coin",
       "description": "An open source, smart contract-based stablecoin by Circle and Coinbase. USD Coin, is an ERC-20 token creating possibilities in payments, lending, investing, trading and trade finance. USDC are issued by regulated and licensed financial institutions that maintain full reserves of the equivalent fiat currency.",
-      "explorer": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "explorer": "https://polygonscan.com/token/0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
       "coinGecko": "https://www.coingecko.com/coins/usd-coin/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/usd-coin/"
     },

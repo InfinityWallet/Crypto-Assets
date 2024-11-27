@@ -1,7 +1,7 @@
 {
-    "id": "0xa2036f0538221a77a3937f1379699f44945018d0",
+    "id": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
     "name": "Polygon",
-    "tag": "MATIC",
+    "tag": "POL",
     "decimals": 18,
     "type": "token",
     "tokenType": "ERC20",
@@ -10,7 +10,7 @@
       "coinGeckoID": "matic-network",
       "coinMarketCapID": "polygon",
       "description": "Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.",
-      "explorer": "https://zkevm.polygonscan.com/token/0xa2036f0538221a77a3937f1379699f44945018d0",
+      "explorer": "https://etherscan.io/token/0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
       "coinGecko": "https://coinmarketcap.com/currencies/polygon/",
       "coinMarketCap": "https://coinmarketcap.com/currencies/polygon/"
     },
