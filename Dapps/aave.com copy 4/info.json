@@ -1,0 +1,40 @@
+{
+    "id": "aave.com",
+    "name": "Aave",
+    "dappLink": "https://app.aave.com/",
+    "defaultChain": 1,
+    "supportedChains": [1, 137, 43114, 10, 42161],
+    "categories": ["Lend", "DeFi", "Earn"],
+    "label": "Lend & Borrow",
+    "information": {
+      "website": "aave.com",
+      "subTitle": "A decentralized protocol & interface to earn intrest on lending or borrow assets.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xfb6115445bff7b52feb98650c87f44907e58f802"
+        },
+        "56": {
+          "tokenAddress":"0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/aaveaave"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Aavesome"
+        },
+        {
+            "name": "discord",
+            "url": "https://aave.com/discord"
+        }
+    ]
+}

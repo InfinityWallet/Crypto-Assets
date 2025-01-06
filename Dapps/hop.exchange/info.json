@@ -1,0 +1,45 @@
+{
+    "id": "hop.exchange",
+    "name": "Hop",
+    "dappLink": "https://app.hop.exchange/",
+    "defaultChain": 1,
+    "supportedChains": [1, 137, 10, 42161, 8453, 59144, 1101],
+    "categories": ["Exchange", "DeFi", "Earn"],
+    "label": "DEX Bridge",
+    "information": {
+      "website": "hop.exchange",
+      "subTitle": "A cross-chain decentralized rollup exchange & bridge",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+        },
+        "10": {
+          "tokenAddress":"0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+        },
+        "137": {
+          "tokenAddress":"0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+        },
+        "42161": {
+          "tokenAddress":"0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+        },
+        "8453": {
+          "tokenAddress":"0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/HopProtocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/PwCF88emV4"
+        }
+    ]
+}
