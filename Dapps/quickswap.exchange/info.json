@@ -1,0 +1,43 @@
+{
+    "id": "quickswap.exchange",
+    "name": "QuickSwap",
+    "dappLink": "https://quickswap.exchange/",
+    "defaultChain": 1,
+    "supportedChains": [1, 137, 1101],
+    "categories": ["Exchange", "DeFi", "Earn"],
+    "label": "DEX & Perps",
+    "information": {
+      "website": "quickswap.exchange",
+      "subTitle": "A decentralized exchange for AMM trading, perpetual trading, and earning.",
+      "coinMarketCap": "",
+      "coinGecko": ""
+    },
+    "tokenInformation": {
+      "hasToken": true,
+      "tokenContract": {
+        "1": {
+          "tokenAddress":"0xd2ba23de8a19316a638dc1e7a9adda1d74233368"
+        },
+        "137": {
+          "tokenAddress":"0xb5c064f955d8e7f38fe0460c556a72987494ee17"
+        },
+        "1101": {
+          "tokenAddress":"0x68286607a1d43602d880d349187c3c48c0fd05e6"
+        }
+      }
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/QuickswapDEX"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/QuickSwapDEX"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/dSMd7AFH36"
+        }
+    ]
+}
